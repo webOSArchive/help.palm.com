@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Work with slide shows and display options in a Microsoft PowerPoint® presentation",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Switch among slides in a PowerPoint&reg; slideshow",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/18327.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zoom into and pan a slide",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/18341.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

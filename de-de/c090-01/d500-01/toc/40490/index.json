@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Zertifikatmanager verwenden",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Zertifikate aus dem USB-Laufwerksspeicher installieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40189.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zertifikate aus E-Mail-Anhängen installieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40190.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zertifikatsinformationen anzeigen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/23335.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zertifikate löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/23321.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Photos",
+	"app_name": "photos",
+	"chat_appId": "photos",
+	"icon": "file:///usr/palm/applications/com.palm.app.photos/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Utilisation de l&#39;appareil photo",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c000-01/d300-01/toc/38429/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visionnage de photos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18705.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout d&#39;une photo à un contact",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18557.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement d&#39;une photo comme fond d&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18651.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Partage de photos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18665.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Classement des photos dans des albums",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18617.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visionnage de photos dans un diaporama",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18719.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuration d&#39;un compte de photos en ligne sur votre téléphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18527.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Chargement d&#39;une photo sur le Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18675.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;une photo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18603.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un album",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18575.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un compte de photos en ligne",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/18589.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Réveil",
+	"app_name": "clock",
+	"chat_appId": "clock",
+	"icon": "file:///usr/palm/applications/com.palm.app.clock/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Gestion du réveil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/42172.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Définition d&#39;une alarme",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/25569.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Annulation d&#39;une alarme",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/25651.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réglage du volume de l&#39;alarme",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/25579.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;une alarme",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/25595.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

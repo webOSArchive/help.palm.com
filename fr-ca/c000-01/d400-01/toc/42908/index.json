@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Calculatrice",
+	"app_name": "calculator",
+	"chat_appId": "calculator",
+	"icon": "file:///usr/palm/applications/com.palm.app.calculator/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Utilisation de la calculatrice",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/26309.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

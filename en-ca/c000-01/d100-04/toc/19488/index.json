@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Set up email",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Set up email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/22525.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set up email: Microsoft Exchange and Lotus Notes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/33018.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set up email when automatic setup fails",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/22559.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enter advanced account settings",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/22489.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change account login settings",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/22461.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Rename an email account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/22499.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete an email account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/22447.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Sauvegarde",
+	"app_name": "backup",
+	"chat_appId": "backup",
+	"icon": "file:///usr/palm/applications/com.palm.app.backup/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Compte HP webOS. De quoi s&#39;agit-il&nbsp;?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40221.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sauvegarde manuelle d&#39;informations dans votre compte HP webOS",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40224.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Effacement des informations d&#39;un compte HP webOS à partir du serveur",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40226.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mise à jour des paramètres de votre compte HP webOS",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40229.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

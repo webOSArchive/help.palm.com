@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! E-mail",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "In che modo si inviano e si ricevono i messaggi e-mail sullo smartphone?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/22109.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Posta in arrivo unificata in E-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/22039.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come rispondere agli inviti a riunioni",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/22063.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Invio di messaggi e-mail da un&#39;altra applicazione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/42381.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

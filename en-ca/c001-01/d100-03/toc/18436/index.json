@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Wi-Fi",
+	"app_name": "wifi",
+	"chat_appId": "wifi",
+	"icon": "file:///usr/palm/applications/com.palm.app.wifi/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Turn Wi-Fi on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d100-03/article/4903.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connect to a new open network",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d100-03/article/3329.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connect to a new secure Wi-Fi network",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d100-03/article/4015.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connect to a previously used Wi-Fi network",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d100-03/article/36374.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Disconnect from a Wi-Fi network",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d100-03/article/4575.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Put Wi-Fi to sleep when the screen is off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d100-03/article/4747.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Customize Wi-Fi connection settings",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d100-03/article/4335.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

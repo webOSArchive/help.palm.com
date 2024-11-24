@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Personalización de la configuración de correo electrónico",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Configuración de las preferencias de correo electrónico",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/22861.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorganización de las cuentas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/22837.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación/desactivación de avisos de correo electrónico nuevo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/22821.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

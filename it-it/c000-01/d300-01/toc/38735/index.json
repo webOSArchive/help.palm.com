@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Uso di celle, fogli e dati in un foglio di calcolo di Microsoft Excel®",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Visualizzazione del contenuto delle celle in un foglio di calcolo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/18409.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Scorrimento di righe e colonne in un foglio di lavoro",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/18395.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Passaggio da un foglio di lavoro all&#39;altro in un foglio di calcolo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/18423.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ridimensionamento di colonne in un foglio di calcolo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/18365.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

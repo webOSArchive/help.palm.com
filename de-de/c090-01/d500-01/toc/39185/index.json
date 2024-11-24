@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Standortbasierte Dienste",
+	"app_name": "location",
+	"chat_appId": "location",
+	"icon": "file:///usr/palm/applications/com.palm.app.location/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "An Anwendungen übertragene Standortinformationen verwalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/23072.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "An Websites übertragene Standortinformationen verwalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/26775.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Google-Dienste aktivieren/deaktivieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/37569.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

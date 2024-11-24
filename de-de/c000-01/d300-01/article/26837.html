@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+   <head>
+ <script type="text/javascript" src="/js/jquery.min.js"></script>
+ 
+
+ <script type="text/javascript" src="/js/analytics_super_set_var.js"></script>
+</head>
+    <base href="http://help.palm.com:80/">
+    
+    <title>Benachrichtigungen anzeigen und verwenden</title>
+<meta http-equiv="Content-Type"	content=" text/html;charset=UTF-8" />
+    
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">    
+	<meta name="keywords" content="reagieren,Hinweis,Benachrichtigung,Erinnerung,Alarm,Gestenbereich,blinken,Licht">
+	<meta name="Content-Language" content="de-de">
+	<meta name="help_application_icon" content="basics">
+	<meta name="help_application" content="Grundlagen">
+	<meta name="help_site" content="help_palm_com">
+	<meta name="carrier_code" content="c000-01">
+	<meta name="device_code" content="d300-01">
+	<meta http-equiv="description" content="Benachrichtigungen anzeigen und verwenden">
+
+	
+	 	
+		<meta name="viewport" content="initial-scale=1.0, width=device-width, height=device-height, user-scalable=no" />
+		<link type="text/css" rel="stylesheet" href="/css/custom.css" />
+	   
+	
+	
+	<!--
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	-->
+	<link type="text/css" rel="stylesheet" href="/css/help_article.css" />
+	<link type="text/css" rel="stylesheet" href="/css/link_to_chat.css" />
+
+	<style type="text/css">
+		
+			#header h1.app_icon{ background:url('/images/app_icons/basics.png') no-repeat left center; }
+		
+		#header h1.app_icon span { display: table-cell; height:32px; vertical-align: middle; }
+	</style>
+
+	<script type="text/javascript">
+		var locale = "de-de";
+		var carrier = "c000-01";
+		var device = "d300-01";
+		var baseURL = "http://help.palm.com:80/";
+		var clinkarticletemplate = "clinkarticle";
+		var clinktopictemplate = "clinktopic";
+		function buildHelpURL(appname,articlecategory,objecttype)
+		{
+			if(objecttype == 'c')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+clinkarticletemplate+"/"+articlecategory+".html";
+			}else if(objecttype == 'p')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+clinktopictemplate+"/"+articlecategory+".json";
+			}else if(objecttype == 't')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+articlecategory+"/index.json";
+			}
+			window.location.href=url;
+			//alert("URL:"+url);
+		}
+	</script>
+	
+			
+	
+
+  
+  
+  <body>
+  <div id="wrap">
+ <span id="header">
+  <h1 class="app_icon"><span>Benachrichtigungen anzeigen und verwenden</span></h1>
+  </span>
+  <span id="content">
+
+    	<span class="inner">
+
+
+ 
+ 			<P>Benachrichtigungen werden am unteren Bildschirmrand angezeigt und weisen auf Ereignisse wie neue Mailbox-Nachrichten, E-Mails und bevorstehende Termine hin. Es gibt vier Arten von Benachrichtigungen.</P>
+<P><STRONG>Banneralarme</STRONG> werden in einem kleinen Streifen am unteren Bildschirmrand angezeigt. Diese Alarme bestätigen eine Aktion (z.&nbsp;B. das Markieren oder Kopieren von Text) oder benachrichtigen Sie über ein Element, mit dem Sie interagieren können (z.&nbsp;B. ein verpasster Anruf oder eine eingehende SMS). Wenn Sie nach einigen Sekunden nicht auf ein Banner getippt haben, wird es auf dem unteren Bildschirmrand als Symbol angezeigt. Tippen Sie unten auf den Bildschirm, um die Alarme als Dashboard-Elemente anzuzeigen.</P>
+<P><STRONG>Dashboard-Elemente</STRONG> bieten eine erweiterte Ansicht der Benachrichtigungen, mit denen Sie interagieren können. Wenn ein Dashboard angezeigt wird, tippen Sie auf ein Element, um Aktionen dafür auszuführen. Eine Zahl neben einem Dashboard-Element gibt an, auf wie viele Elemente sich die Benachrichtigung bezieht.</P>
+<P>Für einige Dashboard-Elemente können Sie mehrere Aktionen ausführen. Beispiel:</P>
+<UL>
+<LI>Tippen Sie beim Dashboard-Element für den Kalender auf das Kalendersymbol, um den Kalender mit dem angezeigten Ereignis in der Tagesanzeige zu öffnen, oder tippen Sie auf den Ereignisnamen, um den Bildschirm mit den Ereignisdetails zu öffnen. 
+<LI>Tippen Sie bei einem verpassten Anruf auf das Symbol, um Ihren Anrufverlauf anzuzeigen, oder tippen Sie auf das Element mit dem verpassten Anruf, um die Nummer zurückzurufen. 
+<LI>Falls bei einem Elementsymbol eine Zahl angezeigt wird, tippen Sie auf das Symbol, um die zugehörige Anwendung in der Listenansicht zu öffnen (z.&nbsp;B. den E-Mail-Posteingang), oder tippen Sie auf das Element, um dieses einzelne Element zu öffnen (z.&nbsp;B. eine E-Mail-Nachricht). </LI></UL>
+<P>Werfen Sie ein Dashboard-Element zum Löschen seitlich aus dem Bildschirm.</P>
+<P><STRONG>Popup-Benachrichtigungen</STRONG> sind größere Benachrichtigungen, mit denen Sie direkt interagieren können. Dazu gehören beispielsweise Benachrichtigungen zu eingehenden Anrufen, Benachrichtigungen zu Kalenderterminen sowie Alarme.</P>
+<P><STRONG>Anwendungssteuerelemente</STRONG> ermöglichen Ihnen das Verwalten einer Anwendung, auch wenn diese geschlossen ist. Wenn Sie beispielsweise gerade Songs in Musik anhören und die Anwendung verlassen, werden die Steuerelemente zur Musikwiedergabe weiterhin unten auf dem Bildschirm angezeigt.</P>
+<P>Wenn Sie bei abgeschaltetem Bildschirm einen Banneralarm oder eine Popup-Benachrichtigung erhalten, blinkt das Licht im Gestenbereich. Sie können diese Funktion deaktivieren (<A href="javascript:buildHelpURL('screen','screenprefs_blink_notifications','c')">Weitere Informationen</A>).</P>
+	
+ 
+  
+  
+   		  	 </span> <!-- Span inner -->
+ 			</span>	
+
+<!-- Google Analytics -->
+
+
+
+
+
+<!-- Enabling analytics for server name: help.palm.com -->
+<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+
+<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-7312528-2");
+			pageTracker._trackPageview();
+			// pageTracker._setVar(",UNKNOWN,c888-01,UNKNOWN,");
+			unSetVar('/locale=');
+			unSetVar('/carrier=');
+			unSetVar('/device=');			
+			unSetVar('/app=');
+			unSetVar('/title=');
+			unSetVar('/chat=');
+			unSetVar('/webOS=');
+			superSetVar('/locale=de-de');
+			superSetVar('/carrier=c000-01');
+			superSetVar('/device=d300-01');		
+			superSetVar('/app=basics');
+			superSetVar('/title=Benachrichtigungen anzeigen und verwenden');
+			
+					superSetVar('/chat=no');	
+			
+			superSetVar('/webOS=');
+		
+		} catch(err) {}
+	</script>
+
+
+
+
+<!-- Omniture Analytics -->
+
+
+<script language="JavaScript" type="text/javascript"
+	src="/js/s_code_1-5-09.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+		<!--
+			s.prop2="US"
+			s.prop4="webOS"
+			s.prop6="d300-01"
+			s.prop7="c000-01"
+			s.prop18="de-de"
+
+			s.pageType=""
+			s.prop30="help.palm.com"
+
+			s.eVar26="c000-01"
+
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			var s_code=s.t();if(s_code)document.write(s_code)
+		//-->
+	</script>
+
+  <!-- Analytics END  -->
+
+  </body>
+</html>
+
+

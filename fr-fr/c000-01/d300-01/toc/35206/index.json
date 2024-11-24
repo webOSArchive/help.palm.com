@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "YouTube",
+	"app_name": "youtube",
+	"chat_appId": "youtube",
+	"icon": "file:///usr/palm/applications/com.palm.app.youtube/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Lecture d&#39;une vidéo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/3207.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des fonctions de lecture des vidéos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/2983.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recherche de vidéos connexes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/2619.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Partage d&#39;une vidéo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/2759.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

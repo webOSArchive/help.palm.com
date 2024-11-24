@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Datensicherung",
+	"app_name": "backup",
+	"chat_appId": "backup",
+	"icon": "file:///usr/palm/applications/com.palm.app.backup/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Was ist ein HP webOS-Konto?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40221.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Informationen manuell im HP webOS-Konto sichern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40224.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Informationen des HP webOS-Kontos auf dem Server löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40226.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Einstellungen des HP webOS-Kontos ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40229.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

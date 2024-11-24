@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Info sur l&#39;appareil",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Affichage des informations sur le système",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40188.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Changement de nom de votre appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40194.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réinitialisation de votre appareil",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40492/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Effectuer les diagnostics de système",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40491/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Exécuter une application personnalisée",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/49458.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Changer les paramètres par défaut des applications",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40187.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation du Gestionnaire certificats",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40490/index.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

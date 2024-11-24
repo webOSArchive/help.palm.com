@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Attività",
+	"app_name": "tasks",
+	"chat_appId": "tasks",
+	"icon": "file:///usr/palm/applications/com.palm.app.tasks/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Creazione di un elenco attività",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17349.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creazione di un&#39;attività",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/42279.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Impostazione della priorità, della scadenza e di altri dettagli di un&#39;attività",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17481.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come spuntare un&#39;attività",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17363.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione delle attività che scadono nel giorno corrente",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/40062.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ridenominazione di un&#39;attività",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17453.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ordinamento dell&#39;elenco attività",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17499.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Riordino delle attività",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17439.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Impostazione della scadenza per tutte le attività di un elenco",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17467.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Occultamento o eliminazione di tutte le attività completate in un elenco",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/42122.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come contrassegnare tutte le attività di un elenco come completate/incomplete",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17425.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di un&#39;attività o di un elenco attività",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/17379.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Écran et verrouillage",
+	"app_name": "screen",
+	"chat_appId": "screen",
+	"icon": "file:///usr/palm/applications/com.palm.app.screenlock/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Activation et désactivation de la réduction automatique de l&#39;éclairage",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40065.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Régler la luminosité de l&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40051.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Définition de l&#39;intervalle de désactivation automatique de l&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40060.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification du fond d&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40059.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activation et désactivation des gestes avancés",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40054.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuration des options de déverrouillage de l&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/41721.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification de votre mot de passe de déverrouillage sûr",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/17801.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recevoir des notifications quand l&#39;écran est verrouillé",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40057.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activation/Désactivation des avis par clignotement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40068.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

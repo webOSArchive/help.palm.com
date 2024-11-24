@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Use your device with a connected phone",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Connect your device to a phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40166.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial by contact name using Just Type",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40140.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial using the onscreen dial pad",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40143.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial a favorite",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40136.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial by contact name in the Phone &amp; Video Calls application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40135.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Redial the last number dialed",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/49570.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial from another application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40139.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Answer an incoming call through a connected phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40116.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Silence the ringer on an incoming call through a connected phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/49581.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ignore a call through a connected phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/49589.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manage a call through a connected phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40157.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use another application while on a call through a connected phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/49599.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "End a call through a connected phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/49610.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

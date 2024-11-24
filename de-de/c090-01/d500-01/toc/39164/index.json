@@ -1,0 +1,257 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Kontakte",
+	"app_name": "contacts",
+	"chat_appId": "contacts",
+	"icon": "file:///usr/palm/applications/com.palm.app.contacts/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Kontaktdaten in Konten speichern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41034.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Verknüpfte Kontakte in Kontakten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41044.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Erste Schritte: Kontakte",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41053.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Online-Konten in &bdquo;Kontakte&ldquo; einrichten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41351.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Skype-Konto erstellen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41060.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontakte erstellen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41063.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nach Kontakten suchen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41079.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Favoriten erstellen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41094.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontakte aus den Favoriten entfernen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/25425.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontaktdaten anzeigen, bearbeiten oder löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41084.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontaktfoto hinzufügen oder ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41088.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mit einem Skype-Kontakt telefonieren oder chatten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41363.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontakte verknüpfen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41097.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Verknüpfungen für Kontakte aufheben",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41102.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mit Kontakten kommunizieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41105.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontakte löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41109.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontakte anpassen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41112.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontakte manuell mit Online-Konten synchronisieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/25411.html",
+    			
+    		"link_number" : "18: 18.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "vCards empfangen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41373.html",
+    			
+    		"link_number" : "19: 19.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Online-Konto aus den Kontakten löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41116.html",
+    			
+    		"link_number" : "20: 20.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

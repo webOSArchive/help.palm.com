@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Customize phone settings",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Turn contact match display on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19627.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn call forwarding on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19393.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn my caller ID on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19253.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn call waiting on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19275.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn international dialing on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19413.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use dialing shortcuts",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19679.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Lock or unlock the SIM card",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19453.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use restricted dialing",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19371.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set roaming and data usage preferences",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19579.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn TTY/TDD on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19351.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enable HAC",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/19337.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

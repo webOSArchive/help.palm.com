@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Smartphone zurücksetzen",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Smartphone neu starten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/23453.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Daten löschen und Smartphone zurücksetzen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/42527.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

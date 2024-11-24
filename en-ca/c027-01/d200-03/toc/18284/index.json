@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Learn more",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Printed information in the box",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/27711.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Support site",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/27725.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Attivazione/disattivazione del dispositivo",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Accensione e spegnimento dello schermo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40332.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Attivazione e disattivazione di tutti i servizi wireless (modalità aereo)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40335.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Spegnimento del dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40329.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

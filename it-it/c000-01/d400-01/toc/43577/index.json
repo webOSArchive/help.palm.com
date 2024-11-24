@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Impostazione di account e-mail",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Impostazione di account e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/42312.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Impostazione di account e-mail per Microsoft Exchange e Lotus Notes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/42320.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Impostazione dell&#39;e-mail quando non riesce l&#39;impostazione automatica",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/42327.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configurazione delle impostazioni account avanzate",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/22489.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modifica delle impostazioni di accesso di un account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/22461.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ridenominazione di un account e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/22499.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di un account e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/22447.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

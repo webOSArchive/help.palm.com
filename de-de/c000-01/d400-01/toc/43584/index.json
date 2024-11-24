@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Mit E-Mails arbeiten",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Kontakte aus E-Mail-Nachrichten hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/42343.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Auf Nachrichten antworten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22373.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nachrichten weiterleiten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22299.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nachrichtentext kopieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22231.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nachrichten in andere Ordner verschieben",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22359.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nachrichten als gelesen oder ungelesen markieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22345.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Alle Nachrichten in einem Ordner als gelesen markieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22331.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nachrichten markieren und Markierungen entfernen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22285.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Details aus Nachrichtenüberschriften ein- und ausblenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22409.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nachrichten suchen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/42347.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Signaturen zu ausgehenden Nachrichten hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/22217.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nachrichtenempfänger anzeigen oder ausblenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/40991.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nachrichten löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/42361.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

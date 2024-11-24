@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Web",
+	"app_name": "web",
+	"chat_appId": "web",
+	"icon": "file:///usr/palm/applications/com.palm.app.browser/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Websites öffnen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/7827.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Website suchen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/7239.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Websuchmaschine hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/5269.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ein neues Browserfenster öffnen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/6799.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Auf Webseiten navigieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/6463.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Flash-Inhalte verwenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/42717.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Webseiten zum Startbildschirm hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/5111.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Favoriten erstellen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/5619.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Favoritenseiten öffnen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/7647.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Favoriten bearbeiten, neu ordnen oder löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/6183.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dateien vom Web herunterladen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/5999.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zu zuvor besuchten Webseiten zurückkehren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/6991.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Einstellungen des Internetbrowsers anpassen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/5873.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Auf einer Webseite mit Bildern arbeiten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/8359.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Verknüpfungen auf Webseiten verwenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/42723.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

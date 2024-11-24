@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Bluetooth",
+	"app_name": "bluetooth",
+	"chat_appId": "bluetooth",
+	"icon": "file:///usr/palm/applications/com.palm.app.bluetooth/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Activation et désactivation de la fonction Bluetooth",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/26481.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi d&#39;une demande d’appariement à un autre appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/26441.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Acceptation d&#39;une demande d’appariement d&#39;un autre appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/26361.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connexion à un appareil apparié",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/26375.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Déconnexion d&#39;un appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/26407.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification du nom d&#39;un appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/26465.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/26391.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation du téléphone en tant que modem",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/26451.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Make calls",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Dial by contact name using Just Type",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/19845.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial using the onscreen dial pad",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/42565.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial using the keyboard",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/19967.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial a favorite",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/19807.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial using a speed dial",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/19953.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial by contact name in the Phone application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/19759.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Redial the last number dialed",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/19855.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial a Skype contact",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/42590.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use Skype to dial an international number",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/42595.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial your national emergency number",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/19791.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial from another application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d400-01/article/19821.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

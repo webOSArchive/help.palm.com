@@ -1,0 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Musica",
+	"app_name": "music",
+	"chat_appId": "music",
+	"icon": "file:///usr/palm/applications/com.palm.app.musicplayer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Trasferimento di file musicali nel dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40833.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come visualizzare e nascondere il Catalogo e le playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41233.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ascolto di musica",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41237.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso dei comandi per la riproduzione di brani musicali",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41244.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creazione di una playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41254.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Aggiunta di musica a una playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41259.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ordinamento di tutti i brani o di una playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41267.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modifica del nome di una playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41272.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di brani da una playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41280.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ricerca di brani, artisti, album, generi e playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41287.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di una playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41297.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di un brano dal dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41303.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzo di HP Play per sincronizzare la musica del computer con quella del dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41311.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Installazione di HP Play",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41319.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configurazione di HP Play per la sincronizzazione con il dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41327.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sincronizzazione manuale da HP Play al dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41332.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

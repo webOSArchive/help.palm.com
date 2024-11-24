@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Apertura, búsqueda en y guardado de un archivo",
+	"app_name": "doc_view",
+	"chat_appId": "doc_view",
+	"icon": "file:///usr/palm/applications/com.palm.app.docviewer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Abrir un archivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35990.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Guardar un archivo con otro nombre",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35996.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio del tamaño de presentación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35980.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda de texto en un archivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35986.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso compartido de un archivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/36000.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de propiedades de archivos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/36006.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

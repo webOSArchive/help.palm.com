@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Esposizione",
+	"app_name": "exhibition",
+	"chat_appId": "exhibition",
+	"icon": "http://help.palm.com/images/app_icons/exhibition.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Attivazione di Esposizione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40263.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Disattivazione di Esposizione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40266.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzo di Esposizione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40267.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzo del dispositivo come sveglia",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40273.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione di una presentazione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40275.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione dell&#39;agenda",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40268.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalizzazione delle impostazioni di Esposizione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40269.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

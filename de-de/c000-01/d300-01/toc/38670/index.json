@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Instant Messaging-Konten (IM-Konten) verwenden",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Instant Messaging-Konten einrichten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/21011.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Bei Instant Messaging-Konten anmelden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/21035.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Chat-Nachrichten senden und empfangen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/20973.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Von Instant Messaging-Konten abmelden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/21049.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Buddy hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/20843.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Buddy-Anfrage erhalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/20959.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Absender einer Nachricht blockieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/20665.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Buddy löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/20879.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Benutzername und Kennwort für Instant Messaging-Konten ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/20909.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Instant Messaging-Konten löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/20893.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

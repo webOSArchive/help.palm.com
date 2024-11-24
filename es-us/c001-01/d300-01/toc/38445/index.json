@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Conceptos básicos",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Funcionamiento del teléfono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38588/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Inserta la tarjeta&nbsp;SIM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/38256.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Carga de la batería",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/38250.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Maximización de la vida útil de la batería",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/425.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Encendido/apagado del teléfono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38591/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Desplazamiento por el teléfono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38593/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apertura de aplicaciones",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38597/index.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Administración de aplicaciones",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38600/index.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Introducir y guardar información",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38595/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de los menús",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38603/index.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda de información",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/42748.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización y trabajo con notificaciones",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/26837.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sincronización de datos personales y copia de archivos entre el teléfono y la computadora",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38608/index.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de archivos desde el smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/26637.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso del asistente de transferencia de datos (ATD)",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38511/index.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Por qué la pantalla se oscurece",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/26653.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Conexión a una red",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/38252.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Captura de pantalla",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/26805.html",
+    			
+    		"link_number" : "18: 18.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "6Ts: Seis técnicas para que tu teléfono vuelva a funcionar",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38612/index.html",
+    			
+    		"link_number" : "19: 19.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Obtención de ayuda en la Ayuda",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38616/index.html",
+    			
+    		"link_number" : "20: 20.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Más información",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38620/index.html",
+    			
+    		"link_number" : "21: 21.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copyright",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/26607.html",
+    			
+    		"link_number" : "22: 22.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

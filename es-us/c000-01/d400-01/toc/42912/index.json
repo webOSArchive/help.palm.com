@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Sonidos y tonos",
+	"app_name": "sounds_ringtones",
+	"chat_appId": "sounds_ringtones",
+	"icon": "file:///usr/palm/applications/com.palm.app.soundsandalerts/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Uso del interruptor de timbre",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/1021.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Definición de la configuración de timbre",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/17617.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Definición de las opciones de sonido del sistema",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/17647.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de tonos al smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/1109.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Selección de un archivo de la carpeta de tonos como tono de llamada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/17633.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Selección de una canción como tono",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/17677.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copiar un tono en el smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/17599.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

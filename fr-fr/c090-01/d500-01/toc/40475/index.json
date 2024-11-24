@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Assistance relative à l&#39;aide",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Navigation dans l&#39;aide",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40375.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Aide relative à une application spécifique",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40378.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Basculement entre l&#39;aide et une autre application ouverte",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40374.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

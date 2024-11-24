@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Anwendungen öffnen",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Anwendungen mit &bdquo;Einfach lostippen&ldquo; öffnen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/27075.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anwendungen im Startbildschirm öffnen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/27107.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anwendungen im Schnellstart öffnen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/27119.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

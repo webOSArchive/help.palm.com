@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Informazioni sul dispositivo",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Visualizzazione delle informazioni di sistema",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/23239.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ridenominazione dello smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/23225.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reimpostazione del telefono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38728/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eseguire test di sistema",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38725/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modifica delle applicazioni predefinite",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/23201.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzare gestione certificati",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38724/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

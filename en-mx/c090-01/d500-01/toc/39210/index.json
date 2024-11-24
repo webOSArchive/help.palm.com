@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Adobe Reader",
+	"app_name": "adobe_reader",
+	"chat_appId": "adobe_reader",
+	"icon": "http://help.palm.com/images/app_icons/adobe_reader.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Set up Adobe Reader to access files from an online account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40280.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Open a file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40282.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Move around in a file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40286.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change the text display size",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40289.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Send a file as an attachment to an email message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40292.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Print a PDF file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40294.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Edit or delete an online account in Adobe Reader",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/41888.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

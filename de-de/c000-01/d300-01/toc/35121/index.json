@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Bildschirm und Sperre",
+	"app_name": "screen",
+	"chat_appId": "screen",
+	"icon": "file:///usr/palm/applications/com.palm.app.screenlock/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Helligkeit des Bildschirms ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/17753.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Wartezeit bis zum automatischen Abschalten des Bildschirms festlegen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/17863.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Hintergrund ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/17833.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Erweiterte Gesten ein- oder ausschalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/17773.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Einstellungen für das Entsperren des Bildschirms festlegen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/17879.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "So ändern Sie Ihr Kennwort für das Sichere Entsperren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/17801.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Benachrichtigungen bei gesperrtem oder ausgeschaltetem Bildschirm erhalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/17787.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sprachwahl verwenden, wenn der Bildschirm gesperrt ist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/35308.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

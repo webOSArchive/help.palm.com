@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Navigation dans l&#39;interface de l&#39;appareil",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Affichage de la vue Cartes (minimisation d&#39;une application)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40347.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ouvrir l&#39;écran de lancement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40350.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Redimensionnement des panneaux/affichage ou masquage des niveaux d&#39;une application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/49220.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Accès à une autre application ouverte",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40348.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Faire défiler une section en particulier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/27345.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Faire défiler rapidement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/27359.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Arrêter de faire défiler",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/27407.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zoom avant pour augmenter la taille des éléments affichés à l&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40354.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zoom arrière pour réduire la taille des éléments affichés à l&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40355.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zoom avant ou arrière délimité",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40353.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Positionnement du curseur dans une zone de texte",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40456.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sélectionner du texte",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40351.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Faire glisser et déposer",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40835.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Supprimer une tâche",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/27191.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

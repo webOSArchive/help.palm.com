@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Actualizaciones del sistema",
+	"app_name": "updates",
+	"chat_appId": "updates",
+	"icon": "http://help.palm.com/images/app_icons/System_Updates.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Comprobación manual de actualizaciones del sistema",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17561.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Obtención de ayuda si una actualización de software falla",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17573.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Actualización del software del sistema desde un aviso",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17583.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

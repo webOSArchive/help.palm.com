@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Uso di SMS e MMS",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Aggiunta di un contatto da un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/21067.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione delle informazioni su un contatto da un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/21189.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Composizione di un numero telefonico da un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/21175.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/21131.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di una conversazione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/21117.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

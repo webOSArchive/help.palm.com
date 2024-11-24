@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Date &amp; Time",
+	"app_name": "date_time",
+	"chat_appId": "date_time",
+	"icon": "file:///usr/palm/applications/com.palm.app.dateandtime/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Use Date & Time",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/23475.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Utilizzare messaggi e-mail",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Aggiunta di un contatto da un messaggio e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39456.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione e modifica di un contatto da un messaggio e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39465.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come rispondere a un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39472.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Inoltro di un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39481.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copia del corpo di un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39492.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Spostamento di un messaggio in un&#39;altra cartella",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39498.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come contrassegnare un messaggio come già letto o da leggere",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39502.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come contrassegnare tutti i messaggi in una cartella come già letti",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39505.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come inserire o eliminare un contrassegno in un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39508.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come visualizzare o nascondere i dettagli sull&#39;intestazione di un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/22409.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Stampa di un messaggio e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39435.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ricerca di messaggi",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39469.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Aggiunta di una firma ai messaggi in uscita",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39515.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come visualizzare o nascondere i destinatari dei messaggi",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39489.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di un messaggio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39511.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

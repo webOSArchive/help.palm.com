@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Customize email settings",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Set email preferences",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/22861.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorder accounts",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/22837.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn new email notifications on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/22821.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

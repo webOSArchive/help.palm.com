@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Regional Settings",
+	"app_name": "language",
+	"chat_appId": "language",
+	"icon": "file:///usr/palm/applications/com.palm.app.languagepicker/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Language",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/21659.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Formats",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/21625.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

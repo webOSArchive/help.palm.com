@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Sons et sonneries",
+	"app_name": "sounds_ringtones",
+	"chat_appId": "sounds_ringtones",
+	"icon": "file:///usr/palm/applications/com.palm.app.soundsandalerts/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Définition des paramètres de l&#39;interrupteur de sonnerie",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/17617.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Définition des options du son système",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/17647.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sélection d&#39;un fichier comme sonnerie dans le dossier des sonneries",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/17633.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sélectionner une chanson en tant que sonnerie",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/17677.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copie d&#39;une sonnerie vers votre téléphone intelligent",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/17599.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

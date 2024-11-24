@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Uso de una cuenta de mensajería instantánea (IM)",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Configuración de una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35400.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Inicio de sesión en una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/21035.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envío y recepción de mensajes de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/20973.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/20893.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Finalización de sesión en una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/21049.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio del nombre de usuario o la contraseña de una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/20909.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

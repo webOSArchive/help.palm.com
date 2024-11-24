@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Activation et désactivation du téléphone",
+	"app_name": "",
+	"chat_appId": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Activation et désactivation de l&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/38267.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Extinction du téléphone intelligent",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/38263.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activation et désactivation de tous les services sans fil (mode avion)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/38269.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

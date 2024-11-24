@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Bluetooth",
+	"app_name": "bluetooth",
+	"chat_appId": "bluetooth",
+	"icon": "file:///usr/palm/applications/com.palm.app.bluetooth/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Attivazione e disattivazione della funzione Bluetooth",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/26481.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Invio di una richiesta di associazione a un altro dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/26441.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Accettazione di una richiesta di associazione da un altro dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/26361.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connessione a un dispositivo associato",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/26375.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Disconnessione da un dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/26407.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ridenominazione di un dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/26465.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di un dispositivo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/26391.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

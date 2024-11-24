@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Amazon MP3",
+	"app_name": "amazon",
+	"chat_appId": "amazon",
+	"icon": "http://help.palm.com/images/app_icons/amazon_mp3.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "À propos d&#39;Amazon MP3",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/28815.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recherche d&#39;une chanson, d&#39;un album ou d&#39;un artiste spécifique",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/28861.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Navigation entre les chansons, albums, artistes ou genres",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/28829.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage des informations relatives à un artiste et achat de musique",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/28905.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage des informations relatives à un album et achat d&#39;un album",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/28875.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Achat d&#39;une chanson et écoute d&#39;un extrait",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/28845.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage et utilisation des éléments téléchargés",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/28889.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

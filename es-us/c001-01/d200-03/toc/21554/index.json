@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Trabajo con mensajes de texto y multimedia",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Adición de un contacto desde un mensaje",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/21067.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de la información de un contacto desde un mensaje",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/21189.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado de un número desde un mensaje",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/21175.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de un mensaje",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/21131.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una conversación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/21117.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

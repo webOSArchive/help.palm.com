@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "System Updates",
+	"app_name": "updates",
+	"chat_appId": "updates",
+	"icon": "http://help.palm.com/images/app_icons/System_Updates.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Update the system software from a notification",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/37227.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manually check for system updates",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/17561.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Get help if a software update fails",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40027.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

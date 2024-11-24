@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Launcher",
+	"app_name": "launcher",
+	"chat_appId": "launcher",
+	"icon": "file:///usr/lib/luna/system/luna-applauncher/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Use the Launcher",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-03/article/35898.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorder Launcher icons",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-03/article/35878.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Featured",
+	"app_name": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/featured.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Your Device: Front View",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/40396.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Use the onscreen keyboard",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/40389.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Copy files between your device and computer",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/41728.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Display Card view (minimize an application)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/40347.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Open an application&nbsp;in the Launcher",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/40343.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Use the application menu",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/40323.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Use the system menu",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/40326.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Save information you enter",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/40379.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Connect to a new open network",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/3329.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Connect to a captive portal",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/39555.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Add a printer",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/36311.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "5Ts: Five ways to get your device working again",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c090-01/d500-01/toc/40470/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Shut down your device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c090-01/d500-01/article/40329.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    }     		
+    
+     ]
+    }
+  	
+ 
+

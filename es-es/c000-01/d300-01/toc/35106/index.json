@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Notas",
+	"app_name": "memos",
+	"chat_appId": "memos",
+	"icon": "file:///usr/palm/applications/com.palm.app.notes/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Creación de una nota",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/21345.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda de una nota",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/21397.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Edición de una nota",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/21369.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envío de una nota por correo electrónico",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/21383.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio del color de una nota",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/21309.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una nota",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/21355.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

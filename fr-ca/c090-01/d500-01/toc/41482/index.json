@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Configuration de l&#39;application Courriel",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Configuration de l&#39;application Courriel",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/39378.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuration de l&#39;application Courriel&nbsp;: Microsoft Exchange et Lotus Notes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/39381.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuration du compte de courriel lorsque la configuration automatique échoue",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/39388.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Entrée des paramètres de compte avancés",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/39397.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification de la configuration d’ouverture de session",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/22461.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Changement du nom d&#39;un compte de courriel",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/39407.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des vues dans l&#39;application Courriel",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/39418.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d’un compte de courrier électronique",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/39413.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

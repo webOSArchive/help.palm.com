@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Realización de llamadas",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Marcado por nombre de contacto mediante Escribe y listo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19845.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado con el teclado numérico en pantalla",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19981.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado con el teclado",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19967.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado de un favorito",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19807.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso del marcado rápido",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19953.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado por nombre de contacto en la aplicación Teléfono",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19759.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Repetición del último número marcado",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19855.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado del número nacional de emergencias",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19791.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado desde otra aplicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/19821.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

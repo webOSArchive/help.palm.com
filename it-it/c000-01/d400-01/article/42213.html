@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+   <head>
+ <script type="text/javascript" src="/js/jquery.min.js"></script>
+ 
+
+ <script type="text/javascript" src="/js/analytics_super_set_var.js"></script>
+</head>
+    <base href="http://help.palm.com:80/">
+    
+    <title>Visualizzazione di eventi in Calendario</title>
+<meta http-equiv="Content-Type"	content=" text/html;charset=UTF-8" />
+    
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">    
+	<meta name="keywords" content="creazione,evento,calendari online,trasferimento dati,esportazione,synergy,profilo,sincronizzazione facebook">
+	<meta name="Content-Language" content="it-it">
+	<meta name="help_application_icon" content="calendar">
+	<meta name="help_application" content="! Calendario">
+	<meta name="help_site" content="help_palm_com">
+	<meta name="carrier_code" content="c000-01">
+	<meta name="device_code" content="d400-01">
+	<meta http-equiv="description" content="Visualizzazione di eventi in Calendario">
+
+	
+	 	
+		<meta name="viewport" content="initial-scale=1.0, width=device-width, height=device-height, user-scalable=no" />
+		<link type="text/css" rel="stylesheet" href="/css/custom.css" />
+	   
+	
+	
+	<!--
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	-->
+	<link type="text/css" rel="stylesheet" href="/css/help_article.css" />
+	<link type="text/css" rel="stylesheet" href="/css/link_to_chat.css" />
+
+	<style type="text/css">
+		
+			#header h1.app_icon{ background:url('/images/app_icons/calendar.png') no-repeat left center; }
+		
+		#header h1.app_icon span { display: table-cell; height:32px; vertical-align: middle; }
+	</style>
+
+	<script type="text/javascript">
+		var locale = "it-it";
+		var carrier = "c000-01";
+		var device = "d400-01";
+		var baseURL = "http://help.palm.com:80/";
+		var clinkarticletemplate = "clinkarticle";
+		var clinktopictemplate = "clinktopic";
+		function buildHelpURL(appname,articlecategory,objecttype)
+		{
+			if(objecttype == 'c')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+clinkarticletemplate+"/"+articlecategory+".html";
+			}else if(objecttype == 'p')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+clinktopictemplate+"/"+articlecategory+".json";
+			}else if(objecttype == 't')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+articlecategory+"/index.json";
+			}
+			window.location.href=url;
+			//alert("URL:"+url);
+		}
+	</script>
+	
+			
+	
+
+  
+  
+  <body>
+  <div id="wrap">
+ <span id="header">
+  <h1 class="app_icon"><span>Visualizzazione di eventi in Calendario</span></h1>
+  </span>
+  <span id="content">
+
+    	<span class="inner">
+
+
+ 
+ 			<P>Vi sono diversi modi di visualizzare gli eventi nell&#39;applicazione Calendario:</P>
+<UL>
+<LI>
+<P>Collegarsi a un calendario online: se si dispone di un calendario in un account online che supporta la funzione HP Synergy (ad esempio, Google o Microsoft Exchange), è possibile configurare l&#39;applicazione Calendario nello smartphone per sincronizzare e visualizzare eventi del calendario online. Dopo il collegamento al calendario online, gli eventi aggiunti online vengono visualizzati automaticamente in Calendario e gli eventi aggiunti nello smartphone vengono sincronizzati con l&#39;account online, a condizione che l&#39;account consenta la scrittura dallo smartphone all&#39;account online.</P>
+<P>È possibile impostare gli account di calendario nelle applicazioni Account (<A class=null href="javascript:buildHelpURL('accountsmgr','accounts_set_up_account','c')" target=_self><SPAN class=textHelpLink>istruzioni</SPAN></A>) o Calendario.</P>
+<P>La funzionalità Synergy consente inoltre di impostare lo stesso account di calendario per tutte le altre applicazioni in cui è possibile visualizzare dati di quell&#39;account.</P>
+<P>Ad esempio, si supponga di voler impostare l&#39;account del calendario Google nello smartphone. L&#39;ultima operazione della procedura di impostazione è la selezione di tutte le altre applicazioni che devono ricevere dati dall&#39;account Google (oltre a Calendario, è possibile includere Contatti, Messaggistica e E-mail). Al termine dell&#39;impostazione, lo smartphone inizia a scaricare gli eventi del calendario e tutti i dati per tutte le altre applicazioni selezionate per la sincronizzazione.</P>
+<LI>
+<P>Inserire un evento direttamente in Calendario (<A class=null href="javascript:buildHelpURL('calendar','calendar_create_event','c')" target=_self><SPAN class=textHelpLink>istruzioni</SPAN></A>). L&#39;evento può essere assegnato a uno dei calendari online e quindi sincronizzato con quel calendario. In alternativa, è possibile creare l&#39;evento nell&#39;account HP webOS. In questo caso, il contatto viene visualizzato solo nel telefono. Gli eventi dell&#39;account HP webOS vengono inclusi nel backup giornaliero delle informazioni dell&#39;account, per cui è possibile ripristinarli in caso di cancellazione accidentale.</P>
+<LI>
+<P>Utilizzo di una soluzione di sincronizzazione di terze parti: se si desidera utilizzare un&#39;applicazione desktop per memorizzare gli eventi del calendario, potrebbe essere possibile utilizzare una soluzione di terze parti (venduta separatamente) per sincronizzare gli eventi direttamente con il computer (accedere a hpwebos.com/sync-solutions) per verificare l&#39;eventuale disponibilità di soluzioni di terze parti per lo smartphone. Se non sono disponibili soluzioni per lo smartphone, contattare gli sviluppatori di software di sincronizzazione esistente per altri dispositivi webOS, per sapere se stanno sviluppando una soluzione per lo smartphone in uso.</P>
+<LI>
+<P>Esportare eventi tramite Assistente al trasferimento dati: quando si esportano eventi del calendario dal software desktop (<A class=null href="javascript:buildHelpURL('basics','data_transfer','p')" target=_self>istruzioni</A>), è necessario selezionare l&#39;account a cui assegnarli. Cercare gli eventi nell&#39;account selezionato.<BR></P></LI></UL>
+	
+ 
+  
+  
+   		  	 </span> <!-- Span inner -->
+ 			</span>	
+
+<!-- Google Analytics -->
+
+
+
+
+
+<!-- Enabling analytics for server name: help.palm.com -->
+<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+
+<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-7312528-2");
+			pageTracker._trackPageview();
+			// pageTracker._setVar(",UNKNOWN,c888-01,UNKNOWN,");
+			unSetVar('/locale=');
+			unSetVar('/carrier=');
+			unSetVar('/device=');			
+			unSetVar('/app=');
+			unSetVar('/title=');
+			unSetVar('/chat=');
+			unSetVar('/webOS=');
+			superSetVar('/locale=it-it');
+			superSetVar('/carrier=c000-01');
+			superSetVar('/device=d400-01');		
+			superSetVar('/app=calendar');
+			superSetVar('/title=Visualizzazione di eventi in Calendario');
+			
+					superSetVar('/chat=no');	
+			
+			superSetVar('/webOS=');
+		
+		} catch(err) {}
+	</script>
+
+
+
+
+<!-- Omniture Analytics -->
+
+
+<script language="JavaScript" type="text/javascript"
+	src="/js/s_code_1-5-09.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+		<!--
+			s.prop2="US"
+			s.prop4="webOS"
+			s.prop6="d400-01"
+			s.prop7="c000-01"
+			s.prop18="it-it"
+
+			s.pageType=""
+			s.prop30="help.palm.com"
+
+			s.eVar26="c000-01"
+
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			var s_code=s.t();if(s_code)document.write(s_code)
+		//-->
+	</script>
+
+  <!-- Analytics END  -->
+
+  </body>
+</html>
+
+

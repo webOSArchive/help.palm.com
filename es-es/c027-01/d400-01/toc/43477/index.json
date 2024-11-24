@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "¿Qué puedo hacer durante una llamada?",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Administración de una llamada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c027-01/d400-01/article/20157.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Finalización de una llamada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c027-01/d400-01/article/20033.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de otra aplicación durante una llamada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c027-01/d400-01/article/20215.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Realización de una segunda llamada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c027-01/d400-01/article/20135.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Respuesta a una segunda llamada (llamada en espera)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c027-01/d400-01/article/20019.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio entre dos llamadas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c027-01/d400-01/article/20189.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Realización de una llamada en conferencia",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c027-01/d400-01/article/20081.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

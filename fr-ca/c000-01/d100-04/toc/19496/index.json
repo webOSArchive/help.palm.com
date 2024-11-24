@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Personnalisation des paramètres du courriel",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Définition des préférences de courriel",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/22861.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réorganisation des comptes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/22837.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activer/Désactiver les avis de nouveaux courriels",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/22821.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

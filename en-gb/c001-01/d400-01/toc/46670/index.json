@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Voice Dial",
+	"app_name": "voice_dial",
+	"chat_appId": "voice_dial",
+	"icon": "http://help.palm.com/images/app_icons/voice_dial.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Dial by contact name using voice dialing",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/35215.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

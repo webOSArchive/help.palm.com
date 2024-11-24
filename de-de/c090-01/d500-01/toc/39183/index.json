@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Ländereinstellungen",
+	"app_name": "language",
+	"chat_appId": "language",
+	"icon": "file:///usr/palm/applications/com.palm.app.languagepicker/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Anzeigesprache ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40299.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Layouts und Sprachen für Bildschirmtastatur festlegen und zwischen mehreren wechseln",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40301.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Standardmäßige internationale Vorwahl für Telefonnummern auswählen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40303.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anzeigeformate ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40305.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

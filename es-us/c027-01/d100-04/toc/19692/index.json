@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Trabajo con carpetas de correo electrónico",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Visualización de carpetas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/22175.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Orden del correo electrónico en una carpeta",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/22161.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de una carpeta como favorita",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/22147.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

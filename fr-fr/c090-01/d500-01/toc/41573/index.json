@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Facebook Tablet",
+	"app_name": "facebook",
+	"chat_appId": "facebook",
+	"icon": "http://help.palm.com/images/app_icons/facebook.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Installation de l&#39;application Facebook Tablet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41591.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Première utilisation de l&#39;application Facebook Tablet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41601.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des panneaux dans l&#39;application Facebook Tablet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41689.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "mettre à jour votre statut ;",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41606.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage de votre profil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41642.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Publication d&#39;une photo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41652.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage et publication de commentaires sur vos photos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41663.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi d&#39;une demande d&#39;ami",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41628.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage de la page Facebook de votre ami",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41612.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Laisser un commentaire sur une actualité ou photo publiée par un ami",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41616.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Publication d&#39;un message sur le mur de votre ami",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41625.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage des anniversaires d&#39;amis",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41701.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi, réception et réponse à des messages",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41636.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage des événements",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41670.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Publication de votre position à l&#39;aide de Facebook Places",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41676.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ouverture d&#39;une autre fenêtre Facebook",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41697.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnalisation de l&#39;application Facebook Tablet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41679.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

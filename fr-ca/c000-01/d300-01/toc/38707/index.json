@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Synchronisation des données personnelles et copie de fichiers entre votre téléphone et votre ordinateur",
+	"app_name": "",
+	"chat_appId": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Copie de fichiers entre votre téléphone intelligent et votre ordinateur",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/28343.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copie de musique, photos et vidéos à l&#39;aide d&#39;un logiciel tiers",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/28329.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Synchronisation des données personnelles à partir d&#39;un logiciel tiers",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/28375.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

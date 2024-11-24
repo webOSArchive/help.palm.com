@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Mit SMS und MMS arbeiten",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Kontakte aus Nachrichten hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/21067.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kontaktdaten aus Nachrichten anzeigen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/21189.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Telefonnummern aus Nachrichten wählen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/21175.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

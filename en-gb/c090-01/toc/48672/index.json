@@ -1,0 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": " Music",
+	"app_name": "music",
+	"chat_appId": "music",
+	"icon": "file:///usr/palm/applications/com.palm.app.musicplayer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Get music onto your device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40833.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Show/hide the Library or Playlist lists",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41233.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Listen to music",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41237.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use music playback controls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41244.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Create a playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41254.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Add music to a playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41259.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sort all songs or a playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41267.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Edit a playlist name",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41272.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete songs from a playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41280.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Search Songs, Artists, Albums, Genres, or playlists",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41287.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41297.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a song from your device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41303.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use HP Play to sync music from your computer to your device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41311.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Install HP Play",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41319.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set up HP Play to sync with your device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41327.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manually sync music from HP Play to your device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41332.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

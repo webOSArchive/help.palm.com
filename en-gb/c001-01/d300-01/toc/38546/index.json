@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Work with cells, sheets, and data in a Microsoft Excel® spreadsheet",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "View cell contents in a spreadsheet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/18409.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Scroll rows or columns in a spreadsheet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/18395.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Switch among sheets in a spreadsheet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/18423.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Resize columns in a spreadsheet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/18365.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

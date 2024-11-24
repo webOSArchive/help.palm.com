@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Quickoffice",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Apertura y guardado de un archivo",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-es/c027-01/d400-01/toc/43428/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con celdas, hojas y datos en una hoja de cálculo de Microsoft Excel®",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-es/c027-01/d400-01/toc/43415/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con presentaciones de diapositivas y opciones de presentación en una presentación de Microsoft PowerPoint®",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-es/c027-01/d400-01/toc/43422/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

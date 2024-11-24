@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Kalender",
+	"app_name": "calendar",
+	"chat_appId": "calendar",
+	"icon": "file:///usr/palm/applications/com.palm.app.calendar/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Wie gebe ich Ereignisse in den Kalender ein?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26095.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kalender in Ebenen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26113.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Erste Schritte: Kalender",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26263.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ereignisse erstellen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/25993.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ereignisstandorte eingeben",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26071.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sich wiederholende Ereignisse planen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26219.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Alarme zu Ereignissen hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/25915.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Benachrichtigungstöne für Ereignisse anpassen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26037.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Notizen zu Ereignissen hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/25931.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ganztägige Ereignisse erstellen (ohne Uhrzeit)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26003.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kalenderanzeige ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/25947.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Im Kalender navigieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26173.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zeitpläne schnell anzeigen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26187.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ereignisse löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26061.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Auf Ereigniserinnerungen reagieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26203.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Besprechungsteilnehmer anzeigen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26275.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kalender anpassen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26019.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Kalender manuell mit Online-Konten synchronisieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26155.html",
+    			
+    		"link_number" : "18: 18.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Online-Konto aus dem Kalender löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26243.html",
+    			
+    		"link_number" : "19: 19.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

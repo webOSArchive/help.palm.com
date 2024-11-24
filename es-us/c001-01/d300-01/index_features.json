@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Destacados",
+	"app_name": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Tel&eacute;fono: Vista frontal",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/38326.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Tel&eacute;fono: Teclado",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/38337.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Activación/desactivación de la pantalla y los servicios inalámbricos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/38263.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Copia de archivos entre el tel&eacute;fono y la computadora",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/28343.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Visualización de la vista Carta (minimización de una aplicación)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/27247.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Apertura de una aplicación desde el Iniciador",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/27107.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Apertura del menú de una aplicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/26893.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Apertura del menú de conexiones",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/26937.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Subida de un nivel en una aplicación (trazo Atrás)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/27421.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Marcado por nombre de contacto mediante Escribe y listo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/35832.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Guardado de la información introducida",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/28057.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "6Ts: Seis técnicas para que tu teléfono vuelva a funcionar",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d300-01/toc/38612/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }     		
+    
+     ]
+    }
+  	
+ 
+

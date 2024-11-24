@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Calendrier",
+	"app_name": "calendar",
+	"chat_appId": "calendar",
+	"icon": "file:///usr/palm/applications/com.palm.app.calendar/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Comment insérer des événements dans Calendrier?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26095.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Calendriers multicouches",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26113.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Première utilisation de l&#39;application Calendrier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26263.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Création d&#39;un événement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/25993.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Saisie du lieu d&#39;un événement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26071.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Planification d&#39;un événement récurrent",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26219.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout d&#39;une alarme à un événement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/25915.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnaliser les sons de notification d&#39;événement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26037.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout d&#39;une note à un événement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/25931.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Création d&#39;un événement se déroulant sur une journée entière (sans heure)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26003.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Changement de l&#39;affichage de Calendrier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/25947.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Navigation dans Calendrier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26173.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Aperçu rapide de l&#39;horaire",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26187.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un événement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26061.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réponse à un rappel d&#39;événement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26203.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage des participants à une réunion",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26275.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnalisation de Calendrier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26019.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Synchronisation manuelle de Calendrier avec vos comptes en ligne",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26155.html",
+    			
+    		"link_number" : "18: 18.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un compte en ligne à partir du Calendrier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26243.html",
+    			
+    		"link_number" : "19: 19.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

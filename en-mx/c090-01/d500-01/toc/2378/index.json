@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Use the camera",
+	"app_name": "photos",
+	"chat_appId": "photos",
+	"icon": "file:///usr/palm/applications/com.palm.app.photos/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Take a picture",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/326.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Record a video",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/2386.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Review pictures and videos you took",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/2022.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

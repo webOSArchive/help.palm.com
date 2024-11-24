@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Web",
+	"app_name": "web",
+	"chat_appId": "web",
+	"icon": "file:///usr/palm/applications/com.palm.app.browser/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Accès aux sites Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/7827.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recherche de site Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/7239.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout d&#39;un moteur de recherche Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/5269.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ouverture d&#39;une nouvelle fenêtre de navigateur",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/6799.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Navigation dans une page Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/6463.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utiliser du contenu Flash",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/8073.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout d&#39;une page Web à l&#39;écran de lancement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/5111.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Création d&#39;un signet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/5619.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ouverture d&#39;une page comportant un signet",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/7647.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification, réorganisation et suppression des signets",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/6183.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Téléchargement de fichiers depuis le Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/5999.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Retour à des pages Web précédemment consultées",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/6991.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des liens d&#39;une page Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/7441.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnalisation de la configuration du navigateur Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/5873.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des images d&#39;une page Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/8359.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

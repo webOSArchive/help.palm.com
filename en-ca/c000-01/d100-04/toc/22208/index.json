@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "What can I do during a call?",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Manage a call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/20157.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "End a call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/20033.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use another application while on a call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/20215.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Make a second call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/20135.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Answer a second call (call waiting)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/20019.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Switch between two calls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/20189.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Make a conference call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/20081.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Look up or send a message to a contact",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/20047.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Info sur l&#39;appareil",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Affichage des informations sur le système",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/23239.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Attribution d&#39;un nouveau nom au téléphone intelligent",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/23225.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réinitialisation du téléphone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d100-04/toc/25373/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Exécution de tests du système",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d100-04/toc/33647/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Changer les paramètres par défaut des applications",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/23201.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation du Gestionnaire certificats",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d100-04/toc/33627/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

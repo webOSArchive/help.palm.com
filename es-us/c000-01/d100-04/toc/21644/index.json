@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Trabajo con presentaciones de diapositivas y opciones de presentación en una presentación de Microsoft PowerPoint®",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Cambio entre diapositivas en una presentación de diapositivas de PowerPoint&reg;",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/18327.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Desplazamiento por una diapositiva",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/18341.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

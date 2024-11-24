@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Correo electrónico",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "¿Cómo puedo enviar y recibir correo electrónico en el smartphone?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/22109.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Buzones combinados en Correo electrónico",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/22039.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Respuesta a invitaciones a reuniones",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/22063.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envío de mensajes de correo electrónico desde otra aplicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/42381.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Encendido/apagado del teléfono",
+	"app_name": "",
+	"chat_appId": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Encendido/apagado de la pantalla",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/38267.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apagado del smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/38263.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación/desactivación de todos los servicios inalámbricos (modo Vuelo)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/38269.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

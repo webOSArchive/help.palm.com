@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Adobe Reader",
+	"app_name": "adobe_reader",
+	"chat_appId": "adobe_reader",
+	"icon": "http://help.palm.com/images/app_icons/adobe_reader.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Configurazione di Adobe Reader per l&#39;accesso ai file da un account online",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40280.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apertura di un file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40282.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come spostarsi in un file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40286.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modifica delle dimensioni di visualizzazione del testo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40289.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Invio di un file come allegato di un messaggio e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40292.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Stampa di un file PDF",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40294.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modifica o eliminazione di un account online in Adobe Reader",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/41888.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

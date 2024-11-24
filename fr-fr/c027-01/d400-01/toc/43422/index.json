@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Utilisation des diaporamas et options d&#39;affichage dans une présentation Microsoft PowerPoint®",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Basculer entre les diapositives d&#39;une présentation PowerPoint&reg;",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/18327.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zoom et panoramique dans une diapositive",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/18341.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

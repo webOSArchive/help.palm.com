@@ -1,0 +1,249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+     {
+     	"title": "Clips",
+     	"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+     	"sort_by": ["category"],
+     	"json_result": "success",
+     	"items": [
+     	
+    		
+    	
+    	
+    		{
+				"category": "Your Device",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Set up all your accounts in one place",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/02_account_synergy_en_320.mp4",
+				"link_number": "1: 1.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Your Device",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Customize ringtones and alerts",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/03_customize_ringtones_en_320.mp4",
+				"link_number": "2: 1.3"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Your Device",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Locating and using powerful menu options",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/04_webOS_menus_en_320.mp4",
+				"link_number": "3: 1.4"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Your Device",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Camera keyboard shortcuts",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/06_02_camerakeyboardshortcuts_en_320.mp4",
+				"link_number": "4: 1.7"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Move around",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Just Type to search, navigate, communicate",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/01_just_type_en_320.mp4",
+				"link_number": "5: 2.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Manage your apps",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Install a free app",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/06_01_installfreeapp_en_320.mp4",
+				"link_number": "6: 3.6"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Contacts",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Add a favorite",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/06_04_addafavorite_en_320.mp4",
+				"link_number": "7: 4.9"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Phone",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Silence ringer and ignore a call",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/06_05_silenceringer_en_320.mp4",
+				"link_number": "8: 5.10"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Phone",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Last number redial",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/06_06_lastnumberredial_en_320.mp4",
+				"link_number": "9: 5.11"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Phone",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Hang up a call by throwing it away",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/06_08_hangupcall_en_320.mp4",
+				"link_number": "10: 5.13"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Copy files",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Copy ringtones, music and files between your phone and computer",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/05_copy_files_music_en_320.mp4",
+				"link_number": "11: 6.5"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Email",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Filter your email",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/06_03_filteremail_en_320.mp4",
+				"link_number": "12: 7.8"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Email",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Delete emails the easy way",
+				"url": "http://downloads.help.webosarchive.com/devicehelp/broadway/en/06_07_deletemails_en_320.mp4",
+				"link_number": "13: 7.12"
+			                 
+    		    }   	
+    	
+    			
+    		
+    
+     	]
+     }
+ 
+
+  	
+
+

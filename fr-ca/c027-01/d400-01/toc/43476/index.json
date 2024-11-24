@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Réception d&#39;appels",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Répondre à un appel",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19199.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Désactivation de la sonnerie d&#39;un appel entrant",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19231.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ignorer un appel",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19217.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

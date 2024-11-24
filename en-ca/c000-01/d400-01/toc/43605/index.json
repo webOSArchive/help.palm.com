@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Work with text and multimedia messages",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Add a contact from a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/21067.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View a contact&#39;s information from a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/21189.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial a number from a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/21175.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

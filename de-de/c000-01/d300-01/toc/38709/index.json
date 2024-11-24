@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "6Ts: Sechs Tipps, damit Ihr Telefon wieder funktioniert",
+	"app_name": "",
+	"chat_appId": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Tipp 1: Werfen Sie alle offenen Anwendungen über den oberen Bildschirmrand.",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/28399.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Tipp 2: Schalten Sie das Telefon ganz aus und wieder ein.",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/38309.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Tipp 3: Starten Sie das Telefon durch dreimaliges Umschalten neu",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/38319.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Tipp 4: Laden Sie den Akku auf.",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/28485.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Tipp 5: Entfernen Sie den Akku.",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/38674.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Tipp 6: Schließen Sie das Telefon an den Computer an und installieren Sie die webOS-Software neu.",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/28515.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Bluetooth",
+	"app_name": "bluetooth",
+	"chat_appId": "bluetooth",
+	"icon": "",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Turn the Bluetooth feature on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/26481.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Make a pairing request to another device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/26932.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Accept a pairing request from another device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/26361.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connect with a paired device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/26375.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Forward contact phone numbers or text messages to a car kit",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/42618.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manage webOS tablet connection preferences",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/42634.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Rename a device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/26465.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Disconnect from a device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/26407.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/26391.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "What is Touch to Share?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/19783.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Pair with an HP webOS&nbsp;tablet using Touch to Share",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/42609.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Share a web page using Touch to Share",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/42632.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Disconnect a Touch to Share connection",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/42640.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a Touch to Share connection",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/42643.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

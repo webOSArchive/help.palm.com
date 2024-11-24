@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Schermo d&#39;avvio",
+	"app_name": "launcher",
+	"chat_appId": "launcher",
+	"icon": "file:///usr/lib/luna/system/luna-applauncher/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Utilizzo degli schermi di avvio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/21611.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Riordinamento delle icone dello schermo d&#39;avvio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/21553.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Aggiunta di una pagina allo schermo di avvio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/21499.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Riordinamento delle pagine dello schermo di avvio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/21565.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ridenominazione di una pagina dello schermo di avvio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/21529.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminazione di una pagina dello schermo di avvio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/21515.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

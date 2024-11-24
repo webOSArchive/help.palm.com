@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Backup",
+	"app_name": "backup",
+	"chat_appId": "backup",
+	"icon": "file:///usr/palm/applications/com.palm.app.backup/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "What is an HP webOS Account?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/42496.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manually back up information to your HP webOS Account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/42500.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Erase HP webOS Account information from the server",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/42503.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Update your HP webOS Account settings",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/17877.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

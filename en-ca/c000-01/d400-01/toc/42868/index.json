@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Email",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "How do I send and receive email on my smartphone?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/22109.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set up email",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43577/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Merged inboxes in Email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/22039.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Send and receive messages",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43580/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with email messages",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43584/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with email folders",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43589/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reply to meeting invitations",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/22063.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Send email messages from within another application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/42381.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Customize email settings",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43592/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

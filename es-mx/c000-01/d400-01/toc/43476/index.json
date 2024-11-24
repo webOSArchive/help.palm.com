@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Recepción de llamadas",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Respuesta a una llamada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/19199.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Timbre en silencio en una llamada entrante",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/19231.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Llamada ignorada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/19217.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

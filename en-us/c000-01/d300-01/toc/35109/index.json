@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Music",
+	"app_name": "music",
+	"chat_appId": "music",
+	"icon": "file:///usr/palm/applications/com.palm.app.musicplayer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Get music onto your phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20385.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Listen to music",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20405.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use music playback controls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20449.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Switch the Now Playing display",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20507.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Create a playlist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20353.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Search for related songs or content",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20493.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change order of items in the Playlist view",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20339.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Return to Album Art view for the currently playing song from anywhere in the Music app",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20479.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Remove a song from Playlist view",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20465.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a song from your smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/20367.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

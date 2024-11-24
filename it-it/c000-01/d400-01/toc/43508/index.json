@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Uso della Guida",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Come sfogliare la Guida",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/27787.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione della Guida per una specifica applicazione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/27801.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Passaggio dalla Guida a un&#39;altra applicazione aperta e viceversa",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/27775.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

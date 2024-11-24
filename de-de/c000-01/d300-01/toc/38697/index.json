@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Auf dem Telefon navigieren",
+	"app_name": "",
+	"chat_appId": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Kartenansicht anzeigen (Anwendung minimieren)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27247.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Startbildschirm öffnen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27335.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "In einer Anwendung eine Ebene zurückgehen (Zurück-Geste)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27421.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zu einer anderen geöffneten Anwendung wechseln",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27305.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Zu einer bestimmten Position rollen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27345.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Schnell rollen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27359.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Bildlauf stoppen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27407.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Heranzoomen, um die Darstellung auf dem Bildschirm zu vergrößern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27467.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Herauszoomen, um die Darstellung auf dem Bildschirm zu verkleinern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27489.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anzeige um ein festgesetztes Maß vergrößern/verkleinern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/42771.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cursor in ein Textfeld platzieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27175.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cursor bewegen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27277.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Text auswählen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27375.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ziehen und ablegen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27223.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Listenelemente löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/27191.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

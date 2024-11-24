@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "App Catalog",
+	"app_name": "app_catalog",
+	"chat_appId": "app_catalog",
+	"icon": "http://help.palm.com/images/app_icons/app_catalog.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Exploración de App Catalog",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/36109.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Descarga de una aplicación gratuita",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/28673.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Compra de una aplicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/10735.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Administración de aplicaciones descargadas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/36113.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Actualización de aplicaciones descargadas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/36116.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuración de una cuenta de facturación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/28719.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Actualización o eliminación de una cuenta de facturación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/28797.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

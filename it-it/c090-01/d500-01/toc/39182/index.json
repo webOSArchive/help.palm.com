@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Data e ora",
+	"app_name": "date_time",
+	"chat_appId": "date_time",
+	"icon": "file:///usr/palm/applications/com.palm.app.dateandtime/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Utilizzo di Data e ora",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40216.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

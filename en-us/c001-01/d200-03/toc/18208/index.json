@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Work with cells, sheets, and data in a Microsoft Excel® spreadsheet",
+	"app_name": "doc_view",
+	"chat_appId": "doc_view",
+	"icon": "file:///usr/palm/applications/com.palm.app.docviewer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Resize rows or columns",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/22985.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Select a row or column",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/22999.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View comments",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/23045.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

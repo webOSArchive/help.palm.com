@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Copia de seguridad",
+	"app_name": "backup",
+	"chat_appId": "backup",
+	"icon": "file:///usr/palm/applications/com.palm.app.backup/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "¿Qué es una cuenta de HP webOS?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/42496.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copia de seguridad manual de la información en la cuenta de HP webOS",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/42500.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación del servidor de la información de la cuenta de HP webOS",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/42503.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Actualización de la configuración de la cuenta de HP webOS",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/17877.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

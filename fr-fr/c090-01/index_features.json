@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Présentations",
+	"app_name": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/featured.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Votre appareil&nbsp;: vue avant",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40396.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Utilisation du clavier à l&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40389.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Copie de fichiers entre votre appareil et votre ordinateur",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/41728.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Affichage de la vue Cartes (minimisation d&#39;une application)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40347.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Ouverture d&#39;applications à partir de l&#39;écran de lancement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40343.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Utilisation du menu d&#39;application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40323.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Utilisation du menu du système",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40326.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Enregistrement des informations entrées",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40379.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Connexion à un nouveau réseau ouvert",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/3329.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Connexion à un portail captif",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/39555.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Ajouter une imprimante",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/36311.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "5T&nbsp;: Cinq techniques pour remettre votre appareil en marche",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40470/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Extinction de l&#39;appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40329.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    }     		
+    
+     ]
+    }
+  	
+ 
+

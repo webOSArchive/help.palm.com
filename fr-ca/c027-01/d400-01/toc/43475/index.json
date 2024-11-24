@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Faire un appel",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Composition d&#39;un numéro en recherchant un nom de contact à l&#39;aide de la fonction Tapez maintenant",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19845.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Composer un numéro à l&#39;aide du clavier numérique à l&#39;écran",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42565.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Faire des appels à l&#39;aide du clavier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19967.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Composition d&#39;un favori",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19807.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Appel à l&#39;aide de la composition abrégée",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19953.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Composition d&#39;un numéro à partir d&#39;un nom de contact dans l&#39;application Téléphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19759.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recomposer le dernier numéro composé",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19855.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Composition d&#39;un numéro de contact Skype",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42590.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation de Skype pour composer un numéro international",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42595.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Composition du numéro d&#39;urgence national",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19791.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Composition d&#39;un numéro à partir d&#39;une autre application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19821.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

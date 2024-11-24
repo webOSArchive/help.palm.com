@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Telefono",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Attivazione e disattivazione del telefono",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/18827.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Effettuazione di chiamate",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38747/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ricevere chiamate",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38748/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzare la casella vocale",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38756/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Operazioni possibili durante una chiamata",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38750/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Numero di telefono personale",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/18889.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione della cronologia delle chiamate",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/18859.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzo dei preferiti",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38760/index.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Salvataggio di un numero di telefono in Contatti",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d300-01/article/35576.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzo di cuffie per il telefono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38752/index.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalizzazione delle impostazioni del telefono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c000-01/d300-01/toc/38754/index.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

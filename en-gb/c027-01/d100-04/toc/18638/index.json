@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Videos",
+	"app_name": "video",
+	"chat_appId": "video",
+	"icon": "file:///usr/palm/applications/com.palm.app.videoplayer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Record a video",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/11217.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Edit videos you recorded",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/11033.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Upload or share videos you recorded",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/11485.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Watch a video",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/17191.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use video playback controls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/15523.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a video",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/10819.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Utilisation des favoris",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Création d&#39;un favori",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/18957.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage des détails du favori",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/19017.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout d&#39;un numéro de téléphone à un favori",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/18943.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Définition ou modification du numéro par défaut d&#39;un favori",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/18985.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un contact de la liste des favoris",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/18971.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Utilizzo dei preferiti",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Creazione di un preferito",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/18957.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione dei dettagli di un preferito",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/19017.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Aggiunta di un numero di telefono a un preferito",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/18943.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Impostazione o modifica di un numero predefinito per un preferito",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/18985.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Rimozione di un contatto dall&#39;elenco di preferiti",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/18971.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

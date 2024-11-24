@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Personalización de la configuración del teléfono",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Activación o desactivación de la visualización de contactos coincidentes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19627.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación o desactivación de la transferencia de llamadas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19393.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación o desactivación del ID de llamada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19253.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación o desactivación de la llamada en espera",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19275.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación o desactivación del marcado internacional",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19413.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de métodos abreviados de marcado",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19679.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Bloqueo o desbloqueo de la tarjeta SIM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19453.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso del marcado restringido",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19371.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Establecimiento de las preferencias de uso de roaming y datos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19579.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación o desactivación del teletipo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19351.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación de la compatibilidad con audífono",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/19337.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

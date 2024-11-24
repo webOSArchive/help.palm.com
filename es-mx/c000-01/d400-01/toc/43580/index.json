@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Envío y recepción de mensajes",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Creación y envío de un mensaje de correo electrónico",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42332.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Formato del texto del correo electrónico",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/22661.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de archivos adjuntos a un mensaje",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/22625.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Guardado de un mensaje como borrador",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/22755.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recepción y lectura de mensajes de correo electrónico",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42334.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apertura de archivos adjuntos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/22691.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Guardado de archivos adjuntos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42339.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Imagen en línea guardada o compartida",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/22789.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

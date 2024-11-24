@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Manage applications",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "See all open applications (Card view)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40362.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with stacked cards",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40363.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Move among cards and stacks",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40366.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Stack cards",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40368.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change card order or unstack cards",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40371.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Close an application or application screen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40359.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorder Launcher icons",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40167.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Line up your favorite applications in Quick Launch",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40356.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorder Quick Launch icons",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/27679.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete an application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-mx/c090-01/d500-01/article/40361.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Envoi et réception de messages",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Création et envoi d&#39;un email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/22651.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Formatage du texte de l&#39;email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/22661.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout de pièces jointes à un message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/22625.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement d&#39;un message comme brouillon",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/22755.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réception et lecture des emails",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/38391.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ouverture de pièces jointes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/22691.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement des pièces jointes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/22739.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrez ou partagez une image en ligne",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d300-01/article/22779.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

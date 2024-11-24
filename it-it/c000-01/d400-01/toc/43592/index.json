@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Personalizzare le impostazioni e-mail",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Impostazione delle preferenze e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/22861.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Riordinamento degli account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/22837.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Attivazione/disattivazione delle notifiche di nuove e-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/22821.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

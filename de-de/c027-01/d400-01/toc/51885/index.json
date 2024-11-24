@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Quickoffice",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Datei öffnen und speichern",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c027-01/d400-01/toc/43428/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "In Microsoft Excel®-Tabellen mit Zellen, Arbeitsblättern und Daten arbeiten",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c027-01/d400-01/toc/43415/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "In Microsoft PowerPoint®-Präsentationen mit Bildschirmpräsentationen arbeiten und Optionen anzeigen",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c027-01/d400-01/toc/43422/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

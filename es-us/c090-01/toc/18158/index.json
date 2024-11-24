@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Trabajo con celdas, hojas y datos en una hoja de cálculo de Microsoft Excel®",
+	"app_name": "doc_view",
+	"chat_appId": "doc_view",
+	"icon": "file:///usr/palm/applications/com.palm.app.docviewer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Cambio entre hojas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/35975.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Selección de una fila o columna",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/35964.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio de tamaño de filas o columnas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/35952.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización u ocultamiento de filas o columnas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/35950.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Orden de los datos en una hoja de cálculo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/35968.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de comentarios",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/35977.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,207 @@
+/*
+ * Using the same CSS style sheet for web site and TeamSite TinyMCE Editor
+ *
+ *   1- Updates to /css/tinymce.css in the TeamSite workarea will show in the editor
+ *      (If you're woring on cmsDEV, you'll need to update the branch copy from prod)
+ *
+ *   2- Submit/deploy this to the Web site to make the styles show there.
+ *
+ * 2008-12-15 Tom Baker TwB - NovaHelp
+ *
+ */
+ 
+/* --------------- */
+/* TinyMCE Styles  */
+/* --------------- */
+
+
+/* 
+   See:
+   1) TeamSite TinyMCE:/cust/iw-home/httpd/iw/tinymce/config/custom_content.css
+   2) TeamSite Branch: /default/main/Help_and_Support/on-device-help/WORKAREA/workarea/docs/css/tinymce.css
+   3) Web Server: http://dev-www-help.palm.com/css/tinymce.css
+
+*/
+
+
+
+body { background:#e4e4e2; color:#151515; font:16px 'Prelude', sans-serif; }  
+p { margin:0 0 8px; background:#e4e4e2; color:#151515; font:16px 'Prelude', sans-serif; } 
+a { color:#151515; text-decoration:underline; font-weight:bold; display:inline ; }
+
+
+
+.textHelpLink { color:#151515; text-decoration:underline; font-weight:bold; display:inline ; }
+
+
+	.mceContentBody .inner { padding:20px; }
+	.mceContentBody h3 { margin:0 0 8px; font-size:24px; }	/* debug, should come out eventually */
+	
+		
+	.mceContentBody .textProcedure { font-weight:bold !important; display:inline; }
+	
+	/* Ordered (Numbered) Lists */
+	.mceContentBody ol { margin:0 20px; font-size:16px; }	
+		.mceContentBody ol li { padding:0 0 24px; line-height:20px; } 	
+			.mceContentBody ol li p {  } 		
+				.mceContentBody ol li p img { vertical-align:middle; }			
+			.mceContentBody ol li a { text-decoration:underline; font-weight:bold; } 			
+
+			.mceContentBody ol li span.textHelpLink { font-weight:bold; text-decoration:underline; display:inline !important; } 
+	
+		.mceContentBody ol a span.textHelpLink { display:inline; text-decoration:underline; }
+
+
+	.mceContentBody span.bordered-bottom { overflow:hidden; padding:8px 0; border-bottom:1px solid #999999; }
+
+
+	/* Unordered (Bulleted) Lists... including ones nested in numbered lists */
+			
+	.mceContentBody ul { margin:0 20px; font-size:16px; }	
+		.mceContentBody ul li { padding:0 0 24px; line-height:20px; } 
+			.mceContentBody ul li p {  } 				
+			.mceContentBody ul li a { text-decoration:underline; font-weight:bold; } 			
+	
+			.mceContentBody ul li span.textHelpLink { font-weight:bold; text-decoration:underline; color: #151515;  display:inline !important; } 
+
+
+		
+	/* Bulleted nested under numbered lists */
+	.mceContentBody ol ul { margin:0; padding:0 0 0 16px; list-style:disc;  } 
+		
+		
+	.mceContentBody .textLearnMore { font-weight: bold; }
+	.mceContentBody .textLearnMore a { font-weight: bold; text-decoration: underline }
+	
+	
+	.mceContentBody .textGraphicLink { display:inline; }
+	
+
+
+	.mceContentBody .launcher_icon { display:inline; font:16px 'Prelude', sans-serif; font-weight:bold; text-decoration:underline; }
+	.mceContentBody .launcher_icon img { display:inline; vertical-align:middle; padding:0 4px 0 4px;  }
+
+	.mceContentBody .menu_link { display:inline; font:16px 'Prelude', sans-serif; font-weight:bold; }
+	.mceContentBody .menu_link a { display:inline; text-decoration:underline; font:16px 'Prelude', sans-serif; font-weight:bold; }
+			
+
+	
+	.mceContentBody .unorderedGraphical {}
+		.mceContentBody .unorderedGraphical .bulletGraphical { background:none; display:inline; padding:0; vertical-align:middle; } /* override existing */
+		.mceContentBody .unorderedGraphical ul { list-style:none; padding:0; margin:0 0 12px; font-size:16px; }																																											
+			.mceContentBody .unorderedGraphical ul li { padding:0 0 0 0 ;   }
+				.mceContentBody .unorderedGraphical ul li span { padding:8px 0 !important; border-bottom:1px solid #999999; display:block  !important; }		
+				.mceContentBody .unorderedGraphical ul li span.bulletGraphical img { vertical-align:middle; }
+				.mceContentBody .unorderedGraphical ul li span img { margin:0 8px 0 0; }
+				.mceContentBody .unorderedGraphical ul li span.textHelpLink { font-weight:bold; text-decoration:underline; color: #151515;  display:inline !important; } 
+
+	.mceContentBody .bulletGraphical { vertical-align:middle; }
+	
+	
+	.mceContentBody .bulletIndent { }
+		.mceContentBody .bulletIndent ol { }
+			.mceContentBody .bulletIndent ol li { padding:0 0 18px; }		
+				.mceContentBody .bulletIndent ol ul { list-style:disc; margin:4px 0 0 16px; }									
+					.mceContentBody .bulletIndent ol ul li { padding:0 0 8px; } 			
+						.mceContentBody .bulletIndent ol ul li * { vertical-align:middle; }				
+						.mceContentBody .bulletIndent ol ul li span { display:inline; }
+						
+
+	
+	.mceContentBody .paraBeforeYouBeginOpening { margin:16px 0 4px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; display: block; border-width: 4px 0 0 0; border-style: solid; border-color: #83ABCD; color: #83ABCD; font-weight:bold; }
+
+		.mceContentBody .paraBeforeYouBeginOpening span { display:inline; padding:0 4px 0 0; background:#e4e4e2; color:#83ABCD; font-size:16px; text-transform:uppercase; font-weight:bold; border-width: 4px 0 4px 0; border-style: solid; border-color: #83ABCD; color: #83ABCD; font-weight:bold; }		
+		
+		/*#
+		content .paraBeforeYouBegin { font-size:16px; }	
+			.mceContentBody .paraBeforeYouBegin .opening { margin:0 0 18px; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; }
+				.mceContentBody .paraBeforeYouBegin .opening span { display:inline; padding:0 4px 0 0; background:#dedede; color:#7ea5c5; text-transform:uppercase; font-weight:bold; }		
+			.mceContentBody .paraBeforeYouBegin .closing { background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; text-indent:-1000em; }			
+			.mceContentBody .paraBeforeYouBegin ul { list-style:disc; margin:4px 0 18px 20px; }					
+				.mceContentBody .paraBeforeYouBegin ul li { padding:0 0 12px; }		
+			.mceContentBody .paraBeforeYouBegin p { margin:0 0 18px; }		
+
+		*/
+	.mceContentBody .paraBeforeYouBeginClosing { margin:4px 0 16px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; text-indent:-1000em;  display: block; border-width: 4px 0 0 0; border-style: solid; border-color: #83ABCD; }			
+		
+
+
+	.mceContentBody .paraImportantOpening { margin:16px 0 4px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; display: block; border-width: 2px 0 0 0; border-style: solid; border-color: #EDBE00; color: #EDBE00; font-weight:bold; }
+
+		.mceContentBody .paraImportantOpening span { display:inline; padding:0 4px 0 0; background:#e4e4e2; color:#83ABCD; font-size:16px; text-transform:uppercase; font-weight:bold; border-width: 2px 0 0 0; border-style: solid; border-color: #EDBE00; color: #EDBE00; font-weight:bold; }
+		
+		.mceContentBody .paraImportantOpening:after { content: ": "; }		
+	
+	.mceContentBody .paraImportantText { text-transform:uppercase; font-weight:bold; display:inline ; }
+	.mceContentBody .paraImportant { margin:0 16px 0 16px; }	
+	.mceContentBody .paraImportant img { margin:0 6px 0 0; }	
+	.mceContentBody .paraImportant p { display:inline ;}	
+	.mceContentBody .paraImportantClosing { margin:6px 0 8px; background:url('http://dev-help.palm.com/images/list-divider.gif') repeat-x center; text-indent:-1000em;  display: block; border-width: 2px 0 0 0; border-style: solid; border-color: #EDBE00;  }			
+
+
+
+
+	.mceContentBody .paraWarningOpening { margin:16px 0 4px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; display: block; border-width: 4px 0 0 0; border-style: solid; border-color: #83ABCD; color: #83ABCD; font-weight:bold; }
+
+		.mceContentBody .paraWarningOpening span { display:inline; padding:0 4px 0 0; background:#e4e4e2; color:#83ABCD; font-size:16px; text-transform:uppercase; font-weight:bold; border-width: 4px 0 4px 0; border-style: solid; border-color: #83ABCD; color: #83ABCD; font-weight:bold; }			
+
+	.mceContentBody .paraWarningClosing { margin:4px 0 16px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; text-indent:-1000em;  display: block; border-width: 4px 0 0 0; border-style: solid; border-color: #83ABCD; }	
+	
+
+
+
+	.mceContentBody .paraNotesOpening { margin:16px 0 4px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; display: block; border-width: 2px 0 0 0; border-style: solid; border-color: #999999; color: #151515; font-weight:bold; }
+
+		.mceContentBody .paraNotesOpening span { display:inline; padding:0 4px 0 0; background:#e4e4e2; color:#83ABCD; font-size:16px; text-transform:uppercase; font-weight:bold; border-width: 2px 0 0 0; border-style: solid; border-color: #999999; color: #151515; font-weight:bold; }
+		
+		.mceContentBody .paraNotesOpening:after { content: ": "; }				
+		
+	.mceContentBody .paraNoteTitle { text-transform:uppercase; font-weight:bold; display:inline ; }
+	.mceContentBody .paraNotesText { margin:0 16px 0 16px; }	
+	
+	.mceContentBody .paraNotesClosing { margin:6px 0 8px; background:url('http://dev-help.palm.com/images/list-divider.gif') repeat-x center; text-indent:-1000em;  display: block; border-width: 2px 0 0 0; border-style: solid; border-color: #999999;  }	
+	
+
+
+	.mceContentBody .paraQueryOpening { margin:16px 0 4px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; display: block; border-width: 2px 0 0 0; border-style: dashed; border-color: #ff1515; color: #ff1515; font-weight:bold; }
+
+		.mceContentBody .paraQueryOpening span { display:inline; padding:0 4px 0 0; background:#e4e4e2; color:#83ABCD; font-size:16px; text-transform:uppercase; font-weight:bold; border-width: 4px 0 4px 0; border-style: solid; border-color: #ff1515; color: #ff1515; font-weight:bold; }
+		
+		.mceContentBody .paraQueryText { color: #ff1515; }			
+
+	.mceContentBody .paraQueryClosing { margin:4px 0 16px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; text-indent:-1000em;  display: block; border-width: 2px 0 0 0; border-style: dashed; border-color: #ff1515; }	
+	
+
+
+	
+	.mceContentBody .paraOptionalOpening { margin:16px 0 4px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; display: block; border-width: 4px 0 0 0; border-style: solid; border-color: #83ABCD; color: #83ABCD; font-weight:bold; }
+
+		.mceContentBody .paraOptionalOpening span { display:inline; padding:0 4px 0 0; background:#e4e4e2; color:#83ABCD; font-size:16px; text-transform:uppercase; font-weight:bold; border-width: 4px 0 4px 0; border-style: solid; border-color: #83ABCD; color: #83ABCD; font-weight:bold; }			
+
+	.mceContentBody .paraOptionalClosing { margin:4px 0 16px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; text-indent:-1000em;  display: block; border-width: 4px 0 0 0; border-style: solid; border-color: #83ABCD; }	
+		
+
+
+
+
+	.mceContentBody .paraSeeAlso { margin:16px 0 4px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; display: block; border-width: 4px 0 0 0; border-style: solid; border-color: #83ABCD; color: #83ABCD; font-weight:bold; }
+
+		.mceContentBody .paraSeeAlso span { display:inline; padding:0 4px 0 0; background:#e4e4e2; color:#83ABCD; font-size:16px; text-transform:uppercase; font-weight:bold; border-width: 4px 0 4px 0; border-style: solid; border-color: #83ABCD; color: #83ABCD; font-weight:bold; }		
+		
+
+	.mceContentBody .paraSeeAlsoClosing { margin:4px 0 16px 0; background:url('http://dev-help.palm.com/images/bg-before-begin.png') repeat-x center; text-indent:-1000em;  display: block; border-width: 4px 0 0 0; border-style: solid; border-color: #83ABCD; }			
+		
+
+
+	
+	
+	/*
+	.mceContentBody .paraSeeAlso:before {
+			content: "See Also: "; 
+			color: #1166cc; 
+			font-weight: bold;
+	}
+	*/
+
+
+

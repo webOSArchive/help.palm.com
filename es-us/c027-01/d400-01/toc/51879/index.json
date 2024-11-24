@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Amazon MP3",
+	"app_name": "amazon",
+	"chat_appId": "amazon",
+	"icon": "http://help.palm.com/images/app_icons/amazon_mp3.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Acerca de Amazon MP3",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28815.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda de una canción, un álbum o un artista concretos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28861.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Exploración de canciones, álbumes, artistas o géneros",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28829.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de información de un artista y adquisición de música",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28905.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de información de un álbum y compra de un álbum",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28875.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reproducción y compra de una canción",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28845.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización y trabajo con elementos descargados",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28889.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Envoi et réception de messages",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Création et envoi d&#39;un email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/38940.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout de pièces jointes à un message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39425.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement d&#39;un message comme brouillon",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41494.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réception et lecture des emails",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39429.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ouverture de pièces jointes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39441.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement des pièces jointes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39444.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement d&#39;une image en ligne",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39447.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

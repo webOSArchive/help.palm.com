@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Extras",
+	"app_name": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/featured.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Ihr Gerät: Vorderseite",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40396.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Bildschirmtastatur verwenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40389.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Dateien zwischen Gerät und Computer kopieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41728.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Kartenansicht anzeigen (Anwendung minimieren)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40347.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Anwendung im Startbildschirm öffnen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40343.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Anwendungsmenü verwenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40323.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Systemmenü verwenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40326.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Eingegebene Daten speichern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40379.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Verbindung zu einem neuen offenen Netzwerk herstellen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/3329.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Verbindung zu einem Captive Portal herstellen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/39555.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Drucker hinzufügen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/36311.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "5Ts: Fünf Tipps, damit Ihr Gerät wieder funktioniert",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40470/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Gerät ausschalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40329.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    }     		
+    
+     ]
+    }
+  	
+ 
+

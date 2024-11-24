@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Administrador de software",
+	"app_name": "softwaremgr",
+	"chat_appId": "softwaremgr",
+	"icon": "http://help.palm.com/images/app_icons/softwaremgr.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Administración de aplicaciones descargadas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/10003.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Actualización de una aplicación descargada desde una notificación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/40243.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Comprobación manual de actualizaciones de aplicaciones",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42359.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

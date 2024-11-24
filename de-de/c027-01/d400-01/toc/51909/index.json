@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Standortbasierte Dienste",
+	"app_name": "location",
+	"chat_appId": "location",
+	"icon": "file:///usr/palm/applications/com.palm.app.location/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "An Anwendungen übertragene Standortinformationen verwalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42732.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "An Websites übertragene Standortinformationen verwalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/21451.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anbieter standortbasierter Dienste aktivieren/deaktivieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/21467.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

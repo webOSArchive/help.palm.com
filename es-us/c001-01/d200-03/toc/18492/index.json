@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Servicios de ubicación",
+	"app_name": "location",
+	"chat_appId": "location",
+	"icon": "file:///usr/palm/applications/com.palm.app.location/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Uso de Servicios de ubicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/21481.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

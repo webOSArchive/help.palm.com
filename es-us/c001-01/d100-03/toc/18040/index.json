@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Vista de documentos",
+	"app_name": "doc_view",
+	"chat_appId": "doc_view",
+	"icon": "file:///usr/palm/applications/com.palm.app.docviewer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Apertura, búsqueda en y guardado de un archivo",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/18156/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con comentarios, notas finales y notas al pie en un documento de Microsoft Word",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35935.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con celdas, hojas y datos en una hoja de cálculo de Microsoft Excel®",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/18152/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con presentaciones de diapositivas y opciones de presentación en una presentación de Microsoft PowerPoint®",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/18154/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Actualización a Documents To Go® de DataViz",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35928.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

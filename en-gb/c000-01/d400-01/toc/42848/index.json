@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Phone",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Turn the phone on and off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/18827.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Make calls",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43475/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Receive calls",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43476/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use Skype voice and video calling",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/51979/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use voicemail",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43481/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "What can I do during a call?",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43477/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "What&#39;s my number?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/18889.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View your call history",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/18859.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with favorites",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43482/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Save a phone number to Contacts",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d400-01/article/18791.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use a phone headset",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43479/index.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Customize smartphone settings",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d400-01/toc/43480/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

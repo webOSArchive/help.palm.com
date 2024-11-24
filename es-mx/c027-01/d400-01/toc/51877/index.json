@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Música",
+	"app_name": "music",
+	"chat_appId": "music",
+	"icon": "file:///usr/palm/applications/com.palm.app.musicplayer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Obtención de música en el smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/42554.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Escuchar música",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/20395.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de controles de reproducción de música",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/20449.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio de la pantalla En reproducción",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/20507.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda de canciones o contenidos relacionados",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/20493.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio del orden de los elementos en la vista de lista de reproducción",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/20339.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Regreso a la vista de carátula del álbum de la canción actualmente en reproducción desde cualquier lugar de la aplicación Música",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/20479.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una canción de la vista de lista de reproducción",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/20465.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una canción del smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/20367.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de HP Play para sincronizar música del ordenador con el smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/42574.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Instalación de HP Play",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/41319.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuración de HP Play para que se sincronice con el smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/42583.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sincronización manual de música desde HP Play al smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/42587.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

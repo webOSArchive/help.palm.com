@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Fotos",
+	"app_name": "photos",
+	"chat_appId": "photos",
+	"icon": "file:///usr/palm/applications/com.palm.app.photos/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Visualización de fotos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18705.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de una foto a un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18557.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Guardar una foto como imagen de fondo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18651.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso compartido de una foto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18665.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Organización de las fotos en álbumes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18617.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de fotos en una presentación de diapositivas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18719.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuración de una cuenta de fotos en línea en el smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18545.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Carga de una foto en la Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18693.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una foto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18603.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de un álbum",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/18575.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una cuenta de fotos en línea",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/42545.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

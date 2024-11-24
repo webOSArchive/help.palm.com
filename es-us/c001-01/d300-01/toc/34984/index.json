@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Wi-Fi móvil de Palm",
+	"app_name": "mobilehotspot",
+	"chat_appId": "mobilehotspot",
+	"icon": "http://help.palm.com/images/app_icons/mobilehotspot.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "¿Qué es el Wi-Fi móvil de Palm?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/20629.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Instalación del Wi-Fi móvil de Palm",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/20539.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creación de un Wi-Fi móvil seguro",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/20573.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creación de un Wi-Fi móvil abierto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/20557.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso del Wi-Fi móvil de Palm",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/20603.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio de la contraseña segura",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/20525.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de información acerca de dispositivos conectados",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/20617.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Présentations",
+	"app_name": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Votre téléphone&nbsp;: vue avant",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/38324.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Votre téléphone&nbsp;: clavier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/38337.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Activation et désactivation de l&#39;écran et des services sans fil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/38263.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Copie de fichiers entre votre téléphone intelligent et votre ordinateur",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/28343.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Affichage de la vue Cartes (minimisation d&#39;une application)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/27247.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Ouverture d&#39;applications à partir de l&#39;écran de lancement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/27107.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Ouverture du menu d&#39;une application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26893.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Ouverture du menu de connexion",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/26937.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Retour à l&#39;écran précédent dans une application (geste arrière)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/27421.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Composition d&#39;un numéro en recherchant un nom de contact à l&#39;aide de la fonction Tapez maintenant",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/35832.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Enregistrement des informations entrées",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d300-01/article/28057.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "6T&nbsp;: Six techniques pour remettre votre téléphone intelligent en marche",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d300-01/toc/38612/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }     		
+    
+     ]
+    }
+  	
+ 
+

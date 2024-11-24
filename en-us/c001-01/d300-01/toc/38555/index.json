@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Receive calls",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Answer a call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/19199.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Silence the ringer on an incoming call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/19231.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ignore a call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/19217.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ignore a call through a connected phone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/49589.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Gestion des applications",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Affichage de toutes les applications ouvertes (vue Cartes)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40362.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation de cartes empilées",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40363.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Navigation entre les cartes et les piles",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40366.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Empilement de cartes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40368.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification de l&#39;ordre des cartes ou dégroupage de cartes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40371.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Fermeture d&#39;une application ou de l&#39;écran d&#39;une application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40359.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réorganisation des icônes affichées sur l&#39;écran de lancement",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40167.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Alignement de vos applications favorites dans la barre de lancement rapide",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40356.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réorganisation des icônes affichées dans la barre de lancement rapide",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/27679.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;une application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40361.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

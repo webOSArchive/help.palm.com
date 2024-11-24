@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Mensajería",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Obtención y envío de mensajes de texto/multimedia",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c000-01/d100-04/toc/21560/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con mensajes de texto y multimedia",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c000-01/d100-04/toc/21562/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de una cuenta de mensajería instantánea (IM)",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c000-01/d100-04/toc/21564/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de emoticonos en un mensaje",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20805.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reenvío de un mensaje",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20715.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copia de mensajes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20699.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado de un número desde una conversación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20681.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio entre la vista Conversaciones y la vista Amigos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20791.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalización de la configuración de IM",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c000-01/d100-04/toc/21558/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalización de notificaciones de mensajería",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20745.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,155 @@
+
+body { background:#ffffff; color:#151515; font:18px 'Prelude', sans-serif; }  
+p { margin:0 0 8px; background:none; color:#151515; font:18px 'Prelude', sans-serif; } 
+a { text-decoration:underline; display:inline ; }
+
+
+
+
+.textHelpLink { text-decoration:underline; display:inline ; }
+
+	#content .inner { padding:20px; }
+	#content h3 { margin:0 0 8px; font-size:24px; }	/* debug, should come out eventually */
+	
+		
+	#content .textProcedure { font-weight:bold !important; display:inline; }
+	
+	/* Ordered (Numbered) Lists */
+	#content ol { margin:0 20px; font-size:18px; }	
+		#content ol li { padding:0 0 24px; line-height:20px; } 	
+			#content ol li p {  } 		
+				#content ol li p img { vertical-align:middle; }			
+			#content ol li a { text-decoration:underline; } 			
+
+			#content ol li span.textHelpLink { font-weight:bold; text-decoration:underline; display:inline !important; } 
+	
+		#content ol a span.textHelpLink { display:inline; text-decoration:underline; }
+
+
+	#content span.bordered-bottom { overflow:hidden; padding:8px 0; border-bottom:1px solid #999999; }
+
+
+	/* Unordered (Bulleted) Lists... including ones nested in numbered lists */
+			
+	#content ul { margin:0 20px; font-size:18px; }	
+		#content ul li { padding:0 0 24px; line-height:20px; } 
+			#content ul li p {  } 				
+			#content ul li a { text-decoration:underline; } 			
+	
+			#content ul li span.textHelpLink { font-weight:bold; text-decoration:underline;  display:inline !important; } 
+
+
+		
+	/* Bulleted nested under numbered lists */
+	#content ol ul { margin:0; padding:0 0 0 18px; list-style:disc;  } 
+		
+		
+	#content .textLearnMore { font-weight: bold; }
+	#content .textLearnMore a { text-decoration: underline }
+	
+	
+	#content .textGraphicLink { display:inline; }
+	
+
+
+	#content .launcher_icon { display:inline; background:none; font:18px 'Prelude', sans-serif; font-weight:bold; }
+	#content .launcher_icon img { display:inline; background:none; vertical-align:middle; padding:0 4px 0 4px;  }
+
+	#content .menu_link { display:inline; font:18px 'Prelude', sans-serif; font-weight:bold; }
+	#content .menu_link a { display:inline; text-decoration:underline; font:18px 'Prelude', sans-serif; }
+			
+
+	
+	#content .unorderedGraphical {}
+		#content .unorderedGraphical .bulletGraphical { background:none; display:inline; padding:0; vertical-align:middle; } /* override existing */
+		#content .unorderedGraphical ul { list-style:none; padding:0; margin:0 0 12px; font-size:18px; }																																											
+			#content .unorderedGraphical ul li { padding:0 0 0 0 ;   }
+				#content .unorderedGraphical ul li span { padding:8px 0 !important; border-bottom:1px solid #999999; display:block  !important; }		
+				#content .unorderedGraphical ul li span.bulletGraphical img { vertical-align:middle; }
+				#content .unorderedGraphical ul li span img { margin:0 8px 0 0; }
+				#content .unorderedGraphical ul li span.textHelpLink { font-weight:bold; text-decoration:underline;  display:inline !important; } 
+
+	#content .bulletGraphical { vertical-align:middle; }
+	
+	
+	#content .bulletIndent { }
+		#content .bulletIndent ol { }
+			#content .bulletIndent ol li { padding:0 0 18px; }		
+				#content .bulletIndent ol ul { list-style:disc; margin:4px 0 0 18px; }									
+					#content .bulletIndent ol ul li { padding:0 0 8px; } 			
+						#content .bulletIndent ol ul li * { vertical-align:middle; }				
+						#content .bulletIndent ol ul li span { display:inline; }
+						
+
+	
+	#content .paraBeforeYouBeginOpening { margin:16px 0 4px 0; background:url('/images/bg-before-begin.png') repeat-x center; }
+		#content .paraBeforeYouBeginOpening span { display:inline; padding:0 4px 0 0; background:#ffffff; color:#7ea5c5; font-size:18px; text-transform:uppercase; font-weight:bold; }		
+		/*#
+		content .paraBeforeYouBegin { font-size:16px; }	
+			#content .paraBeforeYouBegin .opening { margin:0 0 18px; background:url('/images/bg-before-begin.png') repeat-x center; }
+				#content .paraBeforeYouBegin .opening span { display:inline; padding:0 4px 0 0; background:#dedede; color:#7ea5c5; text-transform:uppercase; font-weight:bold; }		
+			#content .paraBeforeYouBegin .closing { background:url('/images/bg-before-begin.png') repeat-x center; text-indent:-1000em; }			
+			#content .paraBeforeYouBegin ul { list-style:disc; margin:4px 0 18px 20px; }					
+				#content .paraBeforeYouBegin ul li { padding:0 0 12px; }		
+			#content .paraBeforeYouBegin p { margin:0 0 18px; }		
+
+		*/
+	#content .paraBeforeYouBeginClosing { margin:4px 0 18px 0; background:url('/images/bg-before-begin.png') repeat-x center; text-indent:-1000em; }			
+		
+		
+	#content .paraImportantOpening { margin:0 0 6px; background:url('/images/list-divider.gif') repeat-x center; text-indent:-1000em; }		
+	#content .paraImportantText { text-transform:uppercase; font-weight:bold; display:inline ; }
+	#content .paraImportant { margin:0 16px 0 16px; }	
+	#content .paraImportant img { margin:0 6px 0 0; }	
+	#content .paraImportant p { display:inline ;}	
+	#content .paraImportantClosing { margin:6px 0 8px; background:url('/images/list-divider.gif') repeat-x center; text-indent:-1000em; }			
+
+
+				
+	#content .paraWarningOpening { margin:16px 0 4px 0; background:url('/images/bg-before-begin.png') repeat-x center; }
+		#content .paraWarningOpening span { display:inline; padding:0 4px 0 0; background:#ffffff; color:#7ea5c5; font-size:18px; text-transform:uppercase; font-weight:bold; }		
+	#content .paraWarningClosing { margin:4px 0 16px 0; background:url('/images/bg-before-begin.png') repeat-x center; text-indent:-1000em; }			
+		
+		
+	#content .paraNotesOpening { margin:0 0 8px; background:url('/images/list-divider.gif') repeat-x center; text-indent:-1000em; }		
+	#content .paraNoteTitle { text-transform:uppercase; font-weight:bold; display:inline ; }
+	#content .paraNotesText { margin:0 16px 0 16px; }	
+	#content .paraNotesClosing { margin:0 0 8px; background:url('/images/list-divider.gif') repeat-x center; text-indent:-1000em; }			
+
+
+	#content .paraQueryOpening { margin:16px 0 4px 0; background:url('/images/bg-before-begin.png') repeat-x center; }
+		#content .paraQueryOpening span { display:inline; padding:0 4px 0 0; background:#ffffff; color:#7ea5c5; font-size:18px; text-transform:uppercase; font-weight:bold; }		
+	#content .paraQueryClosing { margin:4px 0 16px 0; background:url('/images/bg-before-begin.png') repeat-x center; text-indent:-1000em; }			
+		
+		
+
+	#content .paraOptionalOpening { margin:16px 0 4px 0; background:url('/images/bg-before-begin.png') repeat-x center; }
+		#content .paraOptionalOpening span { display:inline; padding:0 4px 0 0; background:#ffffff; color:#7ea5c5; font-size:18px; text-transform:uppercase; font-weight:bold; }		
+	#content .paraOptionalClosing { margin:4px 0 16px 0; background:url('/images/bg-before-begin.png') repeat-x center; text-indent:-1000em; }			
+
+				
+
+	#content .paraSeeAlso { margin:16px 0 4px 0; background:url('/images/bg-before-begin.png') repeat-x center; }
+		#content .paraSeeAlso span { display:inline; padding:0 4px 0 0; background:#ffffff; color:#7ea5c5; font-size:18px; text-transform:uppercase; font-weight:bold; }		
+	#content .paraSeeAlsoClosing { margin:4px 0 16px 0; background:url('/images/bg-before-begin.png') repeat-x center; text-indent:-1000em; }			
+
+
+	
+	
+	/*
+	#content .paraSeeAlso:before {
+			content: "See Also: "; 
+			color: #1166cc; 
+			font-weight: bold;
+	}
+	*/
+
+
+/* Article - Link to Chat */				
+.link-to-chat { font-size:18px; }
+	.link-to-chat p { margin:0 0 15px; }
+
+	.link-to-chat .chat-with-palm { height:48px; line-height:46px; }
+		.link-to-chat .chat-with-palm span { height:48px; background:url('/images/bg-email-entry-button.png') no-repeat right top; text-align:center; text-indent:-6px; color:#ffffff; }									
+			.link-to-chat .chat-with-palm span span { height:48px; background:url('/images/bg-email-entry-button-leftcap.png') no-repeat left top; }	
+			.link-to-chat .chat-with-palm span span input { width:100%; height:46px; background:none; border:none; cursor:pointer; font-size:18px; color:#ffffff; font-family: Prelude, tahoma, arial, verdana; }					

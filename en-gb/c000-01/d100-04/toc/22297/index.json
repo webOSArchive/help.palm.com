@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Work with favorites",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Create a favorite",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/18957.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View favorite details",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/19017.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Add a phone number to a favorite",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/18943.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set or change the default number for a favorite",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/18985.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Remove a contact from the favorites list",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/18971.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Ouverture et enregistrement d&#39;un fichier",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Ouverture d&#39;un fichier",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/18463.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification de la taille d&#39;affichage du texte dans un fichier Word ou Excel&reg;",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/18449.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement d&#39;un fichier sous un nouveau nom",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/18495.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Partage de fichiers",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/18509.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

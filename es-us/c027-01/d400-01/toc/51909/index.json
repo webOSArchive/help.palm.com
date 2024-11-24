@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Servicios de ubicación",
+	"app_name": "location",
+	"chat_appId": "location",
+	"icon": "file:///usr/palm/applications/com.palm.app.location/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Administración de información de ubicación transmitida a aplicaciones",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/42732.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Administración de información de ubicación transmitida a sitios Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/21451.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Activación/desactivación de proveedores de servicios de ubicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/21467.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

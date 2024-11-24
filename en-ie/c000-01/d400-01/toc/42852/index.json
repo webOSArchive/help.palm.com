@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Launcher",
+	"app_name": "launcher",
+	"chat_appId": "launcher",
+	"icon": "file:///usr/lib/luna/system/luna-applauncher/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Use the Launcher",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/21611.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorder Launcher icons",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/21553.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Add a Launcher page",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/21499.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorder Launcher pages",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/21565.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Rename a Launcher page",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/21529.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a Launcher page",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/21515.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

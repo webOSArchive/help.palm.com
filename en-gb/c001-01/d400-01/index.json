@@ -1,0 +1,592 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Tips",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/tips.png",
+	"sort_by":["category"],
+	"json_result" : "",
+	"items": [
+   
+			{
+				"category": "Basics",
+				"english_app_name": "",
+				"app_name": "basics",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+				"text" : "Basics",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46162/index.html",
+    			
+    		"link_number" : "1: 1.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Basics",
+				"english_app_name": "Phone",
+				"app_name": "basics",
+				"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+				"text" : "Phone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46624/index.html",
+    			
+    		"link_number" : "2: 1.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Basics",
+				"english_app_name": "Just Type",
+				"app_name": "universalsearch",
+				"icon": "http://help.palm.com/images/app_icons/just_type.png",
+				"text" : "Just Type",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46646/index.html",
+    			
+    		"link_number" : "3: 1.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Basics",
+				"english_app_name": "Launcher",
+				"app_name": "launcher",
+				"icon": "file:///usr/lib/luna/system/luna-applauncher/icon.png",
+				"text" : "Launcher",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46650/index.html",
+    			
+    		"link_number" : "4: 1.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Basics",
+				"english_app_name": "Accounts",
+				"app_name": "accountsmgr",
+				"icon": "http://help.palm.com/images/app_icons/accounts.png",
+				"text" : "Accounts",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46660/index.html",
+    			
+    		"link_number" : "5: 1.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Basics",
+				"english_app_name": "App Catalog",
+				"app_name": "app_catalog",
+				"icon": "http://help.palm.com/images/app_icons/app_catalog.png",
+				"text" : "App Catalog",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46666/index.html",
+    			
+    		"link_number" : "6: 1.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Basics",
+				"english_app_name": "Voice Dial",
+				"app_name": "voice_dial",
+				"icon": "http://help.palm.com/images/app_icons/voice_dial.png",
+				"text" : "Voice Dial",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46670/index.html",
+    			
+    		"link_number" : "7: 1.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Basics",
+				"english_app_name": "Exhibition",
+				"app_name": "exhibition",
+				"icon": "http://help.palm.com/images/app_icons/exhibition.png",
+				"text" : "Exhibition",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47181/index.html",
+    			
+    		"link_number" : "8: 1.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Communication",
+				"english_app_name": "Email",
+				"app_name": "email",
+				"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+				"text" : "Email",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47185/index.html",
+    			
+    		"link_number" : "9: 2.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Communication",
+				"english_app_name": "Messaging",
+				"app_name": "messaging",
+				"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+				"text" : "Messaging",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47189/index.html",
+    			
+    		"link_number" : "10: 2.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Personal Information",
+				"english_app_name": "Calendar",
+				"app_name": "calendar",
+				"icon": "file:///usr/palm/applications/com.palm.app.calendar/icon.png",
+				"text" : "Calendar",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46690/index.html",
+    			
+    		"link_number" : "11: 3.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Personal Information",
+				"english_app_name": "Contacts",
+				"app_name": "contacts",
+				"icon": "file:///usr/palm/applications/com.palm.app.contacts/icon.png",
+				"text" : "Contacts",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46694/index.html",
+    			
+    		"link_number" : "12: 3.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Personal Information",
+				"english_app_name": "Tasks",
+				"app_name": "tasks",
+				"icon": "file:///usr/palm/applications/com.palm.app.tasks/icon.png",
+				"text" : "Tasks",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46698/index.html",
+    			
+    		"link_number" : "13: 3.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Personal Information",
+				"english_app_name": "Clock",
+				"app_name": "clock",
+				"icon": "file:///usr/palm/applications/com.palm.app.clock/icon.png",
+				"text" : "Clock",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47193/index.html",
+    			
+    		"link_number" : "14: 3.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Personal Information",
+				"english_app_name": "Facebook",
+				"app_name": "facebook",
+				"icon": "http://help.palm.com/images/app_icons/facebook.png",
+				"text" : "Facebook",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47197/index.html",
+    			
+    		"link_number" : "15: 3.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Media",
+				"english_app_name": "Photos",
+				"app_name": "photos",
+				"icon": "file:///usr/palm/applications/com.palm.app.photos/icon.png",
+				"text" : "Photos",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46708/index.html",
+    			
+    		"link_number" : "16: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Media",
+				"english_app_name": "Music",
+				"app_name": "music",
+				"icon": "file:///usr/palm/applications/com.palm.app.musicplayer/icon.png",
+				"text" : "Music",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46712/index.html",
+    			
+    		"link_number" : "17: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Media",
+				"english_app_name": "Amazon MP3",
+				"app_name": "amazon",
+				"icon": "http://help.palm.com/images/app_icons/amazon_mp3.png",
+				"text" : "Amazon MP3",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46716/index.html",
+    			
+    		"link_number" : "18: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Media",
+				"english_app_name": "Videos",
+				"app_name": "video",
+				"icon": "file:///usr/palm/applications/com.palm.app.videoplayer/icon.png",
+				"text" : "Videos",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47201/index.html",
+    			
+    		"link_number" : "19: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Documents",
+				"english_app_name": "Quickoffice",
+				"app_name": "quickoffice",
+				"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+				"text" : "Quickoffice",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46720/index.html",
+    			
+    		"link_number" : "20: 6.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Documents",
+				"english_app_name": "PDF View",
+				"app_name": "pdf_view",
+				"icon": "file:///usr/palm/applications/com.palm.app.pdfviewer/icon.png",
+				"text" : "PDF View",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46724/index.html",
+    			
+    		"link_number" : "21: 6.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Documents",
+				"english_app_name": "Memos",
+				"app_name": "memos",
+				"icon": "file:///usr/palm/applications/com.palm.app.notes/icon.png",
+				"text" : "Memos",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47213/index.html",
+    			
+    		"link_number" : "22: 6.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Documents",
+				"english_app_name": "Calculator",
+				"app_name": "calculator",
+				"icon": "file:///usr/palm/applications/com.palm.app.calculator/icon.png",
+				"text" : "Calculator",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46730/index.html",
+    			
+    		"link_number" : "23: 6.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Preferences",
+				"english_app_name": "Sounds &amp; Ringtones",
+				"app_name": "sounds_ringtones",
+				"icon": "file:///usr/palm/applications/com.palm.app.soundsandalerts/icon.png",
+				"text" : "Sounds &amp; Ringtones",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46734/index.html",
+    			
+    		"link_number" : "24: 7.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Preferences",
+				"english_app_name": "Screen &amp; Lock",
+				"app_name": "screen",
+				"icon": "file:///usr/palm/applications/com.palm.app.screenlock/icon.png",
+				"text" : "Screen &amp; Lock",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46740/index.html",
+    			
+    		"link_number" : "25: 7.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Preferences",
+				"english_app_name": "Text Assist",
+				"app_name": "textassist",
+				"icon": "http://help.palm.com/images/app_icons/textassist.png",
+				"text" : "Text Assist",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46744/index.html",
+    			
+    		"link_number" : "26: 7.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Preferences",
+				"english_app_name": "Date &amp; Time",
+				"app_name": "date_time",
+				"icon": "file:///usr/palm/applications/com.palm.app.dateandtime/icon.png",
+				"text" : "Date &amp; Time",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47217/index.html",
+    			
+    		"link_number" : "27: 7.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Preferences",
+				"english_app_name": "Regional Settings",
+				"app_name": "language",
+				"icon": "file:///usr/palm/applications/com.palm.app.languagepicker/icon.png",
+				"text" : "Regional Settings",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47221/index.html",
+    			
+    		"link_number" : "28: 7.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Web and Wireless",
+				"english_app_name": "Web",
+				"app_name": "web",
+				"icon": "file:///usr/palm/applications/com.palm.app.browser/icon.png",
+				"text" : "Web",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46748/index.html",
+    			
+    		"link_number" : "29: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Web and Wireless",
+				"english_app_name": "Location Services",
+				"app_name": "location",
+				"icon": "file:///usr/palm/applications/com.palm.app.location/icon.png",
+				"text" : "Location Services",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46752/index.html",
+    			
+    		"link_number" : "30: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Web and Wireless",
+				"english_app_name": "",
+				"app_name": "maps",
+				"icon": "http://help.palm.com/images/app_icons/Maps_towi.png",
+				"text" : "Maps",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/43032/index.html",
+    			
+    		"link_number" : "31: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Web and Wireless",
+				"english_app_name": "Wi-Fi",
+				"app_name": "wifi",
+				"icon": "file:///usr/palm/applications/com.palm.app.wifi/icon.png",
+				"text" : "Wi-Fi",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/47225/index.html",
+    			
+    		"link_number" : "32: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Web and Wireless",
+				"english_app_name": "HP mobile hotspot",
+				"app_name": "mobilehotspot",
+				"icon": "http://help.palm.com/images/app_icons/mobilehotspot.png",
+				"text" : "HP mobile hotspot",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46800/index.html",
+    			
+    		"link_number" : "33: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Web and Wireless",
+				"english_app_name": "VPN",
+				"app_name": "vpn",
+				"icon": "http://help.palm.com/images/app_icons/vpn.png",
+				"text" : "VPN",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46756/index.html",
+    			
+    		"link_number" : "34: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Web and Wireless",
+				"english_app_name": "Bluetooth",
+				"app_name": "bluetooth",
+				"icon": "file:///usr/palm/applications/com.palm.app.bluetooth/icon.png",
+				"text" : "Bluetooth",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46760/index.html",
+    			
+    		"link_number" : "35: 4.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Maintenance",
+				"english_app_name": "Device Info",
+				"app_name": "device_info",
+				"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+				"text" : "Device Info",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46768/index.html",
+    			
+    		"link_number" : "36: 8.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Maintenance",
+				"english_app_name": "Backup",
+				"app_name": "backup",
+				"icon": "file:///usr/palm/applications/com.palm.app.backup/icon.png",
+				"text" : "Backup",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46772/index.html",
+    			
+    		"link_number" : "37: 8.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Maintenance",
+				"english_app_name": "Software Manager",
+				"app_name": "softwaremgr",
+				"icon": "http://help.palm.com/images/app_icons/softwaremgr.png",
+				"text" : "Software Manager",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46788/index.html",
+    			
+    		"link_number" : "38: 8.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Maintenance",
+				"english_app_name": "System Updates",
+				"app_name": "updates",
+				"icon": "http://help.palm.com/images/app_icons/System_Updates.png",
+				"text" : "System Updates",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46792/index.html",
+    			
+    		"link_number" : "39: 8.100"
+    		     
+    		    },   		
+    
+			{
+				"category": "Maintenance",
+				"english_app_name": "SIM Toolkit",
+				"app_name": "simtoolkit",
+				"icon": "http://help.palm.com/images/app_icons/simtoolkit.png",
+				"text" : "SIM Toolkit",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d400-01/toc/46796/index.html",
+    			
+    		"link_number" : "40: 8.100"
+    		     
+    		    }   		
+    
+     ]
+    }
+

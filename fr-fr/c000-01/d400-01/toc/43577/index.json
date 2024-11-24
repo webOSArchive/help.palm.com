@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Configuration de l&#39;application Email",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Configuration de l&#39;application Email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/42312.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuration de l&#39;application Email&nbsp;: Microsoft Exchange et Lotus Notes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/42320.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuration d&#39;un compte d&#39;email en cas d&#39;échec de la configuration automatique",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/42327.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Saisie de paramètres de compte avancés",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/22489.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification de la configuration d&#39;ouverture de session",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/22461.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Changement du nom d&#39;un compte de messagerie",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/22499.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un compte d&#39;email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/22447.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

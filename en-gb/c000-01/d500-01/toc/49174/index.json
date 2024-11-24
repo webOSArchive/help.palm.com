@@ -1,0 +1,235 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Use Skype voice and video calling",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "What kinds of calls can I make and receive with Skype?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41982.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Create a Skype account in Phone &amp; Video Calls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40127.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sign in to a Skype account in Phone &amp; Video Calls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40131.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Make a Skype-to-Skype video or audio call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/42015.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use Skype to dial a phone number",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/42016.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Answer a Skype call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/42019.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Silence the ringer on an incoming Skype call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40109.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ignore an incoming Skype call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40107.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manage a Skype-to-Skype video call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/42020.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manage a Skype-to-Skype voice call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/42021.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use another application while on a Skype call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40160.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Make a second Skype voice&nbsp;call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40156.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Answer a second Skype call (call waiting)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40145.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Switch between two Skype voice calls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40158.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Make a conference call from multiple Skype voice calls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40151.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "End a Skype call",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40148.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set Skype calling preferences",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/42070.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Edit or delete a Skype account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/42072.html",
+    			
+    		"link_number" : "18: 18.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

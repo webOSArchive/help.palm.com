@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Facebook",
+	"app_name": "facebook",
+	"chat_appId": "facebook",
+	"icon": "http://help.palm.com/images/app_icons/facebook.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Installation de Facebook",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/18941.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "mettre à jour votre statut ;",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21947.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Laisser un commentaire sur une actualité ou photo publiée par un ami",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21797.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage de la page Facebook de vos amis",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21861.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage de notifications dans Facebook",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21989.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi de messages et de réponses",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21901.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Téléphoner à un ami ou envoyer un email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21889.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage de votre profil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/22005.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Publication d&#39;une photo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21959.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Interactions avec les photos que vous avez publiées",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/22021.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ouverture d&#39;une autre instance de Facebook dans une nouvelle carte",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21875.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement d&#39;un lieu",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/42685.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Indication des informations de positionnement pour Facebook",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/25302.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnalisation de Facebook",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c027-01/d400-01/article/21811.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

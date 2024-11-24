@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Get to know your phone",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Front view",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/27871.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Keyboard",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/27983.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Icons in the title bar",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/27927.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Back view",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/27829.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Top view",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/28019.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

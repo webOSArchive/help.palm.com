@@ -1,0 +1,205 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+   <head>
+ <script type="text/javascript" src="/js/jquery.min.js"></script>
+ 
+
+ <script type="text/javascript" src="/js/analytics_super_set_var.js"></script>
+</head>
+    <base href="http://help.palm.com:80/">
+    
+    <title>SMS erstellen und senden</title>
+<meta http-equiv="Content-Type"	content=" text/html;charset=UTF-8" />
+    
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">    
+	<meta name="keywords" content="Nachricht schreiben,Text schreiben,TXT,SMS,SMS schreiben,Textnachrichten,Textnachricht">
+	<meta name="Content-Language" content="de-de">
+	<meta name="help_application_icon" content="messaging">
+	<meta name="help_application" content="Messaging">
+	<meta name="help_site" content="help_palm_com">
+	<meta name="carrier_code" content="c090-01">
+	<meta name="device_code" content="d500-01">
+	<meta http-equiv="description" content="SMS erstellen und senden">
+
+	
+	 	
+		<meta name="viewport" content="initial-scale=1.0, width=device-width, height=device-height, user-scalable=no" />
+		<link type="text/css" rel="stylesheet" href="/css/custom.css" />
+	   
+	
+	
+	<!--
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	-->
+	<link type="text/css" rel="stylesheet" href="/css/help_article.css" />
+	<link type="text/css" rel="stylesheet" href="/css/link_to_chat.css" />
+
+	<style type="text/css">
+		
+			#header h1.app_icon{ background:url('/images/app_icons/messaging.png') no-repeat left center; }
+		
+		#header h1.app_icon span { display: table-cell; height:32px; vertical-align: middle; }
+	</style>
+
+	<script type="text/javascript">
+		var locale = "de-de";
+		var carrier = "c090-01";
+		var device = "d500-01";
+		var baseURL = "http://help.palm.com:80/";
+		var clinkarticletemplate = "clinkarticle";
+		var clinktopictemplate = "clinktopic";
+		function buildHelpURL(appname,articlecategory,objecttype)
+		{
+			if(objecttype == 'c')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+clinkarticletemplate+"/"+articlecategory+".html";
+			}else if(objecttype == 'p')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+clinktopictemplate+"/"+articlecategory+".json";
+			}else if(objecttype == 't')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+articlecategory+"/index.json";
+			}
+			window.location.href=url;
+			//alert("URL:"+url);
+		}
+	</script>
+	
+			
+	
+
+  
+  
+  <body>
+  <div id="wrap">
+ <span id="header">
+  <h1 class="app_icon"><span>SMS erstellen und senden</span></h1>
+  </span>
+  <span id="content">
+
+    	<span class="inner">
+
+
+ 
+ 			<P><SPAN class=paraBeforeYouBeginOpening><SPAN>Bevor Sie beginnen</SPAN></SPAN></P>
+<UL>
+<LI>Verbinden Sie Ihr Gerät mit einem webOS-Smartphone (<A href="javascript:buildHelpURL('messaging','messaging_connect_to_smartphone','c')" target=_self><SPAN class=textHelpLink>weitere Informationen</SPAN></A>). 
+<LI>Bevor Sie mit Ihrem Gerät&nbsp;SMS senden oder empfangen, erkundigen Sie sich, ob dieser Nachrichtentyp Bestandteil des Mobilfunkvertrags für Ihr Smartphone ist und welche Preise dafür gelten. 
+<LI>Stellen Sie sicher, dass das Smartphone eingeschaltet ist, mit dem Ihr Gerät verbunden ist, und dass Sie sich im Empfangsbereich des Netzes befinden. Weitere Informationen zum Einschalten drahtloser Dienste finden Sie in der Dokumentation, die sich im Lieferumfang Ihres Smartphones befand. </LI></UL>
+<P><SPAN class=paraBeforeYouBeginClosing>BYB Close</SPAN></P>
+<OL>
+<LI>
+<DIV><span class="launcher_icon"><a href="javascript:buildHelpURL('basics','open_applications','p');">Öffnen Sie</a>&nbsp;Messaging</span>&nbsp;<img src="/images/app_icons_small/messaging.png" alt="messaging" class="launcher_icon" />.</DIV>
+<LI>
+<DIV>Tippen Sie auf <SPAN class=textProcedure>Neue Unterhaltung</SPAN> &gt; Tippen Sie in das Feld <SPAN class=textProcedure>An</SPAN> &gt; Legen Sie die Empfängeradresse mit einer der folgenden Methoden fest:</DIV>
+<UL>
+<LI>
+<DIV>Geben Sie den Vor- oder Nachnamen eines Kontakts, seine Initialen, seinen Anzeigenamen, seine Telefonnummer oder seine E-Mail-Adresse ein &gt; Tippen Sie auf die Telefonnummer, wenn sie angezeigt wird.</DIV>
+<LI>
+<DIV>Tippen Sie auf <IMG alt="" src="/images/device_images/Email_OpenContacts_Icon_rrwr.png">, um Ihre vollständige Kontaktliste zu öffnen &gt; Tippen Sie auf den gewünschten Kontakt oder geben Sie einen Namen bzw. eine Adresse ein.</DIV>
+<LI>
+<DIV>Geben Sie für einen Empfänger, bei dem es sich nicht um einen Kontakt handelt, eine Telefonnummer ein.</DIV></LI></UL>
+<LI>(Optional) Tippen Sie in das Feld <SPAN class=textProcedure>An</SPAN> und wiederholen Sie Schritt&nbsp;2, um weitere Empfänger einzugeben. Tippen Sie in das Feld <SPAN class=textProcedure>An</SPAN>, um weitere Empfänger einzugeben. 
+<LI>
+<DIV>Tippen Sie auf <SPAN class=textProcedure>Nachricht hier eingeben</SPAN> &gt; Geben Sie den Nachrichtentext ein &gt; Tippen Sie auf die <SPAN class=textProcedure>Eingabetaste</SPAN>. Sie können im Nachrichtentext auch Emoticons verwenden (<A href="javascript:buildHelpURL('messaging','messaging_use_emoticons','c')" target=_self><SPAN class=textHelpLink>Weitere Informationen</SPAN></A>).<BR></DIV></LI></OL>
+<P>In der Kartenansicht können Sie auch eine SMS-Nachricht schreiben. Tippen Sie auf <SPAN class=textProcedure>Einfach lostippen</SPAN> &gt; Beginnen Sie mit dem Eingeben einer Nachricht. Tippen Sie unter &bdquo;Schnellaktionen&ldquo; auf <SPAN class=textProcedure>Neue Nachricht</SPAN>. Die Anwendung &bdquo;Messaging&ldquo; wird mit einer neuen Nachricht geöffnet, die den eingegebenen Text als Nachrichtentext enthält.</P>
+	
+ 
+  
+  
+   		  	 </span> <!-- Span inner -->
+ 			</span>	
+
+<!-- Google Analytics -->
+
+
+
+
+
+<!-- Enabling analytics for server name: help.palm.com -->
+<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+
+<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-7312528-2");
+			pageTracker._trackPageview();
+			// pageTracker._setVar(",UNKNOWN,c888-01,UNKNOWN,");
+			unSetVar('/locale=');
+			unSetVar('/carrier=');
+			unSetVar('/device=');			
+			unSetVar('/app=');
+			unSetVar('/title=');
+			unSetVar('/chat=');
+			unSetVar('/webOS=');
+			superSetVar('/locale=de-de');
+			superSetVar('/carrier=c090-01');
+			superSetVar('/device=d500-01');		
+			superSetVar('/app=messaging');
+			superSetVar('/title=SMS erstellen und senden');
+			
+					superSetVar('/chat=no');	
+			
+			superSetVar('/webOS=');
+		
+		} catch(err) {}
+	</script>
+
+
+
+
+<!-- Omniture Analytics -->
+
+
+<script language="JavaScript" type="text/javascript"
+	src="/js/s_code_1-5-09.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+		<!--
+			s.prop2="US"
+			s.prop4="webOS"
+			s.prop6="d500-01"
+			s.prop7="c090-01"
+			s.prop18="de-de"
+
+			s.pageType=""
+			s.prop30="help.palm.com"
+
+			s.eVar26="c090-01"
+
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			var s_code=s.t();if(s_code)document.write(s_code)
+		//-->
+	</script>
+
+  <!-- Analytics END  -->
+
+  </body>
+</html>
+
+

@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Tareas",
+	"app_name": "tasks",
+	"chat_appId": "tasks",
+	"icon": "file:///usr/palm/applications/com.palm.app.tasks/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Creación de una lista de tareas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17349.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creación de una tarea",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17321.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuración de la prioridad, la fecha límite y otros detalles de las tareas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17481.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado de una tarea",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17363.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de las tareas que vencen hoy",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17547.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio del nombre de una tarea",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17453.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ordenación de una lista de tareas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17499.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorganización de tareas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17439.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuración de fechas límite para todas las tareas de una lista",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17467.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ocultar o eliminar todas las tareas terminadas de una lista",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17409.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Marcado de todas las tareas de una lista como terminadas o no terminadas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17425.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una tarea o lista de tareas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d300-01/article/17379.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Featured",
+	"app_name": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Your Phone: Front View",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/38324.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Your Phone: Keyboard",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/38337.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Turn both the screen and wireless services on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/38263.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Copy files between your smartphone and computer",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28343.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Display Card view (minimize an application)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/27247.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Open an application&nbsp;in the Launcher",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/27107.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Open the application menu",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/26893.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Open the connection menu",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/26937.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Go up one level in an app (back gesture)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/27421.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Dial by contact name using Just Type",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/35832.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Save information you enter",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28057.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "6Ts: Six ways to get your smartphone working again",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d300-01/toc/38612/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }     		
+    
+     ]
+    }
+  	
+ 
+

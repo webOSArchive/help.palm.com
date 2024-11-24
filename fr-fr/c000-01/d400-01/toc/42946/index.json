@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Gestionnaire de logiciels",
+	"app_name": "softwaremgr",
+	"chat_appId": "softwaremgr",
+	"icon": "http://help.palm.com/images/app_icons/softwaremgr.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Gestion des applications téléchargées",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/10003.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mise à jour d&#39;une application téléchargée à partir d&#39;une notification",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/40243.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Vérification manuelle des mises à jour des applications",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c000-01/d400-01/article/42359.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

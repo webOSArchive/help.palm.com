@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Web",
+	"app_name": "web",
+	"chat_appId": "web",
+	"icon": "file:///usr/palm/applications/com.palm.app.browser/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Visita de un sitio Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/7827.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda de un sitio Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/7239.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de un motor de búsqueda Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/5269.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apertura de otra ventana del navegador",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/6799.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Navegación por una página Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/6463.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de contenido Flash",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/42717.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de una página Web al Lanzador",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/5111.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creación de un favorito",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/5619.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apertura de una página marcada",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/7647.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Edición, reorganización o eliminación de un favorito",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/6183.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Descarga de archivos de la Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/5999.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Consulta de páginas Web vistas anteriormente",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/6991.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalización de la configuración del navegador Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/5873.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con imágenes en una página Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/8359.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de enlaces en una página Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/42723.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

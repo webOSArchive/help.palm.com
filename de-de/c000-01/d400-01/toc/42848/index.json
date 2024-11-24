@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Telefon",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Telefon ein- und ausschalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/18827.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anrufe tätigen",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c000-01/d400-01/toc/43475/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anrufe empfangen",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c000-01/d400-01/toc/43476/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mailbox verwenden",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c000-01/d400-01/toc/43481/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Bedienfunktionen während des Telefonierens",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c000-01/d400-01/toc/43477/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Wo finde ich meine eigene Telefonnummer?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/18889.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anrufprotokoll anzeigen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/18859.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mit Favoriten arbeiten",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c000-01/d400-01/toc/43482/index.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Telefonnummern in den Kontakten speichern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/18791.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Telefon-Headset verwenden",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c000-01/d400-01/toc/43479/index.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Smartphone-Einstellungen anpassen",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c000-01/d400-01/toc/43480/index.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

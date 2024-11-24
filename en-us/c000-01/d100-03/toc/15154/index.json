@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Basics",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Get to know your phone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/18190/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Insert the SIM card",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/26703.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Charge the battery",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/26535.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Maximize battery life",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/26735.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : " Turn the phone on/off",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/18132/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Move around on your phone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/15164/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : " Open applications",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/18136/index.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : " Manage applications",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/18138/index.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : " Enter information",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/18134/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : " Use the menus",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/18140/index.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Search for information",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/42750.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View and respond to notifications",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/17602/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sync personal data and copy files between your phone and computer",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/15176/index.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete files from your smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/26637.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use the Data Transfer Assistant (DTA)",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/17604/index.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Why the screen goes dark",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/26653.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connect to a network",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/26579.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Take a screenshot",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/26799.html",
+    			
+    		"link_number" : "18: 18.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "6Ts: Six ways to get your phone working again",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/17606/index.html",
+    			
+    		"link_number" : "19: 19.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Get help on Help",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/20005/index.html",
+    			
+    		"link_number" : "20: 20.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Learn more",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/17518/index.html",
+    			
+    		"link_number" : "21: 21.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copyright",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/26607.html",
+    			
+    		"link_number" : "22: 22.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

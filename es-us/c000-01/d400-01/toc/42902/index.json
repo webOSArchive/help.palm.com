@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Quickoffice",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Registro del software Quickoffice",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/18257.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuración de Quickoffice para acceder a archivos desde una herramienta de colaboración en línea",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/18271.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apertura y guardado de un archivo",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c000-01/d400-01/toc/43428/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con celdas, hojas y datos en una hoja de cálculo de Microsoft Excel®",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c000-01/d400-01/toc/43415/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con presentaciones de diapositivas y opciones de presentación en una presentación de Microsoft PowerPoint®",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c000-01/d400-01/toc/43422/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Actualización del software de Quickoffice",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/18285.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición, edición o eliminación de una cuenta en línea en Quickoffice",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/18241.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

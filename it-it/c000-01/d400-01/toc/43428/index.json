@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Apertura e salvataggio di un file",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Apertura di un file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/18463.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modifica delle dimensioni di visualizzazione del testo in un file Word o Excel&reg;",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/18449.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Salvataggio di un file con un nuovo nome",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/18495.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Condivisione di un file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/18509.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

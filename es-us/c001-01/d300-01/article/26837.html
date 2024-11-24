@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+   <head>
+ <script type="text/javascript" src="/js/jquery.min.js"></script>
+ 
+
+ <script type="text/javascript" src="/js/analytics_super_set_var.js"></script>
+</head>
+    <base href="http://help.palm.com:80/">
+    
+    <title>Visualización y trabajo con notificaciones</title>
+<meta http-equiv="Content-Type"	content=" text/html;charset=UTF-8" />
+    
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">    
+	<meta name="keywords" content="responder,alerta,aviso,recordatorio,alarma,área de trazos,parpadear,luz">
+	<meta name="Content-Language" content="es-us">
+	<meta name="help_application_icon" content="basics">
+	<meta name="help_application" content="! Conceptos básicos">
+	<meta name="help_site" content="help_palm_com">
+	<meta name="carrier_code" content="c001-01">
+	<meta name="device_code" content="d300-01">
+	<meta http-equiv="description" content="Visualización y trabajo con notificaciones">
+
+	
+	 	
+		<meta name="viewport" content="initial-scale=1.0, width=device-width, height=device-height, user-scalable=no" />
+		<link type="text/css" rel="stylesheet" href="/css/custom.css" />
+	   
+	
+	
+	<!--
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	-->
+	<link type="text/css" rel="stylesheet" href="/css/help_article.css" />
+	<link type="text/css" rel="stylesheet" href="/css/link_to_chat.css" />
+
+	<style type="text/css">
+		
+			#header h1.app_icon{ background:url('/images/app_icons/basics.png') no-repeat left center; }
+		
+		#header h1.app_icon span { display: table-cell; height:32px; vertical-align: middle; }
+	</style>
+
+	<script type="text/javascript">
+		var locale = "es-us";
+		var carrier = "c001-01";
+		var device = "d300-01";
+		var baseURL = "http://help.palm.com:80/";
+		var clinkarticletemplate = "clinkarticle";
+		var clinktopictemplate = "clinktopic";
+		function buildHelpURL(appname,articlecategory,objecttype)
+		{
+			if(objecttype == 'c')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+clinkarticletemplate+"/"+articlecategory+".html";
+			}else if(objecttype == 'p')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+clinktopictemplate+"/"+articlecategory+".json";
+			}else if(objecttype == 't')
+			{
+				url=baseURL+locale+"/"+carrier+"/"+device+"/"+articlecategory+"/index.json";
+			}
+			window.location.href=url;
+			//alert("URL:"+url);
+		}
+	</script>
+	
+			
+	
+
+  
+  
+  <body>
+  <div id="wrap">
+ <span id="header">
+  <h1 class="app_icon"><span>Visualización y trabajo con notificaciones</span></h1>
+  </span>
+  <span id="content">
+
+    	<span class="inner">
+
+
+ 
+ 			<P>Las notificaciones aparecen en la parte inferior de la pantalla para informarte de la existencia de correo de voz nuevo, mensajes entrantes, próximos eventos y mucho más. Hay cuatro tipos de notificaciones.</P>
+<P><STRONG>Alertas de banner:</STRONG> aparecen en una pequeña franja en la parte inferior del a pantalla. Estas alertas confirman una acción (como la selección o copia de texto) o informan de un elemento sobre el que se puede actuar (como una llamada perdida o un mensaje de texto entrante). Si no tocas una alerta de banner después de unos segundos, se convierte en un icono en la parte inferior de la pantalla. Toca el fondo de la pantalla para mostrar las alertas y los elementos del panel de información.</P>
+<P><STRONG>Elementos del panel de información:</STRONG> proporcionan una vista ampliada de las notificaciones a las que puedes responder con una acción. Cuando se muestre el panel de información, toca un elemento para llevar a cabo alguna acción. Un número junto a un elemento del panel de información indica cuántos elementos se incluyen en la notificación.</P>
+<P>Algunos elementos del panel de información te permiten realizar varias acciones. Por ejemplo:</P>
+<UL>
+<LI>En un elemento del panel de información de Calendario, toca el icono de calendario para abrir Calendario en la vista Día mostrando el evento, o toca el nombre del evento para abrir la página de detalles del evento. 
+<LI>Para una llamada perdida, toca el icono para abrir las llamadas registradas o toca el elemento llamada perdida para devolver la llamada al número. 
+<LI>Si el icono de un elemento muestra un número, toca el icono para abrir la aplicación asociada en la vista de lista (por ejemplo, el buzón de correo electrónico) o toca el propio elemento para abrir dicho elemento individual (por ejemplo, un mensaje de correo electrónico). </LI></UL>
+<P>Para eliminar un elemento del panel de información, tíralo por el lateral de la pantalla.</P>
+<P><STRONG>Notificación emergente:</STRONG> es una notificación mayor a la que puedes responder inmediatamente con una acción, como notificaciones de llamadas entrantes, notificaciones de citas del calendario o alarmas.</P>
+<P><STRONG>Controles de aplicación:</STRONG> permiten gestionar una aplicación incluso si está cerrada. Por ejemplo, si estás escuchando música en Música y sales de la aplicación, los controles de reproducción siguen visibles en la parte inferior de la pantalla.</P>
+<P>Si recibes una alerta de banner o una notificación emergente cuando la pantalla está desactivada, la luz del área de trazos parpadea. Puedes desactivar esta función (<A href="javascript:buildHelpURL('screen','screenprefs_blink_notifications','c')">consulta cómo</A>).</P>
+	
+ 
+  
+  
+   		  	 </span> <!-- Span inner -->
+ 			</span>	
+
+<!-- Google Analytics -->
+
+
+
+
+
+<!-- Enabling analytics for server name: help.palm.com -->
+<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+
+<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-7312528-2");
+			pageTracker._trackPageview();
+			// pageTracker._setVar(",UNKNOWN,c888-01,UNKNOWN,");
+			unSetVar('/locale=');
+			unSetVar('/carrier=');
+			unSetVar('/device=');			
+			unSetVar('/app=');
+			unSetVar('/title=');
+			unSetVar('/chat=');
+			unSetVar('/webOS=');
+			superSetVar('/locale=es-us');
+			superSetVar('/carrier=c001-01');
+			superSetVar('/device=d300-01');		
+			superSetVar('/app=basics');
+			superSetVar('/title=Visualización y trabajo con notificaciones');
+			
+					superSetVar('/chat=no');	
+			
+			superSetVar('/webOS=');
+		
+		} catch(err) {}
+	</script>
+
+
+
+
+<!-- Omniture Analytics -->
+
+
+<script language="JavaScript" type="text/javascript"
+	src="/js/s_code_1-5-09.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+		<!--
+			s.prop2="US"
+			s.prop4="webOS"
+			s.prop6="d300-01"
+			s.prop7="c001-01"
+			s.prop18="es-us"
+
+			s.pageType=""
+			s.prop30="help.palm.com"
+
+			s.eVar26="c001-01"
+
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			var s_code=s.t();if(s_code)document.write(s_code)
+		//-->
+	</script>
+
+  <!-- Analytics END  -->
+
+  </body>
+</html>
+
+

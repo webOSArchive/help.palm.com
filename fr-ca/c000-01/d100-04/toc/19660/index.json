@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Courriel",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Comment envoyer et recevoir des courriels sur mon téléphone intelligent?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/22109.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuration de l&#39;application Courriel",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d100-04/toc/19488/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Boîtes de réception fusionnées dans l’application Courriel",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/22039.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi et réception dun message",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d100-04/toc/19490/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des courriels",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d100-04/toc/19492/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des dossiers de courriel",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d100-04/toc/19494/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réponse aux invitations à des réunions",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/22063.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi de courriels à partir d’une autre application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d100-04/article/22077.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnalisation des paramètres du courriel",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-ca/c000-01/d100-04/toc/19496/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

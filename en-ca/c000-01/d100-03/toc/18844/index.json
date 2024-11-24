@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Tasks",
+	"app_name": "tasks",
+	"chat_appId": "tasks",
+	"icon": "file:///usr/palm/applications/com.palm.app.tasks/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Create a task list",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17349.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Create a task",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/36242.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set task priority, due date, and other details",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17481.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Check off a task",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17363.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View tasks that are due today",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/36200.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Rename a task",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17453.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sort a task list",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17499.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorder your tasks",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17439.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set due dates for all tasks in a list",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17467.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mark all tasks in a list completed/incomplete",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17425.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Hide or delete all completed tasks in a list",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17409.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a task or a task list",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/17379.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

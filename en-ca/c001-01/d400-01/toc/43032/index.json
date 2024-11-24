@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Maps",
+	"app_name": "maps",
+	"chat_appId": "maps",
+	"icon": "http://help.palm.com/images/app_icons/Maps_towi.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Search for an address",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/43467.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Search for a business",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/45729.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Get directions",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/43655.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with saved locations",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/43760.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with locations you viewed recently",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/43921.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View your current location",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/43978.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Move around and zoom in/out on a map",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/39355.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Customize the map view",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/44048.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

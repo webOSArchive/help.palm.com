@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Copia de seguridad",
+	"app_name": "backup",
+	"chat_appId": "backup",
+	"icon": "file:///usr/palm/applications/com.palm.app.backup/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "¿Qué es un perfil de Palm?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/28581.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Funcionamiento de la copia de seguridad",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/28569.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copia de seguridad manual de la información en el perfil de Palm",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/28535.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Borrado de información del perfil de Palm del servidor",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/28555.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Actualización de la configuración del perfil de Palm",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/28615.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

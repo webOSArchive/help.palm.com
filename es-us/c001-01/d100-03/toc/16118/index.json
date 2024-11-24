@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Teléfono",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Encendido y apagado del teléfono",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/18827.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Realización de llamadas",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/16120/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recepción de llamadas",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/19780/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso del correo de voz",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/19782/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "¿Qué puedo hacer durante una llamada?",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/16126/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "¿Cuál es mi número?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35631.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización del historial de llamadas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35596.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Guardado de un número de teléfono en Contactos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/35560.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de los auriculares del teléfono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/16128/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalización de la configuración del teléfono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c001-01/d100-03/toc/17030/index.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

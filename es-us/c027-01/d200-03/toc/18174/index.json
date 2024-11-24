@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Trabajo con celdas, hojas y datos en una hoja de cálculo de Microsoft Excel®",
+	"app_name": "doc_view",
+	"chat_appId": "doc_view",
+	"icon": "file:///usr/palm/applications/com.palm.app.docviewer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Selección de una fila o columna",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d200-03/article/22999.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio de tamaño de filas o columnas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d200-03/article/22985.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de comentarios",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d200-03/article/23045.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

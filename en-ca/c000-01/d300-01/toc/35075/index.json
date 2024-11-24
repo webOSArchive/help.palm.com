@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Amazon MP3",
+	"app_name": "amazon",
+	"chat_appId": "amazon",
+	"icon": "http://help.palm.com/images/app_icons/amazon_mp3.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "About Amazon MP3",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28815.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Search for a specific song, album, or artist",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28861.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Browse songs, albums, artists, or genres",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28829.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View artist information and buy music",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28905.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View album information and buy an album",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28875.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Preview and buy a song",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28845.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "View and work with downloaded items",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/28889.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

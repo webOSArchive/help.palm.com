@@ -1,0 +1,301 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Contactos",
+	"app_name": "contacts",
+	"chat_appId": "contacts",
+	"icon": "file:///usr/palm/applications/com.palm.app.contacts/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Obtención de información de contactos en Contactos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25345.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Contactos vinculados en Contactos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25371.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de Contactos por primera vez",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25537.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creación de un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25223.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "¿Dónde están los contactos transferidos con el asistente de transferencia de datos?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25497.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda de un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25319.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creación de un favorito",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25241.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de un contacto de Favoritos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25425.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización, edición o eliminación de información del contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25305.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Añadir o cambiar la foto de un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25037.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de un tono a un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25051.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Asignación de un marcado rápido a un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25145.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Asignación de un mensaje de recordatorio a un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25131.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Vinculación de un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25397.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Desvinculación de un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25511.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de una entrada de contacto al Iniciador",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25067.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Comunicarse con un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25161.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25285.html",
+    			
+    		"link_number" : "18: 18.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copia de un contacto como texto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25175.html",
+    			
+    		"link_number" : "19: 19.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalización de Contactos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25253.html",
+    			
+    		"link_number" : "20: 20.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sincronización manual de Contactos con cuentas en línea",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25411.html",
+    			
+    		"link_number" : "21: 21.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envío de contactos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25437.html",
+    			
+    		"link_number" : "22: 22.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recepción de vCard",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25115.html",
+    			
+    		"link_number" : "23: 23.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una cuenta en línea de Contactos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/25479.html",
+    			
+    		"link_number" : "24: 24.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

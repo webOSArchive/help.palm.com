@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Work with email messages",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Add a contact from an email message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22205.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reply to a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22373.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Forward a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22299.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copy the body of a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22231.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Move a message to another folder",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22359.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mark a message as read or unread",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22345.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mark all messages in a folder as read",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22331.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Flag or unflag a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22285.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Show or hide message header details",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22409.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Search for messages",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22399.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Add a signature to outgoing messages",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22217.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d300-01/article/22257.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

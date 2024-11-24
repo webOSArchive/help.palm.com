@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Use an instant messaging (IM) account",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Set up an IM account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/21005.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sign in to an IM account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/21035.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Send and receive IM messages",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20973.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sign out of an IM account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/21049.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change an IM account username or password",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20909.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete an IM account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20893.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

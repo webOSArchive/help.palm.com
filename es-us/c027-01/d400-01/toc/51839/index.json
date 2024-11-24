@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Teléfono",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Realización de llamadas",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43475/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recepción de llamadas",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43476/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso del buzón de voz",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43481/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "¿Qué puedo hacer durante una llamada?",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43477/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con favoritos",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43482/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de los auriculares del teléfono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43479/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalización de la configuración del smartphone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43480/index.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

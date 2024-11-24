@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Featured",
+	"app_name": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/featured.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Smartphone: vista anteriore",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/53418.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Smartphone: tastierino",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/42821.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Attivazione e disattivazione dello schermo e dei servizi wireless",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/26971.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Copia di file tra lo smartphone e il computer",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/28343.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Visualizzazione della vista Scheda (riduzione a icona di un&#39;applicazione)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/27247.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Apertura di un&#39;applicazione&nbsp;nello schermo d&#39;avvio",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/27107.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Apertura del menu dell&#39;applicazione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/26893.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Apertura del menu del collegamento",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/26937.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Passaggio al livello precedente in un&#39;applicazione (movimento indietro)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/27421.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Composizione del numero tramite il nome del contatto utilizzando Scrivi e Trova",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/19845.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Salvataggio delle informazioni inserite",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c001-01/d400-01/article/28057.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "6T: sei tecniche per ripristinare il funzionamento dello smartphone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c001-01/d400-01/toc/43506/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }     		
+    
+     ]
+    }
+  	
+ 
+

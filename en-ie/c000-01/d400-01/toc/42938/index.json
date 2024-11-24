@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Device Info",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "View system information",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/23239.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Rename your smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/23225.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reset your smartphone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-ie/c000-01/d400-01/toc/43398/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Run system tests",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-ie/c000-01/d400-01/toc/43395/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change default applications",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/23201.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use Certificate Manager",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-ie/c000-01/d400-01/toc/43389/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

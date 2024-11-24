@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Email",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Comment faire pour envoyer et recevoir des emails sur mon appareil&nbsp;?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39372.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Configuration de l&#39;application Email",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/41482/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Boîtes de réception fusionnées dans l&#39;application Email",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39375.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi et réception de messages",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/41133/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des emails",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/41505/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des dossiers d&#39;email",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/39468/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Réponse aux invitations à des réunions",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/22063.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi d&#39;emails à partir d&#39;une autre application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39536.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnalisation des paramètres d&#39;email",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/41511/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

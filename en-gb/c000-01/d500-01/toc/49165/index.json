@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Customize Phone &amp; Video Calls settings",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Use dialing shortcuts",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40122.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set your domestic dialing method",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/49350.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn the&nbsp;international dialing auto-prefix feature&nbsp;on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/49337.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set your international dialing method",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/49342.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Select the smartphone to use for calls and text messages",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40133.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Lock or unlock the SIM card",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/40121.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set roaming and data usage preferences",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/49349.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manually select network settings",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/49632.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

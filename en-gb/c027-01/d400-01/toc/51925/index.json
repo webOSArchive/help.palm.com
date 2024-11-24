@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": " Device Info",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Reset your smartphone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c027-01/d400-01/toc/43398/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Run system tests",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c027-01/d400-01/toc/43395/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use certificate manager",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c027-01/d400-01/toc/43389/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

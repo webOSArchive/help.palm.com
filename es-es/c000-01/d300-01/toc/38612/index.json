@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "6Ts: Seis técnicas para que tu teléfono vuelva a funcionar",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Técnica 1 Tirar todas las aplicaciones abiertas por la parte superior de la pantalla",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/28399.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Técnica 2 Apagar el teléfono completamente y volver a encenderlo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/38309.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Técnica 3 Reinicio con tres teclas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/38319.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Técnica 4 Cargar la batería",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/28485.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Técnica 5 Extraer la batería",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/38674.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Técnica 6 Conectar el teléfono al ordenador y volver a instalar webOS",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/28515.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

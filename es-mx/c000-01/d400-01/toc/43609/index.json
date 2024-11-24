@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Uso de una cuenta de mensajería instantánea (IM)",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Configuración de una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42407.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creación de una cuenta de Skype",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42423.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Inicio de sesión en una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/21035.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envío y recepción de mensajes de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/21209.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Finalización de sesión en una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/21049.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Adición de un amigo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42388.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recepción de una solicitud de amistad",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/20959.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Chat con un grupo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42429.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Bloqueo del remitente de un mensaje",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/20665.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de un amigo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/20879.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio del nombre de usuario o la contraseña de una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/20909.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una cuenta de IM",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/20893.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

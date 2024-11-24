@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Location Services",
+	"app_name": "location",
+	"chat_appId": "location",
+	"icon": "file:///usr/palm/applications/com.palm.app.location/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Manage location information passed to applications",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/36386.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manage location information passed to websites",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/36387.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn location service providers on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/36389.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Messaging",
+	"app_name": "messaging",
+	"chat_appId": "messaging",
+	"icon": "file:///usr/palm/applications/com.palm.app.messaging/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Get and send text/multimedia messages",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d200-03/toc/21552/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with text and multimedia messages",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d200-03/toc/21554/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use an instant messaging (IM) account",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d200-03/toc/21556/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use emoticons in a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20805.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Forward a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20715.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copy messages",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20699.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dial a number from a conversation",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20681.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Switch between Conversations view and Buddies view",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20791.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Customize IM settings",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c001-01/d200-03/toc/21550/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Customize messaging notifications",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/20745.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

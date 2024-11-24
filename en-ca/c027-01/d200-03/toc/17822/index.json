@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Screen &amp; Lock",
+	"app_name": "screen",
+	"chat_appId": "screen",
+	"icon": "file:///usr/palm/applications/com.palm.app.screenlock/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Change screen brightness",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/17753.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set the interval for turning the screen off automatically",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/17863.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change your wallpaper",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/17833.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn advanced gestures on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/17773.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set options for unlocking the screen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/17879.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change your Secure Unlock password",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/17801.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Get notifications when the screen is locked or off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/17787.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

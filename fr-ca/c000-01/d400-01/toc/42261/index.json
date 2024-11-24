@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Cartes",
+	"app_name": "maps",
+	"chat_appId": "maps",
+	"icon": "http://help.palm.com/images/app_icons/Maps_towi.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Recherche d&#39;adresse.",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/43467.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Recherche d&#39;une entreprise.",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/45729.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Afficher l’itinéraire",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/43655.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des emplacements enregistrés",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/43760.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation de lieux affichés récemment",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/43921.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage du lieu actuel",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/43978.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Déplacez-vous dans la carte et faites des zooms avant et arrière",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/39355.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnalisation de l&#39;affichage de la carte",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/44048.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

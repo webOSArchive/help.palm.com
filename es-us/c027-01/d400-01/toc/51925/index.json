@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Información del dispositivo",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Restablecimiento del smartphone",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43398/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ejecución de pruebas del sistema",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43395/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizar administrador de certificados",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43389/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

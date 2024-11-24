@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Apertura de aplicaciones",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Apertura de una aplicación mediante Escribe y listo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/27075.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Abrir una aplicación en el Lanzador",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/27107.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Abrir una aplicación en Inicio rápido",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-mx/c027-01/d400-01/article/27119.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

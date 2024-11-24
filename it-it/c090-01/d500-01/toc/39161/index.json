@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "E-mail",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "In che modo si inviano e si ricevono i messaggi e-mail sul dispositivo?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39372.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Impostazione di account e-mail",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/41482/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Posta in arrivo unificata in E-mail",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39375.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Inviare e ricevere messaggi",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/41133/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzare messaggi e-mail",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/41505/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso di cartelle e-mail",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/39468/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Come rispondere agli inviti a riunioni",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/22063.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Invio di messaggi e-mail da un&#39;altra applicazione",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/39536.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalizzare le impostazioni e-mail",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/41511/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Exposición",
+	"app_name": "exhibition",
+	"chat_appId": "exhibition",
+	"icon": "http://help.palm.com/images/app_icons/exhibition.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Iniciar el modo exposición",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/35278.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Salir del modo exposición",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/35282.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso del modo exposición",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/35283.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso del smartphone como un reloj",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/35284.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de una presentación de fotografías",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/35285.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de la agenda del día",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/35286.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalización de la configuración del modo exposición",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/35287.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

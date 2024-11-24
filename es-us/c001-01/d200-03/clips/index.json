@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+     {
+     	"title": "Clips",
+     	"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+     	"sort_by": ["category"],
+     	"json_result": "success",
+     	"items": [
+     	
+    		
+    	
+    	
+    		{
+				"category": "El dispositivo",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Cargar el tel&eacute;fono desde la computadora",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/phone_charge_usb_pix.mp4",
+				"link_number": "1: 1.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "El dispositivo",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Cargar el tel&eacute;fono con Touchstone&trade;",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/phone_charge_tstone_pix.mp4",
+				"link_number": "2: 1.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "El dispositivo",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Extraer y colocar la carcasa trasera",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/device_cover_pix.mp4",
+				"link_number": "3: 1.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "El dispositivo",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Silenciar el timbre y enviar una llamada al correo de voz",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/phone_ringer_pix.mp4",
+				"link_number": "4: 1.3"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Desplazamiento",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "B&uacute;squeda universal",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_search_pix.mp4",
+				"link_number": "5: 2.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Desplazamiento",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Mover los iconos de Iniciador/Inicio r&aacute;pido",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_launcher_pix.mp4",
+				"link_number": "6: 2.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Administración de aplicaciones",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "A&ntilde;adir un tono a un contacto",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_ringtones_contact_pix.mp4",
+				"link_number": "7: 3.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Administración de aplicaciones",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Marcar un sitio Web",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_bookmark_pix.mp4",
+				"link_number": "8: 3.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Administración de aplicaciones",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Gestionar m&uacute;ltiples aplicaciones",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_multiple_apps_pix.mp4",
+				"link_number": "9: 3.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Administración de aplicaciones",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Usar la aplicaci&oacute;n de m&uacute;sica",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/music_app_pix.mp4",
+				"link_number": "10: 3.3"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Administración de aplicaciones",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Cambiar el tono predeterminado",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_ringtones_all_pix.mp4",
+				"link_number": "11: 3.4"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Visualización e introducción de información",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Crear eventos del calendario y recordatorios",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/calendar_events_pix.mp4",
+				"link_number": "12: 4.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Visualización e introducción de información",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Guardar archivos adjuntos",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/email_file_attach_pix.mp4",
+				"link_number": "13: 4.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Visualización e introducción de información",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Guardar fotos adjuntas en l&iacute;nea",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/email_photo_inline_pix.mp4",
+				"link_number": "14: 4.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Visualización e introducción de información",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Recibir y reenviar un mensaje de correo electr&oacute;nico",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/email_pix.mp4",
+				"link_number": "15: 4.3"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Visualización e introducción de información",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Seleccionar, copiar y pegar texto desde la Web",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/text_copy_pix.mp4",
+				"link_number": "16: 4.4"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Visualización e introducción de información",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Compartir una p&aacute;gina Web",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_web_link_pix.mp4",
+				"link_number": "17: 4.5"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Visualización e introducción de información",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Seleccionar, copiar y pegar texto de un mensaje de IM",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/text_copy_im_pix.mp4",
+				"link_number": "18: 4.6"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Visualización e introducción de información",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Configurar IM",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/messaging_im_add_account_pix.mp4",
+				"link_number": "19: 4.7"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Contactos",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Vincular contactos",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_link_contacts_pix.mp4",
+				"link_number": "20: 5.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Contactos",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "A&ntilde;adir una nota recordatorio para un contacto",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_contacts_reminder_pix.mp4",
+				"link_number": "21: 5.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Contactos",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Desvincular contactos",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_unlink_contacts_pix.mp4",
+				"link_number": "22: 5.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Mensajería",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Usar la mensajer&iacute;a instant&aacute;nea",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/messaging_im_pix.mp4",
+				"link_number": "23: 6.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Mensajería",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Usar la mensajer&iacute;a de texto",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/messaging_sms_pix.mp4",
+				"link_number": "24: 6.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Mensajería",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "A&ntilde;adir una cuenta de IM a un contacto",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/messaging_im_add_contact_pix.mp4",
+				"link_number": "25: 6.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Mensajería",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Cambiar el mensaje de aleta a un tono",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/system_message_alerts_pix.mp4",
+				"link_number": "26: 6.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Teléfono",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Responder a un tel&eacute;fono bloqueado",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/phone_answer_pix.mp4",
+				"link_number": "27: 7.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Teléfono",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Realizar una llamada en conferencia",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/phone_conference_pix.mp4",
+				"link_number": "28: 7.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Copia de archivos",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "A&ntilde;adir m&uacute;sica o tonos al tel&eacute;fono",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/music_add_pix.mp4",
+				"link_number": "29: 8.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Copia de archivos",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Usar el tel&eacute;fono como unidad USB",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/device_usb_pix.mp4",
+				"link_number": "30: 8.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Correo electrónico",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Seleccionar, copiar y pegar texto de un mensaje de correo electr&oacute;nico",
+				"url": "http://help.webosarchive.com/devicehelp/d200-00/en/text_copy_email_pix.mp4",
+				"link_number": "31: 10.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Wi-Fi",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Acceder a una red Wi-Fi",
+				"url": "http://help.webosarchive.com/devicehelp/d200-03/en/system_join_wifi_pix+.mp4",
+				"link_number": "32: 11.0"
+			                 
+    		    }   	
+    	
+    			
+    		
+    
+     	]
+     }
+ 
+
+  	
+
+

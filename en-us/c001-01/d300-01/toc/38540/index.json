@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Open and save a file",
+	"app_name": "quickoffice",
+	"chat_appId": "quickoffice",
+	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Open a file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/18463.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change the text display size in a Word or Excel&reg; file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/18449.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Save a file with a new name",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/18495.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Share a file",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/18509.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

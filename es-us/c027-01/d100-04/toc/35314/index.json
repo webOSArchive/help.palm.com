@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Marcado por voz",
+	"app_name": "voice_dial",
+	"chat_appId": "voice_dial",
+	"icon": "http://help.palm.com/images/app_icons/voice_dial.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Marcado por nombre de contacto mediante el marcado por voz",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/35215.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

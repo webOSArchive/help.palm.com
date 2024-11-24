@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Grundlagen",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Überblick über das Gerät",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40450/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Akku aufladen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40308.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Akkulaufzeit maximieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40318.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Gerät ein-/ausschalten",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40453/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Gerätefunktionen ausprobieren",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40454/index.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anwendungen öffnen",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/41800/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anwendungen verwalten",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40465/index.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Daten eingeben und speichern",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40462/index.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Menüs verwenden",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40466/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Informationen suchen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40443.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Benachrichtigungen anzeigen und verwenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40322.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Persönliche Daten zwischen Gerät und Computer synchronisieren und Dateien kopieren",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40469/index.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Dateien von Ihrem Gerät löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40446.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Daten mit dem Assistenten zum Exportieren von Daten aus einem Desktop-Organizer auf Ihren Computer exportieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41867.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Warum der Bildschirm dunkel wird",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40314.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Mit Netz verbinden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40309.html",
+    			
+    		"link_number" : "16: 16.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Bildschirmfotos aufnehmen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40321.html",
+    			
+    		"link_number" : "17: 17.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "5Ts: 5 Tipps, damit Ihr Gerät wieder funktioniert",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40470/index.html",
+    			
+    		"link_number" : "18: 18.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Hilfe verwenden",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40475/index.html",
+    			
+    		"link_number" : "19: 19.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Weitere Informationen",
+    			"url" : 
+				
+    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40476/index.html",
+    			
+    		"link_number" : "20: 20.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Copyright",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/26607.html",
+    			
+    		"link_number" : "21: 21.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

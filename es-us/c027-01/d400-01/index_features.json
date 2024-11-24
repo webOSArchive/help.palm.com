@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Destacados",
+	"app_name": "",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/featured.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "6Ts: Seis técnicas para que tu smartphone vuelva a funcionar",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-us/c027-01/d400-01/toc/43506/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Smartphone: Vista frontal",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/42817.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Copia de archivos entre el smartphone y el ordenador",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28343.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Visualización de la vista Carta (minimización de una aplicación)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/27247.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Abrir una aplicación en el Lanzador",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/27107.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Apertura del menú de una aplicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/26893.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Apertura del menú de conexiones",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/26937.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Subida de un nivel en una aplicación (gesto Atrás)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/27421.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Marcado por nombre de contacto mediante Escribe y listo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/19845.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Guardado de la información introducida",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/28057.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Smartphone: Teclado",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/42821.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },     		
+    
+
+			{
+				"text" : "Activación/desactivación de la pantalla y los servicios inalámbricos",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d400-01/article/26971.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    }     		
+    
+     ]
+    }
+  	
+ 
+

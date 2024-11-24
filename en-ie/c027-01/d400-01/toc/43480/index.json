@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Customise smartphone settings",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Turn contact match display on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19639.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn call forwarding on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19403.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn my caller ID on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19265.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn call waiting on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19285.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set your domestic dialling method",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/41649.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn the&nbsp;international dialling auto-prefix feature&nbsp;on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19427.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set your international dialling method",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/21795.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Change your voicemail number",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19309.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use dialling shortcuts",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19689.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Lock or unlock the SIM card",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19463.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use restricted dialling",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19381.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set roaming and data usage preferences",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19553.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Manually select network settings",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19483.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn TTY/TDD on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/19361.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn HAC on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/42701.html",
+    			
+    		"link_number" : "15: 15.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

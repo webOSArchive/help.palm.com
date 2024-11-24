@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Téléphone",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Comment passer et recevoir des appels avec mon appareil&nbsp;?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40164.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation des appels vocaux et vidéo Skype",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/40927/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation de votre appareil avec un smartphone HP webOS connecté",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/41972/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Écoute des messages vocaux",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40101.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage de l&#39;historique des appels",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40088.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation de favoris",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/40479/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Enregistrement d&#39;un numéro de téléphone dans Contacts",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/40087.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation d&#39;un casque",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/40481/index.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personnalisation des paramètres Appels téléphoniques et vidéo",
+    			"url" : 
+				
+    			"http://help.palm.com:80/fr-fr/c090-01/d500-01/toc/40482/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

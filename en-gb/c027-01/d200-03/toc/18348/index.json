@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Bluetooth",
+	"app_name": "bluetooth",
+	"chat_appId": "bluetooth",
+	"icon": "file:///usr/palm/applications/com.palm.app.bluetooth/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Turn the Bluetooth feature on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/26481.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Make a pairing request to another device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/26433.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Accept a pairing request from another device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/26361.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connect with a paired device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/26375.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Disconnect from a device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/26407.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Rename a device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/26465.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Delete a device",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/26391.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use your phone as a modem",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d200-03/article/26451.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

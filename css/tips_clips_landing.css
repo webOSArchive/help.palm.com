@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+a { color:#333333; text-decoration:none; }
+
+#content { background:#e4e4e2; padding:0 0 8px; }	
+          #content ul li td { line-height:normal; }
+
+	#content .paraTipsClipsCategoryOpening { margin:0 0 18px; background:url('/images/bg-before-begin.png') repeat-x center; }
+		#content .paraTipsClipsCategoryOpening span { display:inline; padding:0 4px 0 0; background:#e4e4e2; color:#7ea5c5; font-size:16px; text-transform:uppercase; font-weight:bold; }		
+	#content .paraTipsClipsCategoryClosing { background:url('/images/bg-before-begin.png') repeat-x center; text-indent:-1000em; }			
+		
+
+	#content ul { list-style:none; padding:0; }			
+		#content ul li { padding:6px 16px; background:url('/images/list-divider.gif') repeat-x bottom; font-size:20px; valign: middle; }
+			#content ul li a { display:block; padding:0 0 0 0px; line-height:32px; }
+			#content ul li a img { padding:0 10px 0 0; vertical-align:middle; }
+			
+
+
+
+	#content span.large-bars-outer { margin:4px 0 0px 0; background:url('/images/largebars-bg.png') repeat-x center; line-height:22px; }
+		#content span.large-bars-outer span.large-bars-middle { margin:0 0 0 8px; background:url('/images/largebars-leftcap.png') no-repeat left center; line-height:22px; }		
+			#content span.large-bars-outer span.large-bars-middle span.large-bars-inner { display:inline; margin:0 0 0 3px; padding:0 8px 0 5px; background:url('/images/largebars-rightcap.png') no-repeat right center #e4e4e2; color:#7ea5c5; font-size:14px; text-transform:uppercase; font-weight:bold; line-height:26px; }	
+	
+	
+	#content ul li.listLast { background:none;  }
+	#content ul li a span.listLast { background:none; display:inline; }

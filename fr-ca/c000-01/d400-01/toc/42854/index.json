@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Comptes",
+	"app_name": "accountsmgr",
+	"chat_appId": "accountsmgr",
+	"icon": "http://help.palm.com/images/app_icons/accounts.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Aperçu des Comptes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/42478.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilisation de l&#39;application Comptes pour la configuration d&#39;un compte en ligne",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/28969.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification ou suppression d&#39;un compte en ligne dans l&#39;application Comptes",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/28923.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

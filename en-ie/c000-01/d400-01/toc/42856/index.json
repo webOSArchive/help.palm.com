@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "App Catalog",
+	"app_name": "app_catalog",
+	"chat_appId": "app_catalog",
+	"icon": "http://help.palm.com/images/app_icons/app_catalog.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Browse applications in HP webOS App Catalog",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/6517.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Download a free application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/28673.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Buy an application using your billing account or by entering a promo code",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/42441.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Buy an application directly from a promo code link",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/42391.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reinstall a deleted application",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/42400.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set up a billing account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/20877.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set billing account preferences",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/42422.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Update or delete a billing account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/42428.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

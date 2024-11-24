@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Musik",
+	"app_name": "music",
+	"chat_appId": "music",
+	"icon": "file:///usr/palm/applications/com.palm.app.musicplayer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Musik auf das Smartphone übertragen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42554.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Musik hören",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/20395.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Steuern der Musikwiedergabe",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/20449.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Anzeige &bdquo;Sie hören&ldquo; ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/20507.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Nach ähnlichen Songs oder Inhalten suchen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/20493.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reihenfolge der Elemente in der Wiedergabelistenansicht ändern",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/20339.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Von einer beliebigen Position in der Anwendung &bdquo;Musik&ldquo; zur Ansicht mit dem Albumcover des derzeit wiedergegebenen Songs zurückkehren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/20479.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Einen Song aus der Wiedergabelistenansicht entfernen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/20465.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Einen Song vom Smartphone löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/20367.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Musik mit HP Play von Ihrem Computer auf Ihr Smartphone synchronisieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42574.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "HP Play installieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/41319.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "HP Play für die Synchronisierung mit Ihrem Smartphone einrichten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42583.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Musik manuell aus HP Play auf Ihr Smartphone synchronisieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42587.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

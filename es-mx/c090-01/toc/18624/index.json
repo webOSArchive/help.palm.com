@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Videos",
+	"app_name": "video",
+	"chat_appId": "video",
+	"icon": "file:///usr/palm/applications/com.palm.app.videoplayer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Grabación de un video",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/11217.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Edición de videos grabados",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/11033.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Carga o uso compartido de los videos grabados",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/35600.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de un video",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/17191.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de controles de reproducción de video",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/15523.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de un video",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c027-01/d100-03/article/10819.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

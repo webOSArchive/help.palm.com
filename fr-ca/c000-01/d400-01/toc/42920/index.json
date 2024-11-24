@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Date et heure",
+	"app_name": "date_time",
+	"chat_appId": "date_time",
+	"icon": "file:///usr/palm/applications/com.palm.app.dateandtime/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Utilisation de Date et heure",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/23475.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

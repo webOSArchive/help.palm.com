@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Telefon-Headset verwenden",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Headset mit Kabel verwenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/19183.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Bluetooth&reg;-Freisprecheinrichtungen einrichten und verwenden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/19129.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

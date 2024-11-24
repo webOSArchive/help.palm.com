@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Telefono",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Come è possibile eseguire e ricevere chiamate con il dispositivo?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40164.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzo delle funzionalità di chiamata vocale e videochiamata di Skype",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/40927/index.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzo del dispositivo con uno smartphone HP webOS connesso",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/41972/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ascolto dei messaggi della casella vocale",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40101.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualizzazione della cronologia delle chiamate",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40088.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Utilizzo dei preferiti",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/40479/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Salvataggio di un numero di telefono in Contatti",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c090-01/d500-01/article/40087.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso di un auricolare",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/40481/index.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalizzazione delle impostazioni di Chiamate e videochiamate",
+    			"url" : 
+				
+    			"http://help.palm.com:80/it-it/c090-01/d500-01/toc/40482/index.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

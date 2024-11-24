@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Wi-Fi",
+	"app_name": "wifi",
+	"chat_appId": "wifi",
+	"icon": "file:///usr/palm/applications/com.palm.app.wifi/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Attivazione/disattivazione della funzionalità Wi-Fi",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/4903.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connessione a una nuova rete aperta",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/3329.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Collegamento a una nuova rete Wi-Fi protetta",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/4015.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Collegamento a un captive portal",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/4179.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Collegamento a una rete Wi-Fi utilizzata precedentemente",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/3845.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Disconnessione da una rete Wi-Fi",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/4575.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Attivazione della sospensione del Wi-Fi a schermo spento",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/4747.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalizzazione delle impostazioni di collegamento Wi-Fi",
+    			"url" : 
+				
+    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/4335.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

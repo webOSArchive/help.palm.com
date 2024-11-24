@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Bluetooth",
+	"app_name": "bluetooth",
+	"chat_appId": "bluetooth",
+	"icon": "file:///usr/palm/applications/com.palm.app.bluetooth/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Activation et désactivation de la fonction Bluetooth",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/26481.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Envoi d&#39;une demande d’appariement à un autre appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/26932.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Acceptation d&#39;une demande d’appariement d&#39;un autre appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/26361.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connexion à un appareil apparié",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/26375.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Transmettre les numéros de téléphone des contacts ou les messages SMS à un ensemble de voiture",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42618.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Gestion des préférences de connexion de la tablette webOS",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42634.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification du nom d&#39;un appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/26465.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Déconnexion d&#39;un appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/26407.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un appareil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/26391.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Qu&#39;est-ce que Toucher-partager?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/19783.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Couplage avec une tablette HP webOS à l&#39;aide de la fonction Toucher-partager",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42609.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Partage d&#39;une page Web à l&#39;aide de Toucher-partager",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42632.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Déconnexion d&#39;une connexion Toucher-partager",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42640.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;une connexion Toucher-partager",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c027-01/d400-01/article/42643.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "! Bluetooth",
+	"app_name": "bluetooth",
+	"chat_appId": "bluetooth",
+	"icon": "file:///usr/palm/applications/com.palm.app.bluetooth/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Bluetooth-Funktion ein- und ausschalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/26481.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Pairing-Anfragen an andere Geräte senden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/26932.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Pairing-Anfragen von anderen Geräten akzeptieren",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/26361.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Verbindungen mit über Pairing verknüpften Geräten herstellen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/26375.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Telefonnummern von Kontakten oder SMS-Nachrichten an ein Autokit weiterleiten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42618.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Verbindungseinstellungen des webOS-Tablets verwalten",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42634.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Geräte umbenennen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/26465.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Verbindung zu einem Gerät trennen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/26407.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Geräte löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/26391.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Was ist Touch-to-Share?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/19783.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ein HP webOS-Tablet mithilfe von Touch-to-Share über Pairing verbinden",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42609.html",
+    			
+    		"link_number" : "11: 11.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eine Internetseite mithilfe von Touch-to-Share freigeben",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42632.html",
+    			
+    		"link_number" : "12: 12.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eine Touch-to-Share-Verbindung trennen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42640.html",
+    			
+    		"link_number" : "13: 13.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eine Touch-to-Share-Verbindung löschen",
+    			"url" : 
+				
+    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/42643.html",
+    			
+    		"link_number" : "14: 14.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

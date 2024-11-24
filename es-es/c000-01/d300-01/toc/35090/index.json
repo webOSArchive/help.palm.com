@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Información del dispositivo",
+	"app_name": "device_info",
+	"chat_appId": "device_info",
+	"icon": "file:///usr/palm/applications/com.palm.app.deviceinfo/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Visualización de información del sistema",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/23239.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio del nombre del smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/23225.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Restablecimiento del teléfono",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-es/c000-01/d300-01/toc/38728/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ejecución de pruebas del sistema",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-es/c000-01/d300-01/toc/38725/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambio de aplicaciones predeterminadas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/23201.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Uso de Administrador de certificados",
+    			"url" : 
+				
+    			"http://help.palm.com:80/es-es/c000-01/d300-01/toc/38724/index.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

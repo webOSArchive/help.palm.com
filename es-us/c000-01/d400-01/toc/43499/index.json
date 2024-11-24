@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Administración de aplicaciones",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Cierre de una aplicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27541.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Eliminación de una aplicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27585.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Visualización de todas las aplicaciones abiertas (vista Carta)",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27621.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Trabajo con cartas apiladas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27693.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Desplazamiento entre aplicaciones abiertas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27635.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Desplazamiento por cartas y pilas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/40366.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apilar cartas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/40368.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Cambiar el orden de las cartas o desapilarlas",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/40371.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Alineación de las aplicaciones favoritas en Inicio rápido",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27519.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Reorganización de los iconos de Inicio rápido",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27679.html",
+    			
+    		"link_number" : "10: 10.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

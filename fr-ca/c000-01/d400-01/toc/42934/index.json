@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "VPN",
+	"app_name": "vpn",
+	"chat_appId": "vpn",
+	"icon": "http://help.palm.com/images/app_icons/vpn.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Qu&#39;est-ce que l&#39;application VPN?",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/10577.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout d&#39;un profil VPN à un client VPNC",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/9179.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Ajout d&#39;un profil VPN à un client Cisco AnyConnect",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/9017.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Connexion à un profil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/9323.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Affichage des statistiques d&#39;un profil connecté",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/10375.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Déconnexion d&#39;un profil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/9783.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Modification d&#39;un profil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/10195.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Suppression d&#39;un profil",
+    			"url" : 
+				
+    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/9553.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

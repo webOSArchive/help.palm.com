@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Customize phone settings",
+	"app_name": "phone",
+	"chat_appId": "phone",
+	"icon": "file:///usr/palm/applications/com.palm.app.phone/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Turn contact match display on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/19639.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn the&nbsp;international dialing auto-prefix feature&nbsp;on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/19427.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set your international dialing method",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/19439.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Sign in to or create a Skype account",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/19613.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set permissions for incoming Skype callls",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/19597.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use dialing tones",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/19731.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Use dialing shortcuts",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/19689.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Set roaming and data usage preferences",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22598.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Turn TTY/TDD on/off",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/19361.html",
+    			
+    		"link_number" : "9: 9.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,232 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+     {
+     	"title": "Clips",
+     	"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+     	"sort_by": ["category"],
+     	"json_result": "success",
+     	"items": [
+     	
+    		
+    	
+    	
+    		{
+				"category": "Getting started",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Control TouchPad sounds",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/11_control_sounds_tp_en.mp4",
+				"link_number": "1: 1.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Getting started",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Copy photos, music, and other files between your computer and your TouchPad",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/12_copy_files_tp_en.mp4",
+				"link_number": "2: 1.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Getting started",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Delete messages and manage email",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/10_delete_messages_tp_en.mp4",
+				"link_number": "3: 1.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Getting started",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Just Type to search the web, get in touch, and more",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/05_just_type_tp_en.mp4",
+				"link_number": "4: 1.3"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Getting started",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Search your email",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/09_search_email_tp_en.mp4",
+				"link_number": "5: 1.4"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Getting started",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Set up your online accounts",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/07_online_accounts_tp_en.mp4",
+				"link_number": "6: 1.5"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Getting started",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Use cards on your TouchPad",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/03_cards_tp_en.mp4",
+				"link_number": "7: 1.6"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Getting started",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Use the menus",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/06_menus_tp_en.mp4",
+				"link_number": "8: 1.7"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Beyond the basics",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Answer phone calls and text messages on your TouchPad",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/02_phone_interactions_tp_en.mp4",
+				"link_number": "9: 2.0"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Beyond the basics",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Make a video call using Skype",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/13_skype_tp_en.mp4",
+				"link_number": "10: 2.1"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Beyond the basics",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Print your photos",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/04_print_photos_tp_en.mp4",
+				"link_number": "11: 2.2"
+			                 
+    		    },   	
+    	
+    			
+    		
+    
+    		
+    	
+    	
+    		{
+				"category": "Beyond the basics",
+				"english_app_name": "CLIPS",
+				"app_name": "null",
+				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
+				"text": "Touch To Share",
+				"url": "http://help.webosarchive.com/devicehelp/d500-00/en/01_touch_to_share_tp_en.mp4",
+				"link_number": "12: 2.3"
+			                 
+    		    }   	
+    	
+    			
+    		
+    
+     	]
+     }
+ 
+
+  	
+
+

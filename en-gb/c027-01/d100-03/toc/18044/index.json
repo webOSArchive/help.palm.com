@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Doc View",
+	"app_name": "doc_view",
+	"chat_appId": "doc_view",
+	"icon": "file:///usr/palm/applications/com.palm.app.docviewer/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Open, search in, and save a file",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c027-01/d100-03/toc/18162/index.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with comments, endnotes, and footnotes in a Microsoft Word document",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-03/article/35935.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with cells, sheets, and data in a Microsoft Excel® spreadsheet",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c027-01/d100-03/toc/18158/index.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Work with slide shows and display options in a Microsoft PowerPoint® presentation",
+    			"url" : 
+				
+    			"http://help.palm.com:80/en-us/c027-01/d100-03/toc/18160/index.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Upgrade to Documents To Go® from DataViz",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-03/article/35928.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

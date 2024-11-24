@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Escribe y listo",
+	"app_name": "universalsearch",
+	"chat_appId": "universalsearch",
+	"icon": "http://help.palm.com/images/app_icons/just_type.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Comunicación con un contacto",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/42438.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda en la Web",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/42450.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Búsqueda de información en una aplicación del smartphone",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/42460.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Creación de un nuevo elemento, como un mensaje o una nota",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/21677.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Apertura de una aplicación",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/21747.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Repetición de una búsqueda reciente",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/40186.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Personalización de Escribe y listo",
+    			"url" : 
+				
+    				"http://help.palm.com:80/es-es/c000-01/d400-01/article/21695.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

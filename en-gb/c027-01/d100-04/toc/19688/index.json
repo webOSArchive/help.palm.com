@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Send and receive message",
+	"app_name": "email",
+	"chat_appId": "email",
+	"icon": "file:///usr/palm/applications/com.palm.app.email/icon.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Create and send an email message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22651.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Format email text",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22661.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Add attachments to a message",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22625.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Save a message as a draft",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22755.html",
+    			
+    		"link_number" : "4: 4.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Receive and read email messages",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22729.html",
+    			
+    		"link_number" : "5: 5.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Open attachments",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22691.html",
+    			
+    		"link_number" : "6: 6.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Save attachments",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22739.html",
+    			
+    		"link_number" : "7: 7.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Save or share an inline image",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/22789.html",
+    			
+    		"link_number" : "8: 8.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	{
+	"title": "Open applications",
+	"app_name": "basics",
+	"chat_appId": "basics",
+	"icon": "file:///usr/palm/applications/com.palm.app.help/images/basics.png",
+	"sort_by":null,
+	"json_result" : "Success",
+	"items": [
+   
+
+			{
+				"text" : "Open an application using Just Type",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/27075.html",
+    			
+    		"link_number" : "1: 1.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Open an application in the Launcher",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/27107.html",
+    			
+    		"link_number" : "2: 2.0"
+    		 
+    		    },       		
+    
+
+			{
+				"text" : "Open an application in Quick Launch",
+    			"url" : 
+				
+    				"http://help.palm.com:80/en-ie/c027-01/d400-01/article/27119.html",
+    			
+    		"link_number" : "3: 3.0"
+    		 
+    		    }       		
+    
+     ]
+    }
+  	
+ 
+
