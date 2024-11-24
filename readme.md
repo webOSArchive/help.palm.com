@@ -18,7 +18,7 @@ To try it out, you need to show your device where to find the new server:
 
 - If you'd rather not use a public proxy, you can configure your own proxy, DNS or the hosts file on your device with an entry like this:
 
-`<ipaddress>   help.palm.com`
+    - `<ipaddress>   help.palm.com`
 	
 You can find the current IP address of the webOS Archive copy of this content with the command:
 
