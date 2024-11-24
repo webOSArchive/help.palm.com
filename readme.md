@@ -1,11 +1,13 @@
 # Restoring webOS On-Device Help
 
-<img src="http://www.webosarchive.com/help.png">
+<img src="http://www.webosarchive.org/help.png">
 This is an ongoing effort to make the built-in Help app on webOS devices work again.
 
 ## Project Status
 
-At this time the *Touchpad* has most of the Help restored in *English*, *French*, *German* and *Italian*. The *Veer* (running 2.2.4) and *Pre3 have* been tested in *English*, which has been mostly restored for those devices as well.
+At this time the *Touchpad* has most of the Help restored in *English*, *French*, *German* and *Italian*. 
+
+The *Veer* (running 2.2.4) and *Pre3 have* been tested in *English*, which has been mostly restored for those devices as well.
 
 ## Usage
 
