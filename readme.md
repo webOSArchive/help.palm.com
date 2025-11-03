@@ -18,6 +18,7 @@ To try it out, you need to show your device where to find the new server:
 
 - If you'd rather not use a public proxy, you can hosts the help files on your own server, and add a hosts (`/etc/hosts`) entry on your device like this:
     - `<ipaddress>   help.palm.com`
+
 Where `<ipaddress>` is the address of your web server. Do not host the content over HTTPS -- only HTTP will work.
 
 ## Contents
