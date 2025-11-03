@@ -1,7 +1,7 @@
 # Restoring webOS On-Device Help
 
 <img src="http://www.webosarchive.org/help.png">
-This is an ongoing effort to make the built-in Help app on webOS devices work again.
+This is an archived effort to make the built-in Help app on webOS devices work again.
 
 ## Project Status
 
