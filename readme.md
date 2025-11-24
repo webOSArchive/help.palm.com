@@ -17,7 +17,13 @@ The easiest way to repair your online experience is to use the webOS Archive Pro
 
 - <a href="http://www.webosarchive.org/docs/proxysetup/">http://www.webosarchive.org/docs/proxysetup/</a>
 
-If you'd rather not use a public proxy, you can hosts the help files on your own server, and add a hosts (`/etc/hosts`) entry on your device like this:
+If you're unable to use the proxy, lookup the DNS entry for webosarchive.org, and add a hosts (`/etc/hosts`) entry on your device like this:
+
+- `<ipaddress>   help.palm.com`
+
+Where `<ipaddress>` is the IP of webosarchive.org -- note that this is subject to change in the future.
+
+Finally, you can hosts the help files on your own server, and add a hosts (`/etc/hosts`) entry on your device like this:
 
 - `<ipaddress>   help.palm.com`
 
