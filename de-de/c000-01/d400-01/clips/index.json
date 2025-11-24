@@ -28,7 +28,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Einfach lostippen: für Suche, Navigation, Kommunikation",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/01_just_type_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/01_just_type_de.mp4",
 				"link_number": "1: 1.1"
 			                 
     		    },   	
@@ -45,7 +45,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Alle Konten von einem Ort aus verwalten",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/02_account_synergy_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/02_account_synergy_de.mp4",
 				"link_number": "2: 1.2"
 			                 
     		    },   	
@@ -62,7 +62,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Klingeltöne und Alarme anpassen",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/03_customize_ringtones_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/03_customize_ringtones_de.mp4",
 				"link_number": "3: 1.3"
 			                 
     		    },   	
@@ -79,7 +79,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Leistungsstarke Menü-Optionen finden und nutzen",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/04_webOS_menus_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/04_webOS_menus_de.mp4",
 				"link_number": "4: 1.4"
 			                 
     		    },   	
@@ -96,7 +96,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Klingeltöne, Musik und Dateien zwischen Telefon und Computer austauschen",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/05_copy_files_music_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/05_copy_files_music_de.mp4",
 				"link_number": "5: 1.5"
 			                 
     		    },   	
@@ -113,7 +113,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Installieren einer kostenlosen App",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/06_01_installfreeapp_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/06_01_installfreeapp_de.mp4",
 				"link_number": "6: 1.6"
 			                 
     		    },   	
@@ -130,7 +130,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Tastenkombinationen für die Kamera",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/06_02_camerakeyboardshortcuts_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/06_02_camerakeyboardshortcuts_de.mp4",
 				"link_number": "7: 1.7"
 			                 
     		    },   	
@@ -147,7 +147,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Filtern Ihrer E-Mail-Posteingänge",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/06_03_filteryouremail_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/06_03_filteryouremail_de.mp4",
 				"link_number": "8: 1.8"
 			                 
     		    },   	
@@ -164,7 +164,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Favoriten hinzufügen",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/06_04_addafavorite_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/06_04_addafavorite_de.mp4",
 				"link_number": "9: 1.9"
 			                 
     		    },   	
@@ -181,7 +181,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Klingelton ausschalten und Anrufe ignorieren",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/06_05_silenceringer_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/06_05_silenceringer_de.mp4",
 				"link_number": "10: 1.10"
 			                 
     		    },   	
@@ -198,7 +198,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Zuletzt gewählte Nummer erneut wählen",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/06_06_lastnumberredial_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/06_06_lastnumberredial_de.mp4",
 				"link_number": "11: 1.11"
 			                 
     		    },   	
@@ -215,7 +215,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "E-Mails schnell und einfach löschen",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/06_07_deleteemails_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/06_07_deleteemails_de.mp4",
 				"link_number": "12: 1.12"
 			                 
     		    },   	
@@ -232,7 +232,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Anruf durch \"Wegwerfen\" beenden",
-				"url": "http://help.webosarchive.com/devicehelp/webos20/de/06_08_hangupcall_de.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/webos20/de/06_08_hangupcall_de.mp4",
 				"link_number": "13: 1.13"
 			                 
     		    }   	

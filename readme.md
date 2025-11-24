@@ -15,7 +15,7 @@ To try it out, you need to show your device where to find the new server:
 
 The easiest way to repair your online experience is to use the webOS Archive Proxy server:
 
-- <a href="http://www.webosarchive.com/docs/proxysetup/">http://www.webosarchive.com/docs/proxysetup/</a>
+- <a href="http://www.webosarchive.org/docs/proxysetup/">http://www.webosarchive.org/docs/proxysetup/</a>
 
 If you'd rather not use a public proxy, you can hosts the help files on your own server, and add a hosts (`/etc/hosts`) entry on your device like this:
 

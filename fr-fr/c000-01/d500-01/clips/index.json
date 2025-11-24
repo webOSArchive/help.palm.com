@@ -28,7 +28,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Contrôle des sons de la tablette TouchPad",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/11_control_sounds_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/11_control_sounds_tp_fr.mp4",
 				"link_number": "1: 1.0"
 			                 
     		    },   	
@@ -45,7 +45,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Copie de photos, musique et autres types de fichiers entre un ordinateur et votre TouchPad",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/12_copy_files_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/12_copy_files_tp_fr.mp4",
 				"link_number": "2: 1.1"
 			                 
     		    },   	
@@ -62,7 +62,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Suppression des messages et gestion des emails",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/10_delete_messages_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/10_delete_messages_tp_fr.mp4",
 				"link_number": "3: 1.2"
 			                 
     		    },   	
@@ -79,7 +79,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Effectuez des recherches sur le Web, restez en contact avec vos proches et bien plus encore grâce à la saisie semi-automatique",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/05_just_type_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/05_just_type_tp_fr.mp4",
 				"link_number": "4: 1.3"
 			                 
     		    },   	
@@ -96,7 +96,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Recherche dans les emails",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/09_search_email_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/09_search_email_tp_fr.mp4",
 				"link_number": "5: 1.4"
 			                 
     		    },   	
@@ -113,7 +113,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Configuration de vos comptes en ligne",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/07_online_accounts_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/07_online_accounts_tp_fr.mp4",
 				"link_number": "6: 1.5"
 			                 
     		    },   	
@@ -130,7 +130,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Utilisation des cartes sur votre tablette TouchPad",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/03_cards_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/03_cards_tp_fr.mp4",
 				"link_number": "7: 1.6"
 			                 
     		    },   	
@@ -147,7 +147,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Utilisation des menus",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/06_menus_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/06_menus_tp_fr.mp4",
 				"link_number": "8: 1.7"
 			                 
     		    },   	
@@ -164,7 +164,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Réponse aux appels téléphoniques et aux messages SMS sur votre tablette TouchPad",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/02_phone_interactions_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/02_phone_interactions_tp_fr.mp4",
 				"link_number": "9: 2.0"
 			                 
     		    },   	
@@ -181,7 +181,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Appel vidéo via Skype",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/13_skype_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/13_skype_tp_fr.mp4",
 				"link_number": "10: 2.1"
 			                 
     		    },   	
@@ -198,7 +198,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Impression de vos photos",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/04_print_photos_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/04_print_photos_tp_fr.mp4",
 				"link_number": "11: 2.2"
 			                 
     		    },   	
@@ -215,7 +215,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Fonctionnalité Toucher-partager",
-				"url": "http://help.webosarchive.com/devicehelp/d500-00/fr/01_touch_to_share_tp_fr.mp4",
+				"url": "http://help.webosarchive.org/devicehelp/d500-00/fr/01_touch_to_share_tp_fr.mp4",
 				"link_number": "12: 2.3"
 			                 
     		    }   	

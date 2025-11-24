@@ -28,7 +28,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Just Type to search, navigate, communicate",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/01_just_type_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/01_just_type_en.mp4",
 				"link_number": "1: 1.1"
 			                 
     		    },   	
@@ -45,7 +45,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Set up all your accounts in one place",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/02_account_synergy_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/02_account_synergy_en.mp4",
 				"link_number": "2: 1.2"
 			                 
     		    },   	
@@ -62,7 +62,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Customize ringtones and alerts",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/03_customize_ringtones_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/03_customize_ringtones_en.mp4",
 				"link_number": "3: 1.3"
 			                 
     		    },   	
@@ -79,7 +79,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Locating and using powerful menu options",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/04_webOS_menus_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/04_webOS_menus_en.mp4",
 				"link_number": "4: 1.4"
 			                 
     		    },   	
@@ -96,7 +96,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Copy ringtones, music and files between your phone and computer",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/05_copy_files_music_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/05_copy_files_music_en.mp4",
 				"link_number": "5: 1.5"
 			                 
     		    },   	
@@ -113,7 +113,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Install a free app",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/06_01_installfreeapp_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/06_01_installfreeapp_en.mp4",
 				"link_number": "6: 1.6"
 			                 
     		    },   	
@@ -130,7 +130,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Camera keyboard shortcuts",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/06_02_camerakeyboardshortcuts_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/06_02_camerakeyboardshortcuts_en.mp4",
 				"link_number": "7: 1.7"
 			                 
     		    },   	
@@ -147,7 +147,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Filter your email",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/06_03_filteryouremail_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/06_03_filteryouremail_en.mp4",
 				"link_number": "8: 1.8"
 			                 
     		    },   	
@@ -164,7 +164,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Add a favorite",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/06_04_addafavorite_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/06_04_addafavorite_en.mp4",
 				"link_number": "9: 1.9"
 			                 
     		    },   	
@@ -181,7 +181,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Silence ringer and ignore a call",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/06_05_silenceringer_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/06_05_silenceringer_en.mp4",
 				"link_number": "10: 1.10"
 			                 
     		    },   	
@@ -198,7 +198,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Last number redial",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/06_06_lastnumberredial_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/06_06_lastnumberredial_en.mp4",
 				"link_number": "11: 1.11"
 			                 
     		    },   	
@@ -215,7 +215,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Delete emails the easy way",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/06_07_deleteemails_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/06_07_deleteemails_en.mp4",
 				"link_number": "12: 1.12"
 			                 
     		    },   	
@@ -232,7 +232,7 @@
 				"app_name": "null",
 				"icon": "file:///usr/palm/applications/com.palm.app.help/images/clips.png",
 				"text": "Hang up a call by throwing it away",
-				"url": "http://downloads.help.webosarchive.com/devicehelp/webos20/en/06_08_hangupcall_en.mp4",
+				"url": "http://downloads.help.webosarchive.org/devicehelp/webos20/en/06_08_hangupcall_en.mp4",
 				"link_number": "13: 1.13"
 			                 
     		    }   	
