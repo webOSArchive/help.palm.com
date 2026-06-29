@@ -35,7 +35,7 @@
 				"text" : "Create and send an email message",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/38940.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d500-01/article/38940.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Add attachments to a message",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/39425.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d500-01/article/39425.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Save a message as a draft",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/41494.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d500-01/article/41494.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Receive and read email messages",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/39429.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d500-01/article/39429.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Open attachments",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/39441.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d500-01/article/39441.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Save attachments",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/39444.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d500-01/article/39444.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Save an inline image",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d500-01/article/39447.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d500-01/article/39447.html",
     			
     		"link_number" : "7: 7.0"
     		 

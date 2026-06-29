@@ -35,7 +35,7 @@
 				"text" : "Activation/désactivation de l&#39;affichage du contact",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19639.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19639.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Activation/désactivation du renvoi d&#39;appel",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19403.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19403.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Activation et désactivation de l&#39;affichage de mon numéro d&#39;appelant",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19265.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19265.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Activation/désactivation de la mise en attente des appels",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19285.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19285.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Définition de votre méthode de composition des numéros nationaux",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/41649.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/41649.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Activation/désactivation de l&#39;ajout automatique de préfixe de numérotation internationale",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19427.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19427.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Configuration du mode de numérotation internationale",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/21795.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/21795.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Modifiez votre numéro de boîte vocale",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19309.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19309.html",
     			
     		"link_number" : "8: 8.0"
     		 
@@ -123,7 +123,7 @@
 				"text" : "Utilisation des raccourcis de composition",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19689.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19689.html",
     			
     		"link_number" : "9: 9.0"
     		 
@@ -134,7 +134,7 @@
 				"text" : "Verrouillage et déverrouillage de la carte SIM",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19463.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19463.html",
     			
     		"link_number" : "10: 10.0"
     		 
@@ -145,7 +145,7 @@
 				"text" : "Utilisation de la composition restreinte",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19381.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19381.html",
     			
     		"link_number" : "11: 11.0"
     		 
@@ -156,7 +156,7 @@
 				"text" : "Configuration des préférences d&#39;itinérance et d&#39;utilisation de données",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19553.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19553.html",
     			
     		"link_number" : "12: 12.0"
     		 
@@ -167,7 +167,7 @@
 				"text" : "Sélectionnez manuellement les paramètres du réseau",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19483.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19483.html",
     			
     		"link_number" : "13: 13.0"
     		 
@@ -178,7 +178,7 @@
 				"text" : "Activation/désactivation de la fonction téléscripteur/ATS",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/19361.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/19361.html",
     			
     		"link_number" : "14: 14.0"
     		 
@@ -189,7 +189,7 @@
 				"text" : "Activation et désactivation de la compatibilité avec les prothèses auditives",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/42701.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/42701.html",
     			
     		"link_number" : "15: 15.0"
     		 

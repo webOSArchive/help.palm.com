@@ -35,7 +35,7 @@
 				"text" : "Welche Arten von Anruf kann ich mit Skype tätigen und empfangen?",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/41982.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/41982.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Skype-Konto in &bdquo;Anrufe und Videoanrufe&ldquo; erstellen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40127.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40127.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Melden Sie sich bei einem Skype-Konto in &bdquo;Anrufe und Videoanrufe&ldquo; an.",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40131.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40131.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Skype-zu-Skype-Video- oder Sprachanrufe tätigen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/42015.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/42015.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Skype zum Wählen einer Telefonnummer verwenden",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/42016.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/42016.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Skype-Anrufe beantworten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/42019.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/42019.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Klingelton bei eingehenden Anrufen ausschalten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40109.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40109.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Anrufe ignorieren",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40107.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40107.html",
     			
     		"link_number" : "8: 8.0"
     		 
@@ -123,7 +123,7 @@
 				"text" : "Skype-zu-Skype-Videoanrufe verwalten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/42020.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/42020.html",
     			
     		"link_number" : "9: 9.0"
     		 
@@ -134,7 +134,7 @@
 				"text" : "Skype-zu-Skype-Sprachanrufe verwalten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/42021.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/42021.html",
     			
     		"link_number" : "10: 10.0"
     		 
@@ -145,7 +145,7 @@
 				"text" : "Während des Telefonierens andere Anwendungen verwenden",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40160.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40160.html",
     			
     		"link_number" : "11: 11.0"
     		 
@@ -156,7 +156,7 @@
 				"text" : "Einen zweiten Anruf tätigen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40156.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40156.html",
     			
     		"link_number" : "12: 12.0"
     		 
@@ -167,7 +167,7 @@
 				"text" : "Einen zweiten Anruf annehmen (Anklopfen)",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40145.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40145.html",
     			
     		"link_number" : "13: 13.0"
     		 
@@ -178,7 +178,7 @@
 				"text" : "Zwischen zwei Anrufen wechseln",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40158.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40158.html",
     			
     		"link_number" : "14: 14.0"
     		 
@@ -189,7 +189,7 @@
 				"text" : "Konferenzgespräch führen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40151.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40151.html",
     			
     		"link_number" : "15: 15.0"
     		 
@@ -200,7 +200,7 @@
 				"text" : "Anrufe beenden",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40148.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40148.html",
     			
     		"link_number" : "16: 16.0"
     		 
@@ -211,7 +211,7 @@
 				"text" : "Anrufeinstellungen von Skype festlegen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/42070.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/42070.html",
     			
     		"link_number" : "17: 17.0"
     		 
@@ -222,7 +222,7 @@
 				"text" : "Skype-Konten bearbeiten oder löschen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/42072.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/42072.html",
     			
     		"link_number" : "18: 18.0"
     		 

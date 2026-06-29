@@ -35,7 +35,7 @@
 				"text" : "Création et envoi d’un message SMS ou multimédia",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/42389.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/42389.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Lecture de messages SMS/multimédia",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c000-01/d400-01/article/42401.html",
+    				"http://help.webosarchive.org:80/fr-ca/c000-01/d400-01/article/42401.html",
     			
     		"link_number" : "2: 2.0"
     		 

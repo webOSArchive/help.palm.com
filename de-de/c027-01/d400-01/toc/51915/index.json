@@ -35,7 +35,7 @@
 				"text" : "WLAN ein- oder ausschalten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/4903.html",
+    				"http://help.webosarchive.org:80/de-de/c027-01/d400-01/article/4903.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Verbindung zu einem neuen offenen Netzwerk herstellen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/3329.html",
+    				"http://help.webosarchive.org:80/de-de/c027-01/d400-01/article/3329.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Verbindung zu einem neuen gesicherten WLAN-Netzwerk herstellen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/4015.html",
+    				"http://help.webosarchive.org:80/de-de/c027-01/d400-01/article/4015.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Verbindung zu einem Captive Portal herstellen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/4179.html",
+    				"http://help.webosarchive.org:80/de-de/c027-01/d400-01/article/4179.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Verbindung zu einem bereits früher verwendeten WLAN-Netzwerk herstellen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/3845.html",
+    				"http://help.webosarchive.org:80/de-de/c027-01/d400-01/article/3845.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Verbindung zu einem WLAN-Netzwerk trennen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/4575.html",
+    				"http://help.webosarchive.org:80/de-de/c027-01/d400-01/article/4575.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "WLAN-Verbindung bei ausgeschaltetem Bildschirm trennen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/4747.html",
+    				"http://help.webosarchive.org:80/de-de/c027-01/d400-01/article/4747.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "WLAN-Verbindungseinstellungen anpassen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c027-01/d400-01/article/4335.html",
+    				"http://help.webosarchive.org:80/de-de/c027-01/d400-01/article/4335.html",
     			
     		"link_number" : "8: 8.0"
     		 

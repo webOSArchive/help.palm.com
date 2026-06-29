@@ -35,7 +35,7 @@
 				"text" : "Administración de una llamada",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20157.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/20157.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Finalización de una llamada",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20033.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/20033.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Uso de otra aplicación durante una llamada",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20215.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/20215.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Realización de una segunda llamada",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20135.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/20135.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Respuesta a una segunda llamada (llamada en espera)",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20019.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/20019.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Cambio entre dos llamadas",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20189.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/20189.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Realización de una llamada en conferencia",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20081.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/20081.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Búsqueda de un contacto o envío de un mensaje",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/20047.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/20047.html",
     			
     		"link_number" : "8: 8.0"
     		 

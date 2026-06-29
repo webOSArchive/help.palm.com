@@ -25,7 +25,7 @@
 	"title": "App Catalog",
 	"app_name": "app_catalog",
 	"chat_appId": "app_catalog",
-	"icon": "http://help.palm.com/images/app_icons/app_catalog.png",
+	"icon": "http://help.webosarchive.org/images/app_icons/app_catalog.png",
 	"sort_by":null,
 	"json_result" : "Success",
 	"items": [
@@ -35,7 +35,7 @@
 				"text" : "Exploración de aplicaciones en HP webOS App Catalog",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/6517.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/6517.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Descarga de una aplicación gratuita",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/28673.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/28673.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Compra de una aplicación utilizando la cuenta de facturación o introduciendo un código de promoción",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/42441.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/42441.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Compra de una aplicación directamente desde un enlace de código promocional",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/42391.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/42391.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Reinstalación de una aplicación eliminada",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/42400.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/42400.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Configuración de una cuenta de facturación",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/20877.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/20877.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Establecer las preferencias de la cuenta de facturación",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/42422.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/42422.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Actualización o eliminación de una cuenta de facturación",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/42428.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/42428.html",
     			
     		"link_number" : "8: 8.0"
     		 

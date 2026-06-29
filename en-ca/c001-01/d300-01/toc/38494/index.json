@@ -35,7 +35,7 @@
 				"text" : "Create and send a text or multimedia message",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/21227.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d300-01/article/21227.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Read text/multimedia messages",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d300-01/article/21237.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d300-01/article/21237.html",
     			
     		"link_number" : "2: 2.0"
     		 

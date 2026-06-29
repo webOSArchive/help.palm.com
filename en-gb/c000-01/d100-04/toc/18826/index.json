@@ -35,7 +35,7 @@
 				"text" : "Set an alarm",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/25569.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d100-04/article/25569.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Manage Clock",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/25623.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d100-04/article/25623.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Cancel an alarm",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/25651.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d100-04/article/25651.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Change the alarm volume",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/25579.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d100-04/article/25579.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Delete an alarm",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d100-04/article/25595.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d100-04/article/25595.html",
     			
     		"link_number" : "5: 5.0"
     		 

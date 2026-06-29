@@ -35,7 +35,7 @@
 				"text" : "Cambio del brillo de la pantalla",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17753.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/17753.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Configuración del intervalo para que la pantalla se apague automáticamente",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17863.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/17863.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Cambio de la imagen de fondo",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17833.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/17833.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Activación/desactivación de los trazos avanzados",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17773.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/17773.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Configuración de opciones para desbloquear la pantalla",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17879.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/17879.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Cambio de la contraseña de Desbloqueo seguro",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17801.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/17801.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Recepción de avisos cuando la pantalla está bloqueada o apagada",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/17787.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/17787.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Uso del marcado por voz cuando la pantalla está bloqueada",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d100-04/article/35308.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d100-04/article/35308.html",
     			
     		"link_number" : "8: 8.0"
     		 

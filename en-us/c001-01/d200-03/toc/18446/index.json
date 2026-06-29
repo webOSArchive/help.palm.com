@@ -35,7 +35,7 @@
 				"text" : "Connect to a new open network",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/3329.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d200-03/article/3329.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Connect to a new secure Wi-Fi network",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/4015.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d200-03/article/4015.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Connect to a previously used Wi-Fi network",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/3563.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d200-03/article/3563.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Disconnect from a Wi-Fi network",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/4575.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d200-03/article/4575.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Put Wi-Fi to sleep when the screen is off",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/4747.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d200-03/article/4747.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Customize Wi-Fi connection settings",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d200-03/article/4335.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d200-03/article/4335.html",
     			
     		"link_number" : "6: 6.0"
     		 

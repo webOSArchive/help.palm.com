@@ -35,7 +35,7 @@
 				"text" : "Obtención de ayuda si una actualización de software falla",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/17223.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d200-03/article/17223.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Comprobación manual de actualizaciones del sistema",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d200-03/article/17209.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d200-03/article/17209.html",
     			
     		"link_number" : "2: 2.0"
     		 

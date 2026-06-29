@@ -35,7 +35,7 @@
 				"text" : "Anruf annehmen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/19199.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/19199.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Klingelton bei eingehenden Anrufen ausschalten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/19231.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/19231.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Anrufe ignorieren",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/19217.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/19217.html",
     			
     		"link_number" : "3: 3.0"
     		 

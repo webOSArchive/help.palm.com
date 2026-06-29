@@ -35,7 +35,7 @@
 				"text" : "Découverte de l&#39;appareil",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40450/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40450/index.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Charge de la batterie",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40308.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/40308.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Optimiser la durée de vie de la batterie",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40318.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/40318.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Mise sous tension et hors tension de l&#39;appareil",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40453/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40453/index.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Navigation dans l&#39;interface de l&#39;appareil",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40454/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40454/index.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Ouverture d&#39;applications",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/41800/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/41800/index.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Gestion des applications",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40465/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40465/index.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Saisir et enregistrer des renseignements",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40462/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40462/index.html",
     			
     		"link_number" : "8: 8.0"
     		 
@@ -123,7 +123,7 @@
 				"text" : "Utilisation des menus",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40466/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40466/index.html",
     			
     		"link_number" : "9: 9.0"
     		 
@@ -134,7 +134,7 @@
 				"text" : "Recherche d&#39;informations",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40443.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/40443.html",
     			
     		"link_number" : "10: 10.0"
     		 
@@ -145,7 +145,7 @@
 				"text" : "Affichage et utilisation des avis",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40322.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/40322.html",
     			
     		"link_number" : "11: 11.0"
     		 
@@ -156,7 +156,7 @@
 				"text" : "Synchronisation de données personnelles et copie de fichiers entre votre appareil et votre ordinateur",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40469/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40469/index.html",
     			
     		"link_number" : "12: 12.0"
     		 
@@ -167,7 +167,7 @@
 				"text" : "Supprimer des fichiers de votre appareil",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40446.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/40446.html",
     			
     		"link_number" : "13: 13.0"
     		 
@@ -178,7 +178,7 @@
 				"text" : "Le Data Export Wizard vous permet d&#39;exporter les données d&#39;un organisateur de bureau vers votre ordinateur.",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/41867.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/41867.html",
     			
     		"link_number" : "14: 14.0"
     		 
@@ -189,7 +189,7 @@
 				"text" : "Pourquoi l&#39;écran s&#39;éteint-il?",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40314.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/40314.html",
     			
     		"link_number" : "15: 15.0"
     		 
@@ -200,7 +200,7 @@
 				"text" : "Connexion à un réseau",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40309.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/40309.html",
     			
     		"link_number" : "16: 16.0"
     		 
@@ -211,7 +211,7 @@
 				"text" : "Saisie d&#39;écran",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/40321.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/40321.html",
     			
     		"link_number" : "17: 17.0"
     		 
@@ -222,7 +222,7 @@
 				"text" : "Les 5&nbsp;M&nbsp;: cinq méthodes pour rétablir le fonctionnement de votre appareil",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40470/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40470/index.html",
     			
     		"link_number" : "18: 18.0"
     		 
@@ -233,7 +233,7 @@
 				"text" : "Assistance relative à l&#39;aide",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40475/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40475/index.html",
     			
     		"link_number" : "19: 19.0"
     		 
@@ -244,7 +244,7 @@
 				"text" : "En savoir plus",
     			"url" : 
 				
-    			"http://help.palm.com:80/fr-ca/c090-01/d500-01/toc/40476/index.html",
+    			"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/toc/40476/index.html",
     			
     		"link_number" : "20: 20.0"
     		 
@@ -255,7 +255,7 @@
 				"text" : "Copyright",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-ca/c090-01/d500-01/article/26607.html",
+    				"http://help.webosarchive.org:80/fr-ca/c090-01/d500-01/article/26607.html",
     			
     		"link_number" : "21: 21.0"
     		 

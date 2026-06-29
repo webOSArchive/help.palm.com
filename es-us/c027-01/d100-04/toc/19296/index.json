@@ -35,7 +35,7 @@
 				"text" : "Búsqueda en la Ayuda",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/27787.html",
+    				"http://help.webosarchive.org:80/es-us/c027-01/d100-04/article/27787.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Obtención de ayuda para una aplicación específica",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/27801.html",
+    				"http://help.webosarchive.org:80/es-us/c027-01/d100-04/article/27801.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Cambio entre la ayuda y otra aplicación abierta",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c027-01/d100-04/article/27775.html",
+    				"http://help.webosarchive.org:80/es-us/c027-01/d100-04/article/27775.html",
     			
     		"link_number" : "3: 3.0"
     		 

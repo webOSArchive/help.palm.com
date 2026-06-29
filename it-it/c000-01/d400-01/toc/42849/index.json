@@ -25,7 +25,7 @@
 	"title": "HP mobile hotspot",
 	"app_name": "mobilehotspot",
 	"chat_appId": "mobilehotspot",
-	"icon": "http://help.palm.com/images/app_icons/mobilehotspot.png",
+	"icon": "http://help.webosarchive.org/images/app_icons/mobilehotspot.png",
 	"sort_by":null,
 	"json_result" : "Success",
 	"items": [
@@ -35,7 +35,7 @@
 				"text" : "Informazioni su&nbsp;HP mobile hotspot",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/43538.html",
+    				"http://help.webosarchive.org:80/it-it/c000-01/d400-01/article/43538.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Installazione di&nbsp;HP mobile hotspot",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/43554.html",
+    				"http://help.webosarchive.org:80/it-it/c000-01/d400-01/article/43554.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Creazione di un hotspot sicuro",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/43560.html",
+    				"http://help.webosarchive.org:80/it-it/c000-01/d400-01/article/43560.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Creazione di un hotspot aperto",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/43564.html",
+    				"http://help.webosarchive.org:80/it-it/c000-01/d400-01/article/43564.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Utilizzo di&nbsp;HP mobile hotspot",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/43568.html",
+    				"http://help.webosarchive.org:80/it-it/c000-01/d400-01/article/43568.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Modifica della frase chiave sicura",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/20525.html",
+    				"http://help.webosarchive.org:80/it-it/c000-01/d400-01/article/20525.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Visualizzazione delle informazioni sui dispositivi connessi",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c000-01/d400-01/article/20617.html",
+    				"http://help.webosarchive.org:80/it-it/c000-01/d400-01/article/20617.html",
     			
     		"link_number" : "7: 7.0"
     		 

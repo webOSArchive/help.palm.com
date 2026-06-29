@@ -25,7 +25,7 @@
 	"title": "Software-Manager",
 	"app_name": "softwaremgr",
 	"chat_appId": "softwaremgr",
-	"icon": "http://help.palm.com/images/app_icons/softwaremgr.png",
+	"icon": "http://help.webosarchive.org/images/app_icons/softwaremgr.png",
 	"sort_by":null,
 	"json_result" : "Success",
 	"items": [
@@ -35,7 +35,7 @@
 				"text" : "Heruntergeladene Anwendungen verwalten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/10003.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/10003.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Update einer heruntergeladenen Anwendung von einer Benachrichtigung aus starten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/40243.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/40243.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Manuell auf Anwendungsupdates prüfen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/42359.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/42359.html",
     			
     		"link_number" : "3: 3.0"
     		 

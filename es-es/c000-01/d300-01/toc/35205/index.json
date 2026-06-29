@@ -35,7 +35,7 @@
 				"text" : "Activación/desactivación de la función Wi-Fi",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/4903.html",
+    				"http://help.webosarchive.org:80/es-es/c000-01/d300-01/article/4903.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Conexión a una nueva red abierta",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/3329.html",
+    				"http://help.webosarchive.org:80/es-es/c000-01/d300-01/article/3329.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Conexión a una nueva red Wi-Fi segura",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/4015.html",
+    				"http://help.webosarchive.org:80/es-es/c000-01/d300-01/article/4015.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Conexión a un portal cautivo",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/4179.html",
+    				"http://help.webosarchive.org:80/es-es/c000-01/d300-01/article/4179.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Conexión a una red Wi-Fi utilizada anteriormente",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/3845.html",
+    				"http://help.webosarchive.org:80/es-es/c000-01/d300-01/article/3845.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Desconexión de una red Wi-Fi",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/4575.html",
+    				"http://help.webosarchive.org:80/es-es/c000-01/d300-01/article/4575.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Puesta de la función Wi-Fi en suspensión cuando la pantalla está apagada",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/4747.html",
+    				"http://help.webosarchive.org:80/es-es/c000-01/d300-01/article/4747.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Personalización de la configuración de conexión Wi-Fi",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-es/c000-01/d300-01/article/4335.html",
+    				"http://help.webosarchive.org:80/es-es/c000-01/d300-01/article/4335.html",
     			
     		"link_number" : "8: 8.0"
     		 

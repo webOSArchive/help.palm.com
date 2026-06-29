@@ -35,7 +35,7 @@
 				"text" : "¿Cómo puedo introducir eventos en Calendario?",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42213.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/42213.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Calendarios superpuestos",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26113.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26113.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Uso de Calendario por primera vez",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42225.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/42225.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Configuración de una cuenta en línea en Calendario",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42231.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/42231.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Creación de un evento",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42237.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/42237.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Introducción de la ubicación del evento",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26071.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26071.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Programación de un evento que se repite",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26219.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26219.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Adición de una alarma a un evento",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/25915.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/25915.html",
     			
     		"link_number" : "8: 8.0"
     		 
@@ -123,7 +123,7 @@
 				"text" : "Personalización de sonidos de notificaciones de eventos",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26037.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26037.html",
     			
     		"link_number" : "9: 9.0"
     		 
@@ -134,7 +134,7 @@
 				"text" : "Adición de una nota a un evento",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/25931.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/25931.html",
     			
     		"link_number" : "10: 10.0"
     		 
@@ -145,7 +145,7 @@
 				"text" : "Creación de un evento de todo el día (sin hora)",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26003.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26003.html",
     			
     		"link_number" : "11: 11.0"
     		 
@@ -156,7 +156,7 @@
 				"text" : "Cambio de la presentación de Calendario",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/42249.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/42249.html",
     			
     		"link_number" : "12: 12.0"
     		 
@@ -167,7 +167,7 @@
 				"text" : "Desplazamiento en el Calendario",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26173.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26173.html",
     			
     		"link_number" : "13: 13.0"
     		 
@@ -178,7 +178,7 @@
 				"text" : "Consulta de un vistazo de la programación",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26187.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26187.html",
     			
     		"link_number" : "14: 14.0"
     		 
@@ -189,7 +189,7 @@
 				"text" : "Eliminación de un evento",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26061.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26061.html",
     			
     		"link_number" : "15: 15.0"
     		 
@@ -200,7 +200,7 @@
 				"text" : "Respuesta a un recordatorio del evento",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26203.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26203.html",
     			
     		"link_number" : "16: 16.0"
     		 
@@ -211,7 +211,7 @@
 				"text" : "Visualización de los participantes en una reunión",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26275.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26275.html",
     			
     		"link_number" : "17: 17.0"
     		 
@@ -222,7 +222,7 @@
 				"text" : "Personalización de Calendario",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26019.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26019.html",
     			
     		"link_number" : "18: 18.0"
     		 
@@ -233,7 +233,7 @@
 				"text" : "Sincronización manual del Calendario con cuentas en línea",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26155.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26155.html",
     			
     		"link_number" : "19: 19.0"
     		 
@@ -244,7 +244,7 @@
 				"text" : "Eliminación de una cuenta en línea del Calendario",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-mx/c000-01/d400-01/article/26243.html",
+    				"http://help.webosarchive.org:80/es-mx/c000-01/d400-01/article/26243.html",
     			
     		"link_number" : "20: 20.0"
     		 

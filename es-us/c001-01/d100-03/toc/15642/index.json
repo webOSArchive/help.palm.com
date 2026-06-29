@@ -35,7 +35,7 @@
 				"text" : "Obtención de información de contactos en Contactos",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/36148.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/36148.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Contactos vinculados en Contactos",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25371.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25371.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Uso de Contactos por primera vez",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/36221.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/36221.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Creación de un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25223.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25223.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "¿Dónde están los contactos transferidos con el asistente de transferencia de datos?",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25497.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25497.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Búsqueda de un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25319.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25319.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Visualización, edición o eliminación de información del contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25305.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25305.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Copia de un contacto en la tarjeta SIM",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25205.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25205.html",
     			
     		"link_number" : "8: 8.0"
     		 
@@ -123,7 +123,7 @@
 				"text" : "Añadir o cambiar la foto de un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25037.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25037.html",
     			
     		"link_number" : "9: 9.0"
     		 
@@ -134,7 +134,7 @@
 				"text" : "Adición de un tono a un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25051.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25051.html",
     			
     		"link_number" : "10: 10.0"
     		 
@@ -145,7 +145,7 @@
 				"text" : "Asignación de un marcado rápido a un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25145.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25145.html",
     			
     		"link_number" : "11: 11.0"
     		 
@@ -156,7 +156,7 @@
 				"text" : "Asignación de un mensaje de recordatorio a un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25131.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25131.html",
     			
     		"link_number" : "12: 12.0"
     		 
@@ -167,7 +167,7 @@
 				"text" : "Vinculación de un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25397.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25397.html",
     			
     		"link_number" : "13: 13.0"
     		 
@@ -178,7 +178,7 @@
 				"text" : "Desvinculación de un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25511.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25511.html",
     			
     		"link_number" : "14: 14.0"
     		 
@@ -189,7 +189,7 @@
 				"text" : "Adición de una entrada de contacto al Iniciador",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25067.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25067.html",
     			
     		"link_number" : "15: 15.0"
     		 
@@ -200,7 +200,7 @@
 				"text" : "Comunicarse con un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25161.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25161.html",
     			
     		"link_number" : "16: 16.0"
     		 
@@ -211,7 +211,7 @@
 				"text" : "Eliminación de un contacto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25285.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25285.html",
     			
     		"link_number" : "17: 17.0"
     		 
@@ -222,7 +222,7 @@
 				"text" : "Copia de un contacto como texto",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25175.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25175.html",
     			
     		"link_number" : "18: 18.0"
     		 
@@ -233,7 +233,7 @@
 				"text" : "Personalización de Contactos",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25253.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25253.html",
     			
     		"link_number" : "19: 19.0"
     		 
@@ -244,7 +244,7 @@
 				"text" : "Sincronización manual de Contactos con cuentas en línea",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25411.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25411.html",
     			
     		"link_number" : "20: 20.0"
     		 
@@ -255,7 +255,7 @@
 				"text" : "Eliminación de una cuenta en línea de Contactos",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/36140.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/36140.html",
     			
     		"link_number" : "21: 21.0"
     		 
@@ -266,7 +266,7 @@
 				"text" : "Envío de contactos",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25437.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25437.html",
     			
     		"link_number" : "22: 22.0"
     		 
@@ -277,7 +277,7 @@
 				"text" : "Recepción de vCard",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c001-01/d100-03/article/25115.html",
+    				"http://help.webosarchive.org:80/es-us/c001-01/d100-03/article/25115.html",
     			
     		"link_number" : "23: 23.0"
     		 

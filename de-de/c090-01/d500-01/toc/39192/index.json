@@ -35,7 +35,7 @@
 				"text" : "Systeminformationen anzeigen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40188.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40188.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Ihr Gerät umbenennen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40194.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40194.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Gerät zurücksetzen",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40492/index.html",
+    			"http://help.webosarchive.org:80/de-de/c090-01/d500-01/toc/40492/index.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Systemdiagnose durchführen",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40491/index.html",
+    			"http://help.webosarchive.org:80/de-de/c090-01/d500-01/toc/40491/index.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Benutzerdefinierte Anwendungen ausführen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/49458.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/49458.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Standardanwendungen ändern",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c090-01/d500-01/article/40187.html",
+    				"http://help.webosarchive.org:80/de-de/c090-01/d500-01/article/40187.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Zertifikatmanager verwenden",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c090-01/d500-01/toc/40490/index.html",
+    			"http://help.webosarchive.org:80/de-de/c090-01/d500-01/toc/40490/index.html",
     			
     		"link_number" : "7: 7.0"
     		 

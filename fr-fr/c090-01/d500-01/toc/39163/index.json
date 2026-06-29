@@ -25,7 +25,7 @@
 	"title": "Calendrier",
 	"app_name": "calendar",
 	"chat_appId": "calendar",
-	"icon": "http://help.palm.com/images/app_icons/Calendar.png",
+	"icon": "http://help.webosarchive.org/images/app_icons/Calendar.png",
 	"sort_by":null,
 	"json_result" : "Success",
 	"items": [
@@ -35,7 +35,7 @@
 				"text" : "Comment insérer des événements dans le Calendrier&nbsp;?",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/21902.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/21902.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Calendriers multicouches",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/37567.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/37567.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Première utilisation de l&#39;application Calendrier",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/37669.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/37669.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Configuration d&#39;un compte en ligne dans Calendrier",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41456.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/41456.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Création d&#39;un événement",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/38989.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/38989.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Saisie du lieu d&#39;un événement",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39051.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39051.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Invitation d&#39;autres personnes à un événement",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41468.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/41468.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Contacter les personnes invitées",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/41478.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/41478.html",
     			
     		"link_number" : "8: 8.0"
     		 
@@ -123,7 +123,7 @@
 				"text" : "Planification d&#39;un événement récurrent",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39065.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39065.html",
     			
     		"link_number" : "9: 9.0"
     		 
@@ -134,7 +134,7 @@
 				"text" : "Ajout d&#39;une alarme à un événement",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39069.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39069.html",
     			
     		"link_number" : "10: 10.0"
     		 
@@ -145,7 +145,7 @@
 				"text" : "Personnaliser les sons de notification d&#39;événement",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39077.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39077.html",
     			
     		"link_number" : "11: 11.0"
     		 
@@ -156,7 +156,7 @@
 				"text" : "Ajout d&#39;une note à un événement",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39089.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39089.html",
     			
     		"link_number" : "12: 12.0"
     		 
@@ -167,7 +167,7 @@
 				"text" : "Création d&#39;un événement se déroulant sur une journée entière (sans heure)",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39103.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39103.html",
     			
     		"link_number" : "13: 13.0"
     		 
@@ -178,7 +178,7 @@
 				"text" : "Changement de l&#39;affichage du Calendrier",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39109.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39109.html",
     			
     		"link_number" : "14: 14.0"
     		 
@@ -189,7 +189,7 @@
 				"text" : "Navigation dans Calendrier",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39114.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39114.html",
     			
     		"link_number" : "15: 15.0"
     		 
@@ -200,7 +200,7 @@
 				"text" : "Aperçu rapide du planning",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39118.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39118.html",
     			
     		"link_number" : "16: 16.0"
     		 
@@ -211,7 +211,7 @@
 				"text" : "Suppression d&#39;un événement",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39121.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39121.html",
     			
     		"link_number" : "17: 17.0"
     		 
@@ -222,7 +222,7 @@
 				"text" : "Réponse à un rappel d&#39;événement",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39125.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39125.html",
     			
     		"link_number" : "18: 18.0"
     		 
@@ -233,7 +233,7 @@
 				"text" : "Affichage des participants à une réunion",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39130.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39130.html",
     			
     		"link_number" : "19: 19.0"
     		 
@@ -244,7 +244,7 @@
 				"text" : "Personnalisation de Calendrier",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39132.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39132.html",
     			
     		"link_number" : "20: 20.0"
     		 
@@ -255,7 +255,7 @@
 				"text" : "Synchronisation manuelle du Calendrier avec vos comptes en ligne",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39136.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39136.html",
     			
     		"link_number" : "21: 21.0"
     		 
@@ -266,7 +266,7 @@
 				"text" : "Suppression d&#39;un compte en ligne à partir du Calendrier",
     			"url" : 
 				
-    				"http://help.palm.com:80/fr-fr/c090-01/d500-01/article/39138.html",
+    				"http://help.webosarchive.org:80/fr-fr/c090-01/d500-01/article/39138.html",
     			
     		"link_number" : "22: 22.0"
     		 

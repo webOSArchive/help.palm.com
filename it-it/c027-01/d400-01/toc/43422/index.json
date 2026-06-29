@@ -25,7 +25,7 @@
 	"title": "Uso di presentazioni e opzioni di visualizzazione in un documento di Microsoft PowerPoint®",
 	"app_name": "quickoffice",
 	"chat_appId": "quickoffice",
-	"icon": "http://help.palm.com/images/app_icons/quickoffice.png",
+	"icon": "http://help.webosarchive.org/images/app_icons/quickoffice.png",
 	"sort_by":null,
 	"json_result" : "Success",
 	"items": [
@@ -35,7 +35,7 @@
 				"text" : "Passaggio da una diapositiva all&#39;altra in una presentazione PowerPoint&reg;",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/18327.html",
+    				"http://help.webosarchive.org:80/it-it/c027-01/d400-01/article/18327.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Ingrandimento ed esecuzione di una panoramica di una diapositiva",
     			"url" : 
 				
-    				"http://help.palm.com:80/it-it/c027-01/d400-01/article/18341.html",
+    				"http://help.webosarchive.org:80/it-it/c027-01/d400-01/article/18341.html",
     			
     		"link_number" : "2: 2.0"
     		 

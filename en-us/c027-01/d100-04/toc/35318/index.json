@@ -25,7 +25,7 @@
 	"title": "Exhibition",
 	"app_name": "exhibition",
 	"chat_appId": "exhibition",
-	"icon": "http://help.palm.com/images/app_icons/exhibition.png",
+	"icon": "http://help.webosarchive.org/images/app_icons/exhibition.png",
 	"sort_by":null,
 	"json_result" : "Success",
 	"items": [
@@ -35,7 +35,7 @@
 				"text" : "Start Exhibition",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/35278.html",
+    				"http://help.webosarchive.org:80/en-us/c027-01/d100-04/article/35278.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Exit Exhibition",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/35282.html",
+    				"http://help.webosarchive.org:80/en-us/c027-01/d100-04/article/35282.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Use Exhibition",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/35283.html",
+    				"http://help.webosarchive.org:80/en-us/c027-01/d100-04/article/35283.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Use your smartphone as a clock",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/35284.html",
+    				"http://help.webosarchive.org:80/en-us/c027-01/d100-04/article/35284.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "View a picture slideshow",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/35285.html",
+    				"http://help.webosarchive.org:80/en-us/c027-01/d100-04/article/35285.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "View your day&#39;s agenda",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/35286.html",
+    				"http://help.webosarchive.org:80/en-us/c027-01/d100-04/article/35286.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Customize Exhibition settings",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c027-01/d100-04/article/35287.html",
+    				"http://help.webosarchive.org:80/en-us/c027-01/d100-04/article/35287.html",
     			
     		"link_number" : "7: 7.0"
     		 

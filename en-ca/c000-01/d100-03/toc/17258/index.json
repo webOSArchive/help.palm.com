@@ -35,7 +35,7 @@
 				"text" : "View system information",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/23239.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d100-03/article/23239.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Rename your smartphone",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/23225.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d100-03/article/23225.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Reset your phone",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/17360/index.html",
+    			"http://help.webosarchive.org:80/en-us/c000-01/d100-03/toc/17360/index.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Run system tests",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/17368/index.html",
+    			"http://help.webosarchive.org:80/en-us/c000-01/d100-03/toc/17368/index.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Change default applications",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c000-01/d100-03/article/23201.html",
+    				"http://help.webosarchive.org:80/en-us/c000-01/d100-03/article/23201.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Use certificate manager",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c000-01/d100-03/toc/17364/index.html",
+    			"http://help.webosarchive.org:80/en-us/c000-01/d100-03/toc/17364/index.html",
     			
     		"link_number" : "6: 6.0"
     		 

@@ -35,7 +35,7 @@
 				"text" : "Basics",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/15228/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/15228/index.html",
     			
     		"link_number" : "1: 1.100"
     		     
@@ -49,7 +49,7 @@
 				"text" : "Phone",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/16156/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/16156/index.html",
     			
     		"link_number" : "2: 1.100"
     		     
@@ -63,7 +63,7 @@
 				"text" : "Launcher",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18893/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18893/index.html",
     			
     		"link_number" : "3: 1.100"
     		     
@@ -73,11 +73,11 @@
 				"category": "Basics",
 				"english_app_name": "App Catalog",
 				"app_name": "app_catalog",
-				"icon": "http://help.palm.com/images/app_icons/app_catalog.png",
+				"icon": "http://help.webosarchive.org/images/app_icons/app_catalog.png",
 				"text" : "App Catalog",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/19036/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/19036/index.html",
     			
     		"link_number" : "4: 1.100"
     		     
@@ -91,7 +91,7 @@
 				"text" : "Email",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/15438/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/15438/index.html",
     			
     		"link_number" : "5: 2.100"
     		     
@@ -105,7 +105,7 @@
 				"text" : "Messaging",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/15576/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/15576/index.html",
     			
     		"link_number" : "6: 2.100"
     		     
@@ -119,7 +119,7 @@
 				"text" : "Calendar",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/15628/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/15628/index.html",
     			
     		"link_number" : "7: 3.100"
     		     
@@ -133,7 +133,7 @@
 				"text" : "Contacts",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/15658/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/15658/index.html",
     			
     		"link_number" : "8: 3.100"
     		     
@@ -147,7 +147,7 @@
 				"text" : "Tasks",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18848/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18848/index.html",
     			
     		"link_number" : "9: 3.100"
     		     
@@ -161,7 +161,7 @@
 				"text" : "Clock",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18820/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18820/index.html",
     			
     		"link_number" : "10: 3.100"
     		     
@@ -171,11 +171,11 @@
 				"category": "Personal Information",
 				"english_app_name": "Facebook",
 				"app_name": "facebook",
-				"icon": "http://help.palm.com/images/app_icons/facebook.png",
+				"icon": "http://help.webosarchive.org/images/app_icons/facebook.png",
 				"text" : "Facebook",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18752/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18752/index.html",
     			
     		"link_number" : "11: 3.100"
     		     
@@ -189,7 +189,7 @@
 				"text" : "Photos",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18722/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18722/index.html",
     			
     		"link_number" : "12: 4.100"
     		     
@@ -203,7 +203,7 @@
 				"text" : "Music",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/15664/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/15664/index.html",
     			
     		"link_number" : "13: 4.100"
     		     
@@ -213,11 +213,11 @@
 				"category": "Media",
 				"english_app_name": "",
 				"app_name": "amazon",
-				"icon": "http://help.palm.com/images/app_icons/amazon_mp3.png",
+				"icon": "http://help.webosarchive.org/images/app_icons/amazon_mp3.png",
 				"text" : "Amazon MP3",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18654/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18654/index.html",
     			
     		"link_number" : "14: 4.100"
     		     
@@ -231,7 +231,7 @@
 				"text" : "Videos",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18630/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18630/index.html",
     			
     		"link_number" : "15: 4.100"
     		     
@@ -245,7 +245,7 @@
 				"text" : "YouTube",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18580/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18580/index.html",
     			
     		"link_number" : "16: 4.100"
     		     
@@ -259,7 +259,7 @@
 				"text" : "Web",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/15694/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/15694/index.html",
     			
     		"link_number" : "17: 4.100"
     		     
@@ -273,7 +273,7 @@
 				"text" : "Location Services",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18488/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18488/index.html",
     			
     		"link_number" : "18: 4.100"
     		     
@@ -287,7 +287,7 @@
 				"text" : "Wi-Fi",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/15710/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/15710/index.html",
     			
     		"link_number" : "19: 4.100"
     		     
@@ -297,11 +297,11 @@
 				"category": "Web and Wireless",
 				"english_app_name": "Palm Mobile Hotspot",
 				"app_name": "mobilehotspot",
-				"icon": "http://help.palm.com/images/app_icons/mobilehotspot.png",
+				"icon": "http://help.webosarchive.org/images/app_icons/mobilehotspot.png",
 				"text" : "Palm Mobile Hotspot",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18378/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18378/index.html",
     			
     		"link_number" : "20: 4.100"
     		     
@@ -315,7 +315,7 @@
 				"text" : "Bluetooth",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18348/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18348/index.html",
     			
     		"link_number" : "21: 4.100"
     		     
@@ -329,7 +329,7 @@
 				"text" : "Doc View",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/18054/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/18054/index.html",
     			
     		"link_number" : "22: 6.100"
     		     
@@ -343,7 +343,7 @@
 				"text" : "PDF View",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17978/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17978/index.html",
     			
     		"link_number" : "23: 6.100"
     		     
@@ -357,7 +357,7 @@
 				"text" : "Memos",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17940/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17940/index.html",
     			
     		"link_number" : "24: 6.100"
     		     
@@ -371,7 +371,7 @@
 				"text" : "Calculator",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17902/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17902/index.html",
     			
     		"link_number" : "25: 6.100"
     		     
@@ -385,7 +385,7 @@
 				"text" : "Sounds &amp; Ringtones",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17864/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17864/index.html",
     			
     		"link_number" : "26: 7.100"
     		     
@@ -399,7 +399,7 @@
 				"text" : "Screen &amp; Lock",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17822/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17822/index.html",
     			
     		"link_number" : "27: 7.100"
     		     
@@ -413,7 +413,7 @@
 				"text" : "Date &amp; Time",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17760/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17760/index.html",
     			
     		"link_number" : "28: 7.100"
     		     
@@ -427,7 +427,7 @@
 				"text" : "Regional Settings",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17730/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17730/index.html",
     			
     		"link_number" : "29: 7.100"
     		     
@@ -441,7 +441,7 @@
 				"text" : "Device Info",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17264/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17264/index.html",
     			
     		"link_number" : "30: 8.100"
     		     
@@ -455,7 +455,7 @@
 				"text" : "Backup",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17572/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17572/index.html",
     			
     		"link_number" : "31: 8.100"
     		     
@@ -469,7 +469,7 @@
 				"text" : "Updates",
     			"url" : 
 				
-    			"http://help.palm.com:80/en-us/c027-01/d200-03/toc/17682/index.html",
+    			"http://help.webosarchive.org:80/en-us/c027-01/d200-03/toc/17682/index.html",
     			
     		"link_number" : "32: 8.100"
     		     

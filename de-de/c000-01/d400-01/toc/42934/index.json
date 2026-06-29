@@ -25,7 +25,7 @@
 	"title": "VPN",
 	"app_name": "vpn",
 	"chat_appId": "vpn",
-	"icon": "http://help.palm.com/images/app_icons/vpn.png",
+	"icon": "http://help.webosarchive.org/images/app_icons/vpn.png",
 	"sort_by":null,
 	"json_result" : "Success",
 	"items": [
@@ -35,7 +35,7 @@
 				"text" : "Was ist die VPN-App?",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/10577.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/10577.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "VPNC VPN-Profil hinzufügen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/9179.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/9179.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Fügen Sie ein Cisco AnyConnect VPN-Profil hinzu.",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/9017.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/9017.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Verbindung zu einem Profil herstellen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/9323.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/9323.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Statistik für ein verbundenes Profil anzeigen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/10375.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/10375.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Verbindung zu einem Profil trennen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/9783.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/9783.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Profil bearbeiten",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/10195.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/10195.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Profil löschen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d400-01/article/9553.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d400-01/article/9553.html",
     			
     		"link_number" : "8: 8.0"
     		 

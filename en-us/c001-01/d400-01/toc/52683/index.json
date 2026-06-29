@@ -35,7 +35,7 @@
 				"text" : "Set up email",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/42312.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d400-01/article/42312.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Set up email: Microsoft Exchange and Lotus Notes",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/42320.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d400-01/article/42320.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Set up email when automatic setup fails",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/42327.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d400-01/article/42327.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Enter advanced account settings",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/22489.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d400-01/article/22489.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Change account login settings",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/22461.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d400-01/article/22461.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Rename an email account",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/22499.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d400-01/article/22499.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Delete an email account",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-us/c001-01/d400-01/article/22447.html",
+    				"http://help.webosarchive.org:80/en-us/c001-01/d400-01/article/22447.html",
     			
     		"link_number" : "7: 7.0"
     		 

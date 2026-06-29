@@ -35,7 +35,7 @@
 				"text" : "Überblick über das Telefon",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38694/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38694/index.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "SIM-Karte einsetzen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/38256.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/38256.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Akku aufladen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/38250.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/38250.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Akkulaufzeit maximieren",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/459.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/459.html",
     			
     		"link_number" : "4: 4.0"
     		 
@@ -79,7 +79,7 @@
 				"text" : "Telefon ein- und ausschalten",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38695/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38695/index.html",
     			
     		"link_number" : "5: 5.0"
     		 
@@ -90,7 +90,7 @@
 				"text" : "Auf dem Telefon navigieren",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38697/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38697/index.html",
     			
     		"link_number" : "6: 6.0"
     		 
@@ -101,7 +101,7 @@
 				"text" : "Anwendungen öffnen",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38700/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38700/index.html",
     			
     		"link_number" : "7: 7.0"
     		 
@@ -112,7 +112,7 @@
 				"text" : "Anwendungen verwalten",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38701/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38701/index.html",
     			
     		"link_number" : "8: 8.0"
     		 
@@ -123,7 +123,7 @@
 				"text" : "Daten eingeben und speichern",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38698/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38698/index.html",
     			
     		"link_number" : "9: 9.0"
     		 
@@ -134,7 +134,7 @@
 				"text" : "Menüs verwenden",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38703/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38703/index.html",
     			
     		"link_number" : "10: 10.0"
     		 
@@ -145,7 +145,7 @@
 				"text" : "Informationen suchen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/42748.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/42748.html",
     			
     		"link_number" : "11: 11.0"
     		 
@@ -156,7 +156,7 @@
 				"text" : "Benachrichtigungen anzeigen und verwenden",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26837.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/26837.html",
     			
     		"link_number" : "12: 12.0"
     		 
@@ -167,7 +167,7 @@
 				"text" : "Persönliche Daten zwischen Telefon und Computer synchronisieren und Dateien kopieren",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38707/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38707/index.html",
     			
     		"link_number" : "13: 13.0"
     		 
@@ -178,7 +178,7 @@
 				"text" : "Dateien von Ihrem Smartphone löschen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26637.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/26637.html",
     			
     		"link_number" : "14: 14.0"
     		 
@@ -189,7 +189,7 @@
 				"text" : "Datenübertragungsassistent (DTA) verwenden",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38511/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38511/index.html",
     			
     		"link_number" : "15: 15.0"
     		 
@@ -200,7 +200,7 @@
 				"text" : "Warum der Bildschirm dunkel wird",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26653.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/26653.html",
     			
     		"link_number" : "16: 16.0"
     		 
@@ -211,7 +211,7 @@
 				"text" : "Mit Netz verbinden",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26579.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/26579.html",
     			
     		"link_number" : "17: 17.0"
     		 
@@ -222,7 +222,7 @@
 				"text" : "Bildschirmfotos aufnehmen",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26799.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/26799.html",
     			
     		"link_number" : "18: 18.0"
     		 
@@ -233,7 +233,7 @@
 				"text" : "6Ts: Sechs Tipps, damit Ihr Telefon wieder funktioniert",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38709/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38709/index.html",
     			
     		"link_number" : "19: 19.0"
     		 
@@ -244,7 +244,7 @@
 				"text" : "Hilfe verwenden",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38713/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38713/index.html",
     			
     		"link_number" : "20: 20.0"
     		 
@@ -255,7 +255,7 @@
 				"text" : "Weitere Informationen",
     			"url" : 
 				
-    			"http://help.palm.com:80/de-de/c000-01/d300-01/toc/38715/index.html",
+    			"http://help.webosarchive.org:80/de-de/c000-01/d300-01/toc/38715/index.html",
     			
     		"link_number" : "21: 21.0"
     		 
@@ -266,7 +266,7 @@
 				"text" : "Copyright",
     			"url" : 
 				
-    				"http://help.palm.com:80/de-de/c000-01/d300-01/article/26607.html",
+    				"http://help.webosarchive.org:80/de-de/c000-01/d300-01/article/26607.html",
     			
     		"link_number" : "22: 22.0"
     		 

@@ -35,7 +35,7 @@
 				"text" : "Encendido/apagado de la pantalla",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27003.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/27003.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Activación/desactivación de todos los servicios inalámbricos (modo Vuelo)",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/27037.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/27037.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "Apagado del smartphone",
     			"url" : 
 				
-    				"http://help.palm.com:80/es-us/c000-01/d400-01/article/26971.html",
+    				"http://help.webosarchive.org:80/es-us/c000-01/d400-01/article/26971.html",
     			
     		"link_number" : "3: 3.0"
     		 

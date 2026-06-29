@@ -35,7 +35,7 @@
 				"text" : "Install a certificate from USB Drive storage",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/23291.html",
+    				"http://help.webosarchive.org:80/en-ie/c000-01/d400-01/article/23291.html",
     			
     		"link_number" : "1: 1.0"
     		 
@@ -46,7 +46,7 @@
 				"text" : "Install a certificate from an email attachment",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/23303.html",
+    				"http://help.webosarchive.org:80/en-ie/c000-01/d400-01/article/23303.html",
     			
     		"link_number" : "2: 2.0"
     		 
@@ -57,7 +57,7 @@
 				"text" : "View certificate details",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/23335.html",
+    				"http://help.webosarchive.org:80/en-ie/c000-01/d400-01/article/23335.html",
     			
     		"link_number" : "3: 3.0"
     		 
@@ -68,7 +68,7 @@
 				"text" : "Delete a certificate",
     			"url" : 
 				
-    				"http://help.palm.com:80/en-ie/c000-01/d400-01/article/23321.html",
+    				"http://help.webosarchive.org:80/en-ie/c000-01/d400-01/article/23321.html",
     			
     		"link_number" : "4: 4.0"
     		 
